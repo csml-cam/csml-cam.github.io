@@ -1,15 +1,17 @@
 ---
-title: "Allan Lab - AOA"
+title: "Reading group"
 layout: textlay
-excerpt: "AOA"
+excerpt: "Reading group planning page"
 sitemap: false
-permalink: /aoa.html
+permalink: /reading_group.html
 ---
 
-# Calendar
+We meet every week on Friday at 15:00. 
 
-Every Tuesday at 9:30 in HL124.
 
-05.09.2017 Aarts
 
-dfghjkl
+# Michaelmas Term 2020 schedule
+
+
+
+
