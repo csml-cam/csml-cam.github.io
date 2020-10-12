@@ -14,6 +14,12 @@
   education1: MRes in Future Infrastructure and Built Environment, University of Cambridge (2020)
   education2: Bachelors in Statistics and Computer Science, University of Warwick (2018)
 
+- name: Ben Boys
+  photo: ben_boys.jpg
+  info: Ben is a PhD student in the Future Infrastructure and Built Environment CDT at the University of Cambridge supervised by Professor Mark Girolami. During his PhD, he will be working on developing probabilistic models that simulate outcomes of schedules, building upon state-of-the-art deep learning technologies already developed at his co-sponsor company nPlan. Prior to Cambridge, he was working as a Research Assistant at the Data Centric Engineering Group at the University of Exeter.
+  email: bb515@cam.ac.uk
+  website: https://github.com/bb515
+
 - name: Jan Povala
   photo: jan_povala.jpg
   info: Jan is a PhD student in the Statistics Section at Imperial College London, supervised by Professor Niall Adams and Professor Mark Girolami. His research is focused on statistical spatio-temporal models. During his PhD he was seconded to the Strategic Insights Unit of the Metropolitan Police Service.
