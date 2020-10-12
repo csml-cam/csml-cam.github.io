@@ -1,7 +1,7 @@
 ---
-title: "CSML@Cambridge - Team"
+title: "CSML@Cam - Team"
 layout: gridlay
-excerpt: "CSML@Cambridge: Team members"
+excerpt: "CSML@Cam: Team members"
 sitemap: false
 permalink: /team/
 ---

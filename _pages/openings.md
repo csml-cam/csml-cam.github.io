@@ -1,5 +1,5 @@
 ---
-title: "CSML@Cambrdige - Vacancies"
+title: "CSML@Cam - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

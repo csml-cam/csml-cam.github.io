@@ -1,5 +1,5 @@
 ---
-title: "CSML@Cambrdige - Home"
+title: "CSML@Cam - Home"
 layout: homelay
 excerpt: "Computational Statistics and Machine Learning Group at University of Cambridge."
 sitemap: false
@@ -58,11 +58,12 @@ We are a research group at the [Engineering Deparment](http://www.eng.cam.ac.uk/
 
 
 
-Our work is funded by [EPSRC](https://epsrc.ukri.org/), [Lloyd's Register Foundation](https://www.lrfoundation.org.uk/en/), [ARUP](https://www.arup.com/), [splunk](https://www.splunk.com/)
+Our work is funded by [EPSRC](https://epsrc.ukri.org/), [Lloyd's Register Foundation](https://www.lrfoundation.org.uk/en/), [ARUP](https://www.arup.com/), [splunk](https://www.splunk.com/), [nPlan](https://www.nplan.io/).
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-esprc.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-lrf.svg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-arup.png" style="width: 120px">
+<figure class="fifth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-esprc.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-lrf.svg" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-arup.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-splunk-black-white-bg.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-nplan.png" style="width: 70px">
 </figure>

@@ -1,7 +1,7 @@
 ---
-title: "Reading group"
+title: "CSML@Cam - Reading group"
 layout: textlay
-excerpt: "Reading group planning page"
+excerpt: "CSML@Cam - Reading group planning page"
 sitemap: false
 permalink: /reading_group.html
 ---

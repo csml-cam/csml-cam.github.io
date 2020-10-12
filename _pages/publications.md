@@ -1,7 +1,7 @@
 ---
-title: "CSML@Cambridge - Publications"
+title: "CSML@Cam - Publications"
 layout: gridlay
-excerpt: "CSML@Cambridge -- Publications."
+excerpt: "CSML@Cam - Publications."
 sitemap: false
 permalink: /publications/
 ---
