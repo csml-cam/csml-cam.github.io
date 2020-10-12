@@ -9,8 +9,8 @@
 title: CSML @ Cambridge
 email: mag92@cam.ac.uk
 description: "Pages of the CSML group in the Engineering Department at University of Cambridge"
-baseurl: "https://csml-cam.github.io"
-url: "https://csml-cam.github.io"
+baseurl: ""
+url: ""
 
 include:
   - .htaccess
