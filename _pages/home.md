@@ -1,5 +1,5 @@
 ---
-title: "CSML@Cam - Home"
+title: "CSML@Cambrdige - Home"
 layout: homelay
 excerpt: "Computational Statistics and Machine Learning Group at University of Cambridge."
 sitemap: false

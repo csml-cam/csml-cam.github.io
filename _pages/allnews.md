@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "CSML @ Cambridge."
+excerpt: "CSML@Cambridge."
 sitemap: false
 permalink: /allnews.html
 ---
