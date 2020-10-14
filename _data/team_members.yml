@@ -14,15 +14,6 @@
   education1: Engineering Doctorate in Computer Science, University of Bath, UK (2020)
   education2:  MMath in Mathematics, University of Durham, UK (2014)
 
-- name: Yannis Zachos
-  photo: yannis_zachos.jpg
-  info: Yannis is a PhD student in the Future Infrastructure and Built Environment CDT at the University of Cambridge supervised by Professor Mark Girolami. During his PhD, he will be working on probabilistic modelling of transportation problems in liaison with his co-sponsor company Arup. Yannis is also affiliated with the data-centric engineering programme at the Alan Turing Institute in London. Prior to Cambridge, he was working as a Statistical Scientist at an AI startup in London
-  email: i230@cam.ac.uk
-  website:  https://yannisza.github.io/
-  number_educ: 2
-  education1: MRes in Future Infrastructure and Built Environment, University of Cambridge (2020)
-  education2: Bachelors in Statistics and Computer Science, University of Warwick (2018)
-
 - name: Ben Boys
   photo: ben_boys.jpg
   info: Ben is a PhD student in the Future Infrastructure and Built Environment CDT at the University of Cambridge supervised by Professor Mark Girolami. During his PhD, he will be working on developing probabilistic models that simulate outcomes of schedules, building upon state-of-the-art deep learning technologies already developed at his co-sponsor company nPlan. Prior to Cambridge, he was working as a Research Assistant at the Data Centric Engineering Group at the University of Exeter.
@@ -30,6 +21,15 @@
   website: https://github.com/bb515
   number_educ: 1
   education1: MEng in Information and Computer Engineering, University of Cambridge (2020)
+
+- name: Andrius Ovsianas
+  photo: andrius-ovsianas.jpg
+  info: Andrius is a PhD student in Engineering Departman at the University of Cambridge supervised by Professor Mark Girolami. During his PhD he will be developing probabilistic models for structural health monitoring using satellite data. His PhD is co-sponsored by EDF Energy.
+  email: ao464@cam.ac.uk
+  website: https://ciupakabra.github.io/
+  number_educ: 2
+  education1: MPhil in Machine Learning and Machine Intelligence at the University of Cambridge (2020)
+  education2: BA in Mathematics and Computer Science at the University of Oxford (2019)
 
 - name: Jan Povala
   photo: jan_povala.jpg
@@ -39,6 +39,15 @@
   number_educ: 2
   education1: MRes in Financial Computing, University College London (2018)
   education2: MEng in Computing, Imperial College London (2015)
+
+- name: Yannis Zachos
+  photo: yannis_zachos.jpg
+  info: Yannis is a PhD student in the Future Infrastructure and Built Environment CDT at the University of Cambridge supervised by Professor Mark Girolami. During his PhD, he will be working on probabilistic modelling of transportation problems in liaison with his co-sponsor company Arup. Yannis is also affiliated with the data-centric engineering programme at the Alan Turing Institute in London. Prior to Cambridge, he was working as a Statistical Scientist at an AI startup in London
+  email: i230@cam.ac.uk
+  website:  https://yannisza.github.io/
+  number_educ: 2
+  education1: MRes in Future Infrastructure and Built Environment, University of Cambridge (2020)
+  education2: Bachelors in Statistics and Computer Science, University of Warwick (2018)
 
 - name: "Join us..."
   photo: bio-photo.jpg
