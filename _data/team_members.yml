@@ -22,6 +22,15 @@
   number_educ: 1
   education1: MEng in Information and Computer Engineering, University of Cambridge (2020)
 
+- name: Justin Bunker
+  photo: justin_bunker.png
+  info: Justin is a PhD student who is supervised by Professor Mark Girolami in the Engineering department at the University of Cambridge. His research involves the study of statistical approaches for dealing with streaming data. Before starting his PhD, he worked for two years as a software engineer at a trading firm then returned to academia to complete an MPhil and continue on as a research assistant. His PhD is funded by Splunk Inc.
+  email: jb2200@cantab.ac.uk
+  website: https://github.com/bunkerj
+  number_educ: 2
+  education1: MPhil in Machine Learning and Machine Intelligence, University of Cambridge (2019)
+  education2: BEng in Computer Engineering, Concordia University (2016)
+
 - name: Alex Glyn-Davies
   photo: bio-photo.jpg
   info: Alex is a PhD student at the Cambridge University Engineering Department, supervised by Professor Mark Girolami.  His PhD is sponsored by Splunk Inc, and will be researching machine learning for data streaming applications.  He completed a MEng at Cambridge, with his masters thesis focussing on efficient parameter estimation for particle filtering algorithms.
