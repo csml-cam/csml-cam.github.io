@@ -30,6 +30,14 @@
   number_educ: 2
   education1: MPhil in Machine Learning and Machine Intelligence, University of Cambridge (2019)
   education2: BEng in Computer Engineering, Concordia University (2016)
+  
+- name: Connor Duffin
+  photo: connor_duffin.jpg
+  info: Connor is a Ph.D. student in the Department of Mathematics and Statistics at the University of Western Australia, supervised by Edward Cripps, Thomas Stemler, and Professor Mark Girolami. His research focusses on developing statistical methodology to combine nonlinear partial differential equations with observed data. He is partially funded by the ARC Offshore Hub for floating facilities at the University of Western Australia.
+  email: connor.duffin@research.uwa.edu.au
+  website: connor-duffin.github.io
+  number_educ: 1
+  education1: BSc (Hons) in Mathematics and Statistics, University of Western Australia
 
 - name: Alex Glyn-Davies
   photo: bio-photo.jpg
