@@ -6,7 +6,7 @@ import pypandoc
 google_scholar_ids = [
     '_ItyW58AAAAJ',  # Ieva Kazlauskaite
     'AH5v9Y0AAAAJ',  # Jan Povala
-    # 'BSoawXwAAAAJ',  # Mark Girolami
+    'BSoawXwAAAAJ',  # Mark Girolami
 ]
 
 import logging
@@ -17,11 +17,11 @@ all_publications_list = []
 
 # retrieve_all_articles
 for author_id in google_scholar_ids:
-    author_details_basic = scholarly.search_author_id(author_id, filled=False)
+    author_details_basic = scholarly.search_author_id(author_id, filled=True)
     author_details_publications = author_details_basic.fill(sections=['publications'])
     print(f"Processing {author_details_basic.name}'s publications")
     for pub in author_details_publications.publications:
-        all_publications_list.append(pub.fill())
+        all_publications_list.append(pub)
 
 
 unique_publications = list(toolz.unique(all_publications_list, key=lambda x: x.id_citations))
@@ -37,7 +37,7 @@ for pub in sorted_pubs_year:
     if 'journal' in pub.bib.keys():
         publications_md_content += f"{pub.bib['journal']}"
         if 'volume' in pub.bib.keys() and 'pages' in pub.bib.keys():
-            publications_md_content += f"{pub.bib['volume']}: {pub.bib['pages']}. "
+            publications_md_content += f", {pub.bib['volume']}: {pub.bib['pages']}. "
         else:
             publications_md_content += ". "
     elif  'publisher' in pub.bib.keys():
