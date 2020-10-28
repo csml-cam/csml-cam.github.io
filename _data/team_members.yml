@@ -5,6 +5,15 @@
   website: https://prof-girolami.uk/
   number_educ: 0
 
+- name: Alessandro Barp
+  photo: alessandro_barp.jpg
+  info: Alessandro is a Research Associate (postdoc) in the Engineering Department at the University of Cambridge and a visiting researcher at The Alan Turing Institute. His research focuses on the empowerment of measures via the geometrisation of statistical methods, such as Hamiltonian Monte Carlo and kernel algorithms built with Stein operators. After having completed the MMathPhys of The University of Warwick and Part III of the Mathematical Tripos at Cambridge, he received his PhD from Imperial College London.
+  email: ab2286@cam.ac.uk
+  number_educ: 3
+  education1: PhD in Mathematics, Imperial College London (2020)
+  education2: MASt Part III of the Mathematical Tripos, The University of Cambridge (2016)
+  education3: MMathPhys, The University of Warwick  (2015)
+
 - name: Ieva Kazlauskaite
   photo: ieva_kazlauskaite.jpg
   info: Ieva is a Research Associate (postdoc) in the Engineering Department at the University of Cambridge funded by the [ICONIC](https://iconicmath.org/) grant. Her current research is in the area of data-centric engineering, focusing on structural problems and ways to combine statistical and numerical approaches to solutions of differential equations. Prior to that, Ieva completed her doctoral degree at the University of Bath working on Gaussian processes. During her doctoral studies she spent 3 years in industry as a Research Engineer / Engineering Doctorate student at the Frostbite Physics Team at Electronic Arts.

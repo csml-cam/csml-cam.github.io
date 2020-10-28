@@ -14,13 +14,22 @@ We meet every week on Friday at 15:00.
 
 In this term, we will focus on the topic of *approximate Bayesian computation* and *Stein methods*.
 
+#### 2010-10-30 Summary Statistics
 
-### 2010-10-16 Approximate Bayesian Computation (Part I)
-
-We will read chapter 1 of the [Handbook of Approximate Bayesian Computation](https://www.routledge.com/Handbook-of-Approximate-Bayesian-Computation/Sisson-Fan-Beaumont/p/book/9781439881507). 
-
-Full reference: 
+Alex will present chapter 5 of the [Handbook of Approximate Bayesian Computation](https://www.routledge.com/Handbook-of-Approximate-Bayesian-Computation/Sisson-Fan-Beaumont/p/book/9781439881507).  
 > Sisson, S. A., Y. Fan, and M. A. Beaumont, eds. 2019. Handbook of Approximate Bayesian Computation. Boca Raton: CRC Press, Taylor and Francis Group.
+
+#### 2010-10-23 Statistical Inference for Noisy Nonlinear Ecological Dynamic Systems
+
+Connor will present the following paper by Simon Wood.
+> Wood, Simon N. 2010. ‘Statistical Inference for Noisy Nonlinear Ecological Dynamic Systems’. Nature 466 (7310): 1102–4. [https://doi.org/10.1038/nature09319](https://doi.org/10.1038/nature09319).
+
+
+#### 2010-10-16 Introduction to Approximate Bayesian Computation
+
+Ieva will present the introductory chapter of the [Handbook of Approximate Bayesian Computation](https://www.routledge.com/Handbook-of-Approximate-Bayesian-Computation/Sisson-Fan-Beaumont/p/book/9781439881507). 
+> Sisson, S. A., Y. Fan, and M. A. Beaumont, eds. 2019. Handbook of Approximate Bayesian Computation. Boca Raton: CRC Press, Taylor and Francis Group.
+
 
 
 
