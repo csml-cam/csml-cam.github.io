@@ -1,0 +1,41 @@
+
+name: Orcid Bibliography downloaded
+
+# Run this workflow 15 minutes
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '*/15 * * * *'
+  push
+
+jobs:
+  # Set the job key. The key is displayed as the job name
+  # when a job name is not provided
+  super-lint:
+    # Name the Job
+    name: This will download publications which are registered on ORCID for every memeber of the group.
+    # Set the type of machine to run on
+    runs-on: ubuntu-latest 
+    steps:
+      # Checks out a copy of your repository on the ubuntu-latest machine
+      - name: Checkout code
+        uses: actions/checkout@v2
+      push
+      # this Action should follow steps to set up Python build environment
+      - name: Install Python dependencies
+        uses: py-actions/py-dependency-install@v2
+        with:
+          path: "requirements.txt"
+      - name: Run the Orcid Updater script
+        run: |
+          import os
+          print(os.environ['PATH'])
+          print(os.environ['ORCID_CLIENT_ID'])
+          import orcid
+        shell: python
+        env:
+          DEFAULT_BRANCH: gh-pages
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ORCID_CLIENT_ID: ${{secrets.ORCID_CLIENT_ID}}
+          ORCID_CLIENT_PASWORD: ${{secrets.ORCID_CLIENT_SECRET}}
+        
