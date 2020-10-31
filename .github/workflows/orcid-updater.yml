@@ -35,7 +35,7 @@ jobs:
           DEFAULT_BRANCH: gh-pages
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ORCID_CLIENT_ID: ${{secrets.ORCID_CLIENT_ID}}
-          ORCID_CLIENT_PASWORD: ${{secrets.ORCID_CLIENT_SECRET}}
+          ORCID_CLIENT_SECRET: ${{secrets.ORCID_CLIENT_SECRET}}
       - name: check for changes
         run: git status
       - name: stage changed files
