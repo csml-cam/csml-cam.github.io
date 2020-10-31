@@ -11,7 +11,7 @@ on:
 jobs:
   # Set the job key. The key is displayed as the job name
   # when a job name is not provided
-  super-lint:
+  orcid-sync:
     # Name the Job
     name: This will download publications which are registered on ORCID for every memeber of the group.
     # Set the type of machine to run on
@@ -20,7 +20,6 @@ jobs:
       # Checks out a copy of your repository on the ubuntu-latest machine
       - name: Checkout code
         uses: actions/checkout@v2
-      push
       # this Action should follow steps to set up Python build environment
       - name: Install Python dependencies
         uses: py-actions/py-dependency-install@v2
