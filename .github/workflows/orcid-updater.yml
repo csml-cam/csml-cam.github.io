@@ -26,7 +26,7 @@ jobs:
         with:
           path: "requirements.txt"
       - name: Run the Orcid Updater script
-        run: pull_publications_orcid.py
+        run: python pull_publications_orcid.py
         shell: python
         env:
           DEFAULT_BRANCH: gh-pages
