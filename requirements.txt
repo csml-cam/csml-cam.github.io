@@ -1,3 +1,5 @@
 orcid
 python-dotenv
-
+pybtex
+requests
+pypandoc
