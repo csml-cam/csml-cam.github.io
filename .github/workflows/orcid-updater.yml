@@ -27,7 +27,6 @@ jobs:
           path: "requirements.txt"
       - name: Run the Orcid Updater script
         run: python pull_publications_orcid.py
-        shell: python
         env:
           DEFAULT_BRANCH: gh-pages
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
