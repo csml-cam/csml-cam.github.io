@@ -1,7 +1,6 @@
 import orcid
 import os
 from requests import RequestException
-from dotenv import load_dotenv
 import requests
 import pybtex
 import pypandoc
@@ -18,8 +17,6 @@ def doi2bib(doi):
     return r.text
 
 if __name__ == '__main__':
-    load_dotenv()
-
     orcid_ids = [
         "0000-0002-5112-7373",  # Jan
         "0000-0002-7503-2117",  # Ioannis
