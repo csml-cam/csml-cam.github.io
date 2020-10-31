@@ -14,10 +14,11 @@ We meet every week on Friday at 15:00.
 
 In this term, we will focus on the topic of *approximate Bayesian computation* and *Stein methods*.
 
-#### 2010-10-30 Summary Statistics
+#### 2010-10-30 Summary Statistics ([notes](_support_files/reading_group/2020_10_30_reading_group_alex_summary_statistics.pdf))
 
 Alex will present chapter 5 of the [Handbook of Approximate Bayesian Computation](https://www.routledge.com/Handbook-of-Approximate-Bayesian-Computation/Sisson-Fan-Beaumont/p/book/9781439881507).  
 > Sisson, S. A., Y. Fan, and M. A. Beaumont, eds. 2019. Handbook of Approximate Bayesian Computation. Boca Raton: CRC Press, Taylor and Francis Group.
+
 
 #### 2010-10-23 Statistical Inference for Noisy Nonlinear Ecological Dynamic Systems
 
