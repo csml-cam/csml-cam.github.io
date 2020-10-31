@@ -20,6 +20,10 @@ jobs:
       # Checks out a copy of your repository on the ubuntu-latest machine
       - name: Checkout code
         uses: actions/checkout@v2
+      - name: Set up python 3
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.7'
       # this Action should follow steps to set up Python build environment
       - name: Install Python dependencies
         uses: py-actions/py-dependency-install@v2
