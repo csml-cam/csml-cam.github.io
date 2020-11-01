@@ -27,7 +27,6 @@ if __name__ == '__main__':
         "0000-0002-5112-7373",  # Jan
         "0000-0002-7503-2117",  # Ioannis
         "0000-0003-3008-253X",  # Mark
-        # "0000-0001-6635-3261"
     ]
     api = orcid.PublicAPI(os.environ['ORCID_CLIENT_ID'], os.environ['ORCID_CLIENT_SECRET'])
     search_token = api.get_search_token_from_orcid()

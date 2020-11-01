@@ -5,7 +5,7 @@ name: Orcid Bibliography downloaded
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '*/15 * * * *'
+    - cron:  '*/60 * * * *'
   push:
 
 jobs:
@@ -29,6 +29,10 @@ jobs:
         uses: py-actions/py-dependency-install@v2
         with:
           path: "requirements.txt"
+      - name: Install Pandoc
+        uses: r-lib/actions/setup-pandoc@v1
+        with:
+          pandoc-version: 2.9.1
       - name: Run the Orcid Updater script
         run: python pull_publications_orcid.py
         env:
@@ -38,12 +42,18 @@ jobs:
           ORCID_CLIENT_SECRET: ${{secrets.ORCID_CLIENT_SECRET}}
       - name: check for changes
         run: git status
-      - name: stage changed files
-        run: git add .
-      - name: commit changed files
-        run: git commit -m "Auto updating TODO.txt"
-      - name: fetch from master
-        run: git fetch origin master
-      - name: push code to master
-        run: git push origin HEAD:master
+      - name: Check if there are changes
+        id: changes
+        uses: UnicornGlobal/has-changes-action@v1.0.11
+        # You can now access a variable indicating if there have been changes
+      - name: Process changes
+        if: steps.changes.outputs.changed == 1
+        run: |
+          echo "Changes exist"
+          git add .
+          git config --global user.email "jan.povala@gmail.com"
+          git config --global user.name "The deployment agent"
+          git commit -m "Auto updating TODO.txt"
+          git pull origin master
+          git push origin HEAD:master
         
