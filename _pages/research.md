@@ -16,7 +16,7 @@ permalink: /research/
 
 
 
-- In September 2020, Prof Mark Girolami gave a keynote talk title "Digital Twins: The Sense and Statistics" at the conference of Royal Statistical Society: 
+**September 2020**: Prof Mark Girolami gave a keynote talk title "Digital Twins: The Sense and Statistics" at the conference of Royal Statistical Society: 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cWIJNXQn8LI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
