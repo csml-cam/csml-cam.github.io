@@ -23,7 +23,6 @@ for author_id in google_scholar_ids:
     for pub in author_details_publications.publications:
         all_publications_list.append(pub)
 
-
 unique_publications = list(toolz.unique(all_publications_list, key=lambda x: x.id_citations))
 
 # remove those that don't have the author or the year and those that are older than 2010

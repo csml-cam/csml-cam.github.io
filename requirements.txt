@@ -4,3 +4,4 @@ pybtex
 requests
 pypandoc
 pandoc
+toolz
