@@ -47,9 +47,6 @@ representations of the data for a specific task. These methods will be applied
 to complex datasets from real situations, including text, images, videos, sensor
 signals, and cameras, resulting in intelligent decision based algorithms.
 
-{: .success title="My Collapsible Panel" .x}
-Some text
-
 ### Current work
 
 Our group is working on characertizing uncertainty in multimodal
