@@ -29,6 +29,10 @@ jobs:
         uses: py-actions/py-dependency-install@v2
         with:
           path: "requirements.txt"
+      - name: Install Pandoc
+        uses: r-lib/actions/setup-pandoc@v1
+        with:
+          pandoc-version: 2.9.1
       - name: Run the Orcid Updater script
         run: python pull_publications_orcid.py
         env:
