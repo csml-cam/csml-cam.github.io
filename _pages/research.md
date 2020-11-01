@@ -47,6 +47,13 @@ representations of the data for a specific task. These methods will be applied
 to complex datasets from real situations, including text, images, videos, sensor
 signals, and cameras, resulting in intelligent decision based algorithms.
 
+<details markdown="1">
+  <summary>With Code Block</summary>
+  
+#### Testing collapsible elements.
+Testing collapsible elements.
+</details>
+
 ### Current work
 
 Our group is working on characertizing uncertainty in multimodal
