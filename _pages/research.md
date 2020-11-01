@@ -8,10 +8,6 @@ permalink: /research/
 
 # Research
 
-Our work can be split into these different work streams.
-
-
-
 ## Digital Twins
 
 
@@ -36,10 +32,6 @@ The main website for the project can be found at [https://iconicmath.org/](https
 
 
 ## MURI: Semantic Information Pursuit for Multimodal Data Analysis
-<details><summary>CLICK ME</summary>
-<p>
-  
-### About
 
 In 1948 Shanon laid the foundations of information theory which
 revolutionized statistics, physics, engineering, and computer science. A strong
@@ -53,6 +45,9 @@ representations of the data for a specific task. These methods will be applied
 to complex datasets from real situations, including text, images, videos, sensor
 signals, and cameras, resulting in intelligent decision based algorithms.
 
+<details><summary>More details</summary>
+<p>
+  
 - [Grant website](http://vision.jhu.edu/infopursuit/)
 
 ### Current work
