@@ -31,7 +31,7 @@ The main website for the project can be found at [https://iconicmath.org/](https
 ## Probabilistic Numerics
 
 
-## MURI: Semantic Information Pursuit for Multimodal Data Analysis ([Grant website](http://vision.jhu.edu/infopursuit/))
+## Semantic Information Pursuit for Multimodal Data Analysis ([MURI](http://vision.jhu.edu/infopursuit/))
 
 ### About
 
