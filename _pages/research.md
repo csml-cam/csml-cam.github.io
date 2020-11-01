@@ -31,7 +31,9 @@ The main website for the project can be found at [https://iconicmath.org/](https
 ## Probabilistic Numerics
 
 
-## MURI: Semantic Information Pursuit for Multimodal Data Analysis
+## MURI: Semantic Information Pursuit for Multimodal Data Analysis ([Grant website](http://vision.jhu.edu/infopursuit/))
+
+### About
 
 In 1948 Shanon laid the foundations of information theory which
 revolutionized statistics, physics, engineering, and computer science. A strong
@@ -45,11 +47,6 @@ representations of the data for a specific task. These methods will be applied
 to complex datasets from real situations, including text, images, videos, sensor
 signals, and cameras, resulting in intelligent decision based algorithms.
 
-<details><summary>More details</summary>
-<p>
-  
-- [Grant website](http://vision.jhu.edu/infopursuit/)
-
 ### Current work
 
 Our group is working on characertizing uncertainty in multimodal
@@ -58,6 +55,3 @@ uncertainty of the information representations using both frequentists and
 Bayesian approaches. We will also develop efficient statistical sampling
 methods, which will be useful for both characterizing uncertainty and performing
 inference in the information pursuit framework.
-
-</p>
-</details>
