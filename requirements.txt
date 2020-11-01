@@ -3,3 +3,4 @@ python-dotenv
 pybtex
 requests
 pypandoc
+pandoc
