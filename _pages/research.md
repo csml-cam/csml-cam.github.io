@@ -36,9 +36,8 @@ The main website for the project can be found at [https://iconicmath.org/](https
 
 
 ## MURI: Semantic Information Pursuit for Multimodal Data Analysis
-
-<details>
-  <summary>Click to expand!</summary>
+<details><summary>CLICK ME</summary>
+<p>
   
 ### About
 
@@ -64,4 +63,6 @@ uncertainty of the information representations using both frequentists and
 Bayesian approaches. We will also develop efficient statistical sampling
 methods, which will be useful for both characterizing uncertainty and performing
 inference in the information pursuit framework.
+
+</p>
 </details>
