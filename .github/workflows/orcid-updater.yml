@@ -54,8 +54,7 @@ jobs:
         if: steps.changes.outputs.changed == 1
         run: |
           echo "Changes exist"
-          git add .
+          git add -u
           git commit -m "Auto updating the repository after running ORCID updater."
-          git pull origin master
-          git push origin HEAD:master
-        
+          git pull
+          git push 
