@@ -42,7 +42,7 @@ of Machine Learning Research, 2019.
 
 Erik Bodin, Markus Kaiser, Ieva Kazlauskaite, Neill D. F. Campbell, and
 Carl Henrik Ek. Modulated bayesian optimization using latent gaussian
-process models. 2019.
+process models. .
 
 Erik Bodin, Markus Kaiser, Ieva Kazlauskaite, Zhenwen Dai, Neill DF
 Campbell, and Carl Henrik Ek. Modulating surrogates for bayesian
