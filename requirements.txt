@@ -5,3 +5,4 @@ requests
 pypandoc
 pandoc
 toolz
+urllib3
