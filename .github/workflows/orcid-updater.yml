@@ -40,8 +40,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ORCID_CLIENT_ID: ${{secrets.ORCID_CLIENT_ID}}
           ORCID_CLIENT_SECRET: ${{secrets.ORCID_CLIENT_SECRET}}
-      - name: check for changes
-        run: git status
+      - name: View changes and set up git
+        run: |
+          git status
+          git config pull.rebase true
+          git config --global user.email "no-reply@csml-cam.github.io"
+          git config --global user.name "The deployment agent"
       - name: Check if there are changes
         id: changes
         uses: UnicornGlobal/has-changes-action@v1.0.11
@@ -51,9 +55,7 @@ jobs:
         run: |
           echo "Changes exist"
           git add .
-          git config --global user.email "jan.povala@gmail.com"
-          git config --global user.name "The deployment agent"
-          git commit -m "Auto updating TODO.txt"
+          git commit -m "Auto updating the repository after running ORCID updater."
           git pull origin master
           git push origin HEAD:master
         
