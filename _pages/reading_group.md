@@ -20,13 +20,13 @@ Alex will present chapter 5 of the [Handbook of Approximate Bayesian Computation
 > Sisson, S. A., Y. Fan, and M. A. Beaumont, eds. 2019. Handbook of Approximate Bayesian Computation. Boca Raton: CRC Press, Taylor and Francis Group.
 
 
-#### 2010-10-23 Statistical Inference for Noisy Nonlinear Ecological Dynamic Systems
+#### 2010-10-23 Statistical Inference for Noisy Nonlinear Ecological Dynamic Systems ([notes](_support_files/reading_group/2020_10_23_reading_group_connor_nonlinear_dynamics.pdf))
 
 Connor will present the following paper by Simon Wood.
 > Wood, Simon N. 2010. ‘Statistical Inference for Noisy Nonlinear Ecological Dynamic Systems’. Nature 466 (7310): 1102–4. [https://doi.org/10.1038/nature09319](https://doi.org/10.1038/nature09319).
 
 
-#### 2010-10-16 Introduction to Approximate Bayesian Computation ([notes](_support_files/reading_group/2010_10_16_ieva_intro-to-abc.pdf))
+#### 2010-10-16 Introduction to Approximate Bayesian Computation ([notes](_support_files/reading_group/2020_10_16_reading_group_ieva_intro-to-abc.pdf))
 
 Ieva will present the introductory chapter of the [Handbook of Approximate Bayesian Computation](https://www.routledge.com/Handbook-of-Approximate-Bayesian-Computation/Sisson-Fan-Beaumont/p/book/9781439881507). 
 > Sisson, S. A., Y. Fan, and M. A. Beaumont, eds. 2019. Handbook of Approximate Bayesian Computation. Boca Raton: CRC Press, Taylor and Francis Group.
