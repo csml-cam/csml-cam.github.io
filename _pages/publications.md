@@ -15,12 +15,12 @@ Statistics)*, 69(5):1067--1090, aug 2020. URL:
 <https://doi.org/10.1111%2Frssc.12431>,
 [doi:10.1111/rssc.12431](https://doi.org/10.1111/rssc.12431).
 
-Ivan Ustyuzhaninov, Ieva Kazlauskaite, Markus Kaiser, Erik Bodin, Neill
-Campbell, and Carl Henrik Ek. Compositional uncertainty in deep gaussian
-processes. In *Conference on Uncertainty in Artificial Intelligence*,
-480--489. PMLR, 2020.
+Ivan Ustyuzhaninov\*, Ieva Kazlauskaite\*, Markus Kaiser, Erik Bodin,
+Neill Campbell, and Carl Henrik Ek. Compositional uncertainty in deep
+gaussian processes. In *Conference on Uncertainty in Artificial
+Intelligence*, 480--489. PMLR, 2020.
 
-Ivan Ustyuzhaninov, Ieva Kazlauskaite, Carl Henrik Ek, and Neill DF
+Ivan Ustyuzhaninov\*, Ieva Kazlauskaite\*, Carl Henrik Ek, and Neill DF
 Campbell. Monotonic gaussian process flow. In *International Conference
 on Artificial Intelligence and Statistics (AISTATS 2020)*. arXiv
 preprint arXiv:1905.12930, 2020.
