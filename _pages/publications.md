@@ -8,13 +8,6 @@ permalink: /publications/
 
 # Publications
     
-Jan Povala, Seppo Virtanen, and Mark Girolami. Burglary in london:
-insights from statistical heterogeneous spatial point processes.
-*Journal of the Royal Statistical Society: Series C (Applied
-Statistics)*, 69(5):1067--1090, aug 2020. URL:
-<https://doi.org/10.1111%2Frssc.12431>,
-[doi:10.1111/rssc.12431](https://doi.org/10.1111/rssc.12431).
-
 Ivan Ustyuzhaninov\*, Ieva Kazlauskaite\*, Markus Kaiser, Erik Bodin,
 Neill Campbell, and Carl Henrik Ek. Compositional uncertainty in deep
 gaussian processes. In *Conference on Uncertainty in Artificial
