@@ -20,7 +20,7 @@ Andrius will present the following paper:
 > Sisson, S. A., Y. Fan, and M. M. Tanaka. “Sequential Monte Carlo without Likelihoods.” Proceedings of the National Academy of Sciences 104, no. 6 (February 6, 2007): 1760–65. [https://doi.org/10.1073/pnas.0607208104](https://doi.org/10.1073/pnas.0607208104).
 
 
-#### 2020-11-06 ABC Methods for Climate Modelling ([notes](_support_files/reading_group/2020_11_06_reading_group_yannis_abc_climate_modelling.pdf
+#### 2020-11-06 ABC Methods for Climate Modelling ([notes](_support_files/reading_group/2020_11_06_reading_group_yannis_abc_climate_modelling.pdf))
 
 Yannis will present present chapter 19 of the [Handbook of Approximate Bayesian Computation](https://www.routledge.com/Handbook-of-Approximate-Bayesian-Computation/Sisson-Fan-Beaumont/p/book/9781439881507).  
 > Sisson, S. A., Y. Fan, and M. A. Beaumont, eds. 2019. Handbook of Approximate Bayesian Computation. Boca Raton: CRC Press, Taylor and Francis Group.
