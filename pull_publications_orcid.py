@@ -111,7 +111,8 @@ if __name__ == '__main__':
     list_bibtex_strings = []
     for _, _, _, _, bib_str in pub_list:
         # add random string token to the bib id to prevent any clashes as bibtex is generated from multiple sources
-        parsed_bib_re = re.compile(r"^(@[a-z]+\{)([^\,]+)((.*\n.*)*)", re.MULTILINE)
+        parsed_bib_re = re.compile(r"^(@[a-z]+\{)([^\,]+)((.*(\n)*.*)*)", re.MULTILINE)
+
         matched_str = parsed_bib_re.match(bib_str)
 
         random_token = ''.join(random.choice(string.ascii_letters) for i in range(10))
@@ -147,3 +148,4 @@ permalink: /publications/
     text_file = open("./_pages/publications.md", "w")
     text_file.write(publications_md_file)
     text_file.close()
+
