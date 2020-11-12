@@ -22,7 +22,6 @@ sass:
 
 # Conversion
 markdown: kramdown
-mathjax: true
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -43,7 +42,7 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
-  math_engine       : nil
+  math_engine       : mathjax
 
 # Markdown Processing
 # kramdown:
