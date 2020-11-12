@@ -14,35 +14,47 @@ We meet every week on Friday at 15:00.
 
 In this term, we will focus on the topic of *approximate Bayesian computation* and *Stein methods*.
 
-#### 2020-11-13 Sequential Monte Carlo without Likelihoods
 
+{% capture details %}
 Andrius will present the following paper:
 > Sisson, S. A., Y. Fan, and M. M. Tanaka. “Sequential Monte Carlo without Likelihoods.” Proceedings of the National Academy of Sciences 104, no. 6 (February 6, 2007): 1760–65. [https://doi.org/10.1073/pnas.0607208104](https://doi.org/10.1073/pnas.0607208104).
+{% endcapture %}
+{% capture summary %}
+2020-11-13 Sequential Monte Carlo without Likelihoods
+{% endcapture %}{% include details.html %}
 
 
-#### 2020-11-06 ABC Methods for Climate Modelling ([notes](_support_files/reading_group/2020_11_06_reading_group_yannis_abc_climate_modelling.pdf))
-
+{% capture details %}
 Yannis will present present chapter 19 of the [Handbook of Approximate Bayesian Computation](https://www.routledge.com/Handbook-of-Approximate-Bayesian-Computation/Sisson-Fan-Beaumont/p/book/9781439881507).  
 > Sisson, S. A., Y. Fan, and M. A. Beaumont, eds. 2019. Handbook of Approximate Bayesian Computation. Boca Raton: CRC Press, Taylor and Francis Group.
+{% endcapture %}
+{% capture summary %}
+2020-11-06 ABC Methods for Climate Modelling ([notes](_support_files/reading_group/2020_11_06_reading_group_yannis_abc_climate_modelling.pdf))
+{% endcapture %}{% include details.html %}
 
-#### 2020-10-30 Summary Statistics ([notes](_support_files/reading_group/2020_10_30_reading_group_alex_summary_statistics.pdf))
 
+{% capture details %}
 Alex will present chapter 5 of the [Handbook of Approximate Bayesian Computation](https://www.routledge.com/Handbook-of-Approximate-Bayesian-Computation/Sisson-Fan-Beaumont/p/book/9781439881507).  
 > Sisson, S. A., Y. Fan, and M. A. Beaumont, eds. 2019. Handbook of Approximate Bayesian Computation. Boca Raton: CRC Press, Taylor and Francis Group.
+{% endcapture %}
+{% capture summary %}
+2020-10-30 Summary Statistics ([notes](_support_files/reading_group/2020_10_30_reading_group_alex_summary_statistics.pdf))
+{% endcapture %}{% include details.html %}
 
 
-#### 2020-10-23 Statistical Inference for Noisy Nonlinear Ecological Dynamic Systems ([notes](_support_files/reading_group/2020_10_23_reading_group_connor_nonlinear_dynamics.pdf))
-
+{% capture details %}
 Connor will present the following paper by Simon Wood.
 > Wood, Simon N. 2010. ‘Statistical Inference for Noisy Nonlinear Ecological Dynamic Systems’. Nature 466 (7310): 1102–4. [https://doi.org/10.1038/nature09319](https://doi.org/10.1038/nature09319).
+{% endcapture %}
+{% capture summary %}
+2020-10-23 Statistical Inference for Noisy Nonlinear Ecological Dynamic Systems ([notes](_support_files/reading_group/2020_10_23_reading_group_connor_nonlinear_dynamics.pdf))
+{% endcapture %}{% include details.html %}
 
 
-#### 2020-10-16 Introduction to Approximate Bayesian Computation ([notes](_support_files/reading_group/2020_10_16_reading_group_ieva_intro_to_abc.pdf))
-
+{% capture details %}
 Ieva will present the introductory chapter of the [Handbook of Approximate Bayesian Computation](https://www.routledge.com/Handbook-of-Approximate-Bayesian-Computation/Sisson-Fan-Beaumont/p/book/9781439881507). 
 > Sisson, S. A., Y. Fan, and M. A. Beaumont, eds. 2019. Handbook of Approximate Bayesian Computation. Boca Raton: CRC Press, Taylor and Francis Group.
-
-
-
-
-
+{% endcapture %}
+{% capture summary %}
+2020-10-16 Introduction to Approximate Bayesian Computation ([notes](_support_files/reading_group/2020_10_16_reading_group_ieva_intro_to_abc.pdf))
+{% endcapture %}{% include details.html %}
