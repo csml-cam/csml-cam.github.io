@@ -3,6 +3,7 @@ title: "CSML@Cam - Research"
 layout: textlay
 excerpt: "CSML@Cam - Research"
 sitemap: false
+use_math: true
 permalink: /research.html
 ---
 
