@@ -309,6 +309,13 @@ P. Hennig, M.A. Osborne, and M. Girolami. Probabilistic numerics and
 uncertainty in computations. *Proceedings of the Royal Society A:
 Mathematical, Physical and Engineering Sciences*, 2015.
 
+Alessandro Barp, Edoardo Gabriele Barp, François-Xavier Briol, and
+Daniel Ueltschi. A numerical study of the 3d random interchange and
+random loop models. *Journal of Physics A: Mathematical and
+Theoretical*, 48(34):345002, aug 2015. URL:
+<https://doi.org/10.1088%2F1751-8113%2F48%2F34%2F345002>,
+[doi:10.1088/1751-8113/48/34/345002](https://doi.org/10.1088/1751-8113/48/34/345002).
+
 V. Stathopoulos, V. Zamora-Gutierrez, K.E. Jones, and M. Girolami. Bat
 call identification with gaussian process multinomial probit regression
 and a dynamic time warping kernel. *Journal of Machine Learning
