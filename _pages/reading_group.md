@@ -16,11 +16,40 @@ In this term, we will focus on the topic of *approximate Bayesian computation* a
 
 
 {% capture details %}
+Alessandro will present the following three papers:
+>
+>
+>
+{% endcapture %}
+{% capture summary %}
+2020-12-04 Score matching, Kernel Stein Discrepancy
+{% endcapture %}{% include details.html %}
+
+
+{% capture details %}
+We will discuss the second part of the MLSS 2020 lecture on Kernel Methods by Arthur Gretton, with the focus on MMD.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eANiXrWO1dM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% endcapture %}
+{% capture summary %}
+2020-11-27 Introduction to Kernel Methods II with the focus on MMD
+{% endcapture %}{% include details.html %}
+
+
+{% capture details %}
+Justin will present Arthur Gretton's introductory lecture into kernel methods.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/alrKls6BORc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% endcapture %}
+{% capture summary %}
+2020-11-20 Introduction to Kernel Methods I
+{% endcapture %}{% include details.html %}
+
+
+{% capture details %}
 Andrius will present the following paper:
 > Sisson, S. A., Y. Fan, and M. M. Tanaka. “Sequential Monte Carlo without Likelihoods.” Proceedings of the National Academy of Sciences 104, no. 6 (February 6, 2007): 1760–65. [https://doi.org/10.1073/pnas.0607208104](https://doi.org/10.1073/pnas.0607208104).
 {% endcapture %}
 {% capture summary %}
-2020-11-13 Sequential Monte Carlo without Likelihoods
+2020-11-13 Sequential Monte Carlo without Likelihoods ([notes](_support_files/reading_group/2020_11_13-reading_group_andrius_smc_without_likelihoods.pdf))
 {% endcapture %}{% include details.html %}
 
 
