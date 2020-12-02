@@ -17,9 +17,9 @@ In this term, we will focus on the topic of *approximate Bayesian computation* a
 
 {% capture details %}
 Alessandro will present the following three papers:
-> Barp, Alessandro, Francois-Xavier Briol, Andrew Duncan, Mark Girolami, and Lester Mackey. "Minimum Stein Discrepancy Estimators." Paper presented at the Advances in Neural Information Processing Systems, 2019. https://papers.nips.cc/paper/2019/file/ba7609ee5789cc4dff171045a693a65f-Paper.pdf
-> Dawid, Alexander Philip, and Monica Musio. "Theory and Applications of Proper Scoring Rules." METRON 72, no. 2 (2014): 169-83. https://doi.org/10.1007/s40300-014-0039-y. https://www.researchgate.net/publication/259529033_Theory_and_Applications_of_Proper_Scoring_Rules.
-> Hyvärinen, Aapo. "Estimation of Non-Normalized Statistical Models by Score Matching." Journal of Machine Learning Research 6, no. Apr (2005): 695-709. https://jmlr.org/papers/volume6/hyvarinen05a/old.pdf
+1. Barp, Alessandro, Francois-Xavier Briol, Andrew Duncan, Mark Girolami, and Lester Mackey. "Minimum Stein Discrepancy Estimators." Paper presented at the Advances in Neural Information Processing Systems, 2019. [NeurIPS link](https://papers.nips.cc/paper/2019/file/ba7609ee5789cc4dff171045a693a65f-Paper.pdf)
+2. Dawid, Alexander Philip, and Monica Musio. "Theory and Applications of Proper Scoring Rules." METRON 72, no. 2 (2014): 169-83. [DOI link](https://doi.org/10.1007/s40300-014-0039-y). [research gate link](https://www.researchgate.net/publication/259529033_Theory_and_Applications_of_Proper_Scoring_Rules).
+3. Hyvärinen, Aapo. "Estimation of Non-Normalized Statistical Models by Score Matching." Journal of Machine Learning Research 6, no. Apr (2005): 695-709. [JMLR link](https://jmlr.org/papers/volume6/hyvarinen05a/old.pdf)
 {% endcapture %}
 {% capture summary %}
 2020-12-04 Score matching, Kernel Stein Discrepancy
