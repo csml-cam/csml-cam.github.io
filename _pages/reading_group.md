@@ -16,13 +16,28 @@ In this term, we will focus on the topic of *approximate Bayesian computation* a
 
 
 {% capture details %}
+Jan will present the Stochastic Variational Gradient Descent paper.
+
+The main reference is: 
+Liu, Q. and D. Wang (2016). Stein variational Gradient descent: a general purpose Bayesian inference algorithm. Proceedings of the 30th International Conference on Neural Information Processing Systems. Barcelona, Spain, Curran Associates Inc.: 2378–2386. [arXiv link](https://arxiv.org/pdf/1608.04471.pdf)
+
+Other useful resources are:
+- [A set of follow-up notes focussing on the theory applications](https://www.cs.utexas.edu/~lqiang/PDF/svgd_aabi2016.pdf)
+- [A blog post summarising and visualising the method](https://www.cs.utexas.edu/~qlearning/project.html?p=svgd)
+
+{% endcapture %}
+{% capture summary %}
+2020-12-11 Stochastic Variational Gradient Descent
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
 Alessandro will present the following three papers:
 1. Barp, Alessandro, Francois-Xavier Briol, Andrew Duncan, Mark Girolami, and Lester Mackey. "Minimum Stein Discrepancy Estimators." Paper presented at the Advances in Neural Information Processing Systems, 2019. [NeurIPS link](https://papers.nips.cc/paper/2019/file/ba7609ee5789cc4dff171045a693a65f-Paper.pdf)
 2. Dawid, Alexander Philip, and Monica Musio. "Theory and Applications of Proper Scoring Rules." METRON 72, no. 2 (2014): 169-83. [DOI link](https://doi.org/10.1007/s40300-014-0039-y). [research gate link](https://www.researchgate.net/publication/259529033_Theory_and_Applications_of_Proper_Scoring_Rules).
 3. Hyvärinen, Aapo. "Estimation of Non-Normalized Statistical Models by Score Matching." Journal of Machine Learning Research 6, no. Apr (2005): 695-709. [JMLR link](https://jmlr.org/papers/volume6/hyvarinen05a/old.pdf)
 {% endcapture %}
 {% capture summary %}
-2020-12-04 Score matching, Kernel Stein Discrepancy
+2020-12-04 Score matching, Kernel Stein Discrepancy ([Notes](_support_files/reading_group/2020_12_04_reading_group_alessandro_ksd.pdf))
 {% endcapture %}{% include details.html %}
 
 
@@ -40,7 +55,7 @@ Justin will present Arthur Gretton's introductory lecture into kernel methods.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/alrKls6BORc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {% endcapture %}
 {% capture summary %}
-2020-11-20 Introduction to Kernel Methods I
+2020-11-20 Introduction to Kernel Methods I ([Notes](_support_files/reading_group/2020_11_20_reading_group_justin_intro_kernels.pdf))
 {% endcapture %}{% include details.html %}
 
 
