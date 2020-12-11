@@ -27,7 +27,7 @@ Other useful resources are:
 
 {% endcapture %}
 {% capture summary %}
-2020-12-11 Stochastic Variational Gradient Descent
+2020-12-11 Stochastic Variational Gradient Descent ([notes](_support_files/reading_group/2020_12_11_reading_group_jan_stochastic_variational_gradient_descent.pdf))
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
