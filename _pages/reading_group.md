@@ -25,6 +25,7 @@ Other useful resources are:
 - [A set of follow-up notes focussing on the theory applications](https://www.cs.utexas.edu/~lqiang/PDF/svgd_aabi2016.pdf)
 - [A blog post summarising and visualising the method](https://www.cs.utexas.edu/~qlearning/project.html?p=svgd)
 
+
 {% endcapture %}
 {% capture summary %}
 2020-12-11 Stochastic Variational Gradient Descent ([notes](_support_files/reading_group/2020_12_11_reading_group_jan_stochastic_variational_gradient_descent.pdf))
