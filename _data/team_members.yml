@@ -5,6 +5,16 @@
   website: https://prof-girolami.uk/
   number_educ: 0
 
+- name: Omer Deniz Akyildiz
+  photo: omer_deniz_akyildiz.png
+  info: Omer Deniz Akyildiz is a Research Associate at The Alan Turing Institute. His research interests revolve around stochastic filtering in high-dimensions and the interplay between sampling, optimisation, and filtering methods.
+  email: odakyildiz@turing.ac.uk
+  website: http://akyildiz.me
+  number_educ: 3
+  education1: PhD in Signal Processing, Universidad Carlos III de Madrid, Spain (2019)
+  education2: MSc in Electronics and Communications Engineering, Istanbul Technical University, Turkey (2012)
+  education3: BSc in Electronics and Communications Engineering, Istanbul Technical University, Turkey (2010)
+
 - name: Alessandro Barp
   photo: alessandro_barp.jpg
   info: Alessandro is a Research Associate (postdoc) in the Engineering Department at the University of Cambridge and a visiting researcher at The Alan Turing Institute. His research focuses on the empowerment of measures via the geometrisation of statistical methods, such as Hamiltonian Monte Carlo and kernel algorithms built with Stein operators. After having completed the MMathPhys of The University of Warwick and Part III of the Mathematical Tripos at Cambridge, he received his PhD from Imperial College London.
