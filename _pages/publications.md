@@ -25,12 +25,6 @@ from statistical heterogeneous spatial point processes. *Journal of the
 Royal Statistical Society. Series C: Applied Statistics*,
 69(5):1067--1090, 2020.
 
-Rafael Sacks, Ioannis Brilakis, Ergo Pikas, Haiyan Sally Xie, and Mark
-Girolami. Construction with digital twin information systems.
-*Data-Centric Engineering*, 2020. URL:
-<https://doi.org/10.1017%2Fdce.2020.16>,
-[doi:10.1017/dce.2020.16](https://doi.org/10.1017/dce.2020.16).
-
 Melanie Jans-Singh, Kathryn Leeming, Ruchi Choudhary, and Mark Girolami.
 Digital twin of an urban-integrated hydroponic farm. *Data-Centric
 Engineering*, 2020. URL: <https://doi.org/10.1017%2Fdce.2020.21>,
@@ -331,6 +325,13 @@ International Conference on Machine Learning, ICML 2015*, 1:588--596,
 P. Hennig, M.A. Osborne, and M. Girolami. Probabilistic numerics and
 uncertainty in computations. *Proceedings of the Royal Society A:
 Mathematical, Physical and Engineering Sciences*, 2015.
+
+Alessandro Barp, Edoardo Gabriele Barp, François-Xavier Briol, and
+Daniel Ueltschi. A numerical study of the 3d random interchange and
+random loop models. *Journal of Physics A: Mathematical and
+Theoretical*, 48(34):345002, aug 2015. URL:
+<https://doi.org/10.1088%2F1751-8113%2F48%2F34%2F345002>,
+[doi:10.1088/1751-8113/48/34/345002](https://doi.org/10.1088/1751-8113/48/34/345002).
 
 V. Stathopoulos, V. Zamora-Gutierrez, K.E. Jones, and M. Girolami. Bat
 call identification with gaussian process multinomial probit regression
