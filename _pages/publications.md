@@ -8,11 +8,11 @@ permalink: /publications/
 
 # Publications
     
-Connor Duffin, Edward Cripps, Thomas Stemler, and Mark Girolami.
-Statistical finite elements for misspecified models. *Proceedings of the
-National Academy of Sciences*, 118(2):e2015006118, dec 2020. URL:
-<https://doi.org/10.1073%2Fpnas.2015006118>,
-[doi:10.1073/pnas.2015006118](https://doi.org/10.1073/pnas.2015006118).
+Maharshi Dhada, Mark Girolami, and Ajith Kumar Parlikad. Anomaly
+detection in a fleet of industrial assets with hierarchical statistical
+modeling. *Data-Centric Engineering*, 2020. URL:
+<https://doi.org/10.1017%2Fdce.2020.19>,
+[doi:10.1017/dce.2020.19](https://doi.org/10.1017/dce.2020.19).
 
 J. Povala, S. Virtanen, and M. Girolami. Burglary in london: insights
 from statistical heterogeneous spatial point processes. *Journal of the
