@@ -8,9 +8,75 @@ permalink: /reading_group.html
 
 We meet every week on Friday at 15:00. 
 
+## Lent Term 2021 Schedule
+
+In this term, we are following the "Applied Stochastic Differential Equations" book by Särkkä and Solin.
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+19 March - Ch 12 Stochastic Differential Equations in Machine Learning - Alessandro
+{% endcapture %}{% include details.html %}
 
 
-## Michaelmas Term 2020 schedule
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+12 March - Ch 11 Parameter Estimation in SDE Models - Alex
+{% endcapture %}{% include details.html %}
+
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+5 March - Ch 10 Filtering and Smoothing Theory - Connor
+{% endcapture %}{% include details.html %}
+
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+26 Feb - Ch 9 Approximation of Nonlinear SDEs - Hussein
+{% endcapture %}{% include details.html %}
+
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+19 Feb - Ch 8 Numerical Simulation of SDEs - Jan
+{% endcapture %}{% include details.html %}
+
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+12 Feb - Ch 7 Useful Theorems and Formulas for SDEs - Justin
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+5 Feb - Ch 6 Statistics of Linear Stochastic Differential Equations -Ben
+{% endcapture %}{% include details.html %}
+
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+29 January - Ch 5 Probability Distributions and Statistics of SDEs - Yannis
+{% endcapture %}{% include details.html %}
+
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-01-22 Ch 4 Itô Calculus and Stochastic Differential Equations ([slides](_support_files/reading_group/2021_01_22_reading_group_andrius_ito_integral.pdf)]
+{% endcapture %}{% include details.html %}
+
+
+
+
+## Michaelmas Term 2020 Schedule
 
 In this term, we will focus on the topic of *approximate Bayesian computation* and *Stein methods*.
 
@@ -24,8 +90,6 @@ Liu, Q. and D. Wang (2016). Stein variational Gradient descent: a general purpos
 Other useful resources are:
 - [A set of follow-up notes focussing on the theory applications](https://www.cs.utexas.edu/~lqiang/PDF/svgd_aabi2016.pdf)
 - [A blog post summarising and visualising the method](https://www.cs.utexas.edu/~qlearning/project.html?p=svgd)
-
-
 {% endcapture %}
 {% capture summary %}
 2020-12-11 Stochastic Variational Gradient Descent ([notes](_support_files/reading_group/2020_12_11_reading_group_jan_stochastic_variational_gradient_descent.pdf))
