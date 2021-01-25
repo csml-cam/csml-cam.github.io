@@ -42,6 +42,22 @@ S.-C. Kuok, K.-V. Yuen, S. Roberts, and M.A. Girolami. Propagative broad
 learning for nonparametric modeling of ambient effects on structural
 health indicators. *Structural Health Monitoring*, 2020.
 
+Ömer Deniz Akyildiz, Dan Crisan, and Joaquı́n Mı́guez. Parallel sequential
+monte carlo for stochastic gradient-free nonconvex optimization.
+*Statistics and Computing*, 30(6):1645--1663, jul 2020. URL:
+<https://doi.org/10.1007%2Fs11222-020-09964-4>,
+[doi:10.1007/s11222-020-09964-4](https://doi.org/10.1007/s11222-020-09964-4).
+
+Ömer Deniz Akyildiz and Joaquı́n Mı́guez. Nudging the particle filter.
+*Statistics and Computing*, 30(2):305--330, jul 2019. URL:
+<https://doi.org/10.1007%2Fs11222-019-09884-y>,
+[doi:10.1007/s11222-019-09884-y](https://doi.org/10.1007/s11222-019-09884-y).
+
+Lorenz Richter, Ayman Boustati, Nikolas Nüsken, Francisco Ruiz, and
+Omer Deniz Akyildiz. Vargrad: a low-variance gradient estimator for
+variational inference. *Advances in Neural Information Processing
+Systems*, 2020.
+
 Ivan Ustyuzhaninov\*, Ieva Kazlauskaite\*, Markus Kaiser, Erik Bodin,
 Neill Campbell, and Carl Henrik Ek. Compositional uncertainty in deep
 gaussian processes. In *Conference on Uncertainty in Artificial
@@ -320,13 +336,6 @@ International Conference on Machine Learning, ICML 2015*, 1:588--596,
 P. Hennig, M.A. Osborne, and M. Girolami. Probabilistic numerics and
 uncertainty in computations. *Proceedings of the Royal Society A:
 Mathematical, Physical and Engineering Sciences*, 2015.
-
-Alessandro Barp, Edoardo Gabriele Barp, François-Xavier Briol, and
-Daniel Ueltschi. A numerical study of the 3d random interchange and
-random loop models. *Journal of Physics A: Mathematical and
-Theoretical*, 48(34):345002, aug 2015. URL:
-<https://doi.org/10.1088%2F1751-8113%2F48%2F34%2F345002>,
-[doi:10.1088/1751-8113/48/34/345002](https://doi.org/10.1088/1751-8113/48/34/345002).
 
 V. Stathopoulos, V. Zamora-Gutierrez, K.E. Jones, and M. Girolami. Bat
 call identification with gaussian process multinomial probit regression
