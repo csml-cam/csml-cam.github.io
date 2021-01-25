@@ -64,6 +64,10 @@ monte carlo for stochastic gradient-free nonconvex optimization.
 <https://doi.org/10.1007%2Fs11222-019-09884-y>,
 [doi:10.1007/s11222-019-09884-y](https://doi.org/10.1007/s11222-019-09884-y).
 
+Ayman Boustati, Omer Deniz Akyildiz, Theodoros Damoulas, and Adam
+Johansen. Generalised bayesian filtering via sequential monte carlo.
+*Advances in Neural Information Processing Systems*, 2020.
+
 Lorenz Richter, Ayman Boustati, Nikolas Nüsken, Francisco Ruiz, and
 Omer Deniz Akyildiz. Vargrad: a low-variance gradient estimator for
 variational inference. *Advances in Neural Information Processing
