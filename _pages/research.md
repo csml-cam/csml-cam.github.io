@@ -13,6 +13,36 @@ Research
 
 ## Digital Twins
 
+### Statistical Finite Elements
+
+The Finite Element Method (FEM) is the most popular tool for solving partial differential equations across science and engineering. Yet to this date there has been no coherent statistical methodology to incorporate observed data into FEM simulations. 
+
+The Statistical Finite Element method augments the classical FEM with a coherent statistical construction to provide the framework for updating FEM models in the presence of data. It does this through admitting that the underlying physical model is possibly misspecified with reality, introducing stochastic forcing inside the governing equations. This forms the *prior* for the model. We then take an approach similar to that of [Bayesian calibration](https://doi.org/10.1111/1467-9868.00294), and posit a data-generating process that the observations were possibly generated according to. The FEM model is then updated in the face of this data, resulting in a compromise between reality and prior model specification --- the *posterior* --- with a full uncertainty quantification.
+
+To date we have published two papers on this work. The [first](https://doi.org/10.1016/j.cma.2020.113533) demonstrates the effectiveness of the method in the context of computational mechanics, and studies a variety of examples for the one- and two-dimensional elliptic problems. The [second](https://doi.org/10.1073/pnas.2015006118) studies the methodology in the context of nonlinear internal waves (*solitons*), using the Korteweg-de Vries equation. These works lay the appropriate mathematical and statistical foundation for which the Digital Twin revolution can build upon, and we are very excited to study, develop, and apply these methods further.
+
+**References**: Girolami, M., Febrianto, E., Yin, G., and Cirak, F. (2021). [The statistical finite element method (statFEM) for coherent synthesis of observation data and model predictions](https://doi.org/10.1016/j.cma.2020.113533). Computer Methods in Applied Mechanics and Engineering, 375, 113533.
+
+Duffin, C., Cripps, E., Stemler, T., and Girolami, M. (2021). [Statistical finite elements for misspecified models](https://doi.org/10.1073/pnas.2015006118). Proceedings of the National Academy of Sciences, 118(2).
+
+![girolami-statfem-paper-image](/_support_files/research/statfem/statfem-poisson.png){:height="150px"}
+![duffin-statfem-paper-image](/_support_files/research/statfem/cubic-posterior.png){:height="150px"}
+
+{% capture summary %}
+Related links
+{% endcapture %}
+{% capture details %}
+- [CMAME paper](https://doi.org/10.1016/j.cma.2020.113533)
+- [PNAS paper](https://doi.org/10.1073/pnas.2015006118)
+- [Cambridge media release](https://www-smartinfrastructure.eng.cam.ac.uk/news/cambridge-academic-csic-redefines-finite-element-method-data-age)
+- [Turing media release](https://www.turing.ac.uk/news/turing-delivers-data-driven-computational-predictive-methods-emerging-complex-engineering)
+- [UWA media relase](https://www.uwa.edu.au/news/article/2021/january/new-system-to-advance-predictions-in-engineering)
+{% endcapture %}
+{% include details.html %}
+
+
+
+
 
 
 ### Talks
