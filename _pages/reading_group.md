@@ -70,7 +70,7 @@ In this term, we are following the "Applied Stochastic Differential Equations" b
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-01-22 Ch 4 Itô Calculus and Stochastic Differential Equations ([slides](_support_files/reading_group/2021_01_22_reading_group_andrius_ito_integral.pdf)]
+2021-01-22 Ch 4 Itô Calculus and Stochastic Differential Equations ([notes](_support_files/reading_group/2021_01_22_reading_group_andrius_ito_integral.pdf))
 {% endcapture %}{% include details.html %}
 
 
@@ -102,7 +102,7 @@ Alessandro will present the following three papers:
 3. Hyvärinen, Aapo. "Estimation of Non-Normalized Statistical Models by Score Matching." Journal of Machine Learning Research 6, no. Apr (2005): 695-709. [JMLR link](https://jmlr.org/papers/volume6/hyvarinen05a/old.pdf)
 {% endcapture %}
 {% capture summary %}
-2020-12-04 Score matching, Kernel Stein Discrepancy ([Notes](_support_files/reading_group/2020_12_04_reading_group_alessandro_ksd.pdf))
+2020-12-04 Score matching, Kernel Stein Discrepancy ([notes](_support_files/reading_group/2020_12_04_reading_group_alessandro_ksd.pdf))
 {% endcapture %}{% include details.html %}
 
 
@@ -120,7 +120,7 @@ Justin will present Arthur Gretton's introductory lecture into kernel methods.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/alrKls6BORc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {% endcapture %}
 {% capture summary %}
-2020-11-20 Introduction to Kernel Methods I ([Notes](_support_files/reading_group/2020_11_20_reading_group_justin_intro_kernels.pdf))
+2020-11-20 Introduction to Kernel Methods I ([notes](_support_files/reading_group/2020_11_20_reading_group_justin_intro_kernels.pdf))
 {% endcapture %}{% include details.html %}
 
 
