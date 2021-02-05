@@ -57,9 +57,9 @@ We are a research group at the [Engineering Deparment](http://www.eng.cam.ac.uk/
 </div>
 
 
-<h1>Funding and partnerships</h1>
+<h2>Funding and partnerships</h2>
 
-<h2> Funding</h2>
+<h3> Funding</h3>
 
 Our work is funded by [EPSRC](https://epsrc.ukri.org/), [Lloyd's Register Foundation](https://www.lrfoundation.org.uk/en/), [ARUP](https://www.arup.com/), [splunk](https://www.splunk.com/), [nPlan](https://www.nplan.io/).
 
@@ -71,9 +71,7 @@ Our work is funded by [EPSRC](https://epsrc.ukri.org/), [Lloyd's Register Founda
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-nplan.png" style="width: 70px">
 </figure>
 
-<h2>Academic partnerships</h2>
-
-Our team works closely with the following teams:
+<h3>Academic partnerships</h3>
  <ul>
-  <li>Our team collaborates  with <a href="https://darecentre.org.au/">The Data Analytics for Resources & Environments (DARE) Centre</a> in Australia.</li>
-</ul> 
+  <li>Our team collaborates with <a href="https://darecentre.org.au/">The Data Analytics for Resources & Environments (DARE) Centre</a> in Australia.</li>
+</ul>
