@@ -32,6 +32,17 @@ from statistical heterogeneous spatial point processes. *Journal of the
 Royal Statistical Society. Series C: Applied Statistics*,
 69(5):1067--1090, 2020.
 
+Rafael Sacks, Ioannis Brilakis, Ergo Pikas, Haiyan Sally Xie, and Mark
+Girolami. Construction with digital twin information systems.
+*Data-Centric Engineering*, 2020. URL:
+<https://doi.org/10.1017%2Fdce.2020.16>,
+[doi:10.1017/dce.2020.16](https://doi.org/10.1017/dce.2020.16).
+
+Melanie Jans-Singh, Kathryn Leeming, Ruchi Choudhary, and Mark Girolami.
+Digital twin of an urban-integrated hydroponic farm. *Data-Centric
+Engineering*, 2020. URL: <https://doi.org/10.1017%2Fdce.2020.21>,
+[doi:10.1017/dce.2020.21](https://doi.org/10.1017/dce.2020.21).
+
 C.Y. Wong, P. Seshadri, G.T. Parks, and M. Girolami. Embedded ridge
 approximations. *Computer Methods in Applied Mechanics and Engineering*,
 2020.
