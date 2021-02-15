@@ -155,7 +155,7 @@ For the full list of publications, scroll down.
     """
     publications_md_file += publications_md_content
 
-    text_file = open("./_pages/publications.md", "w")
+    text_file = open("./publications.md", "w")
     text_file.write(publications_md_file)
     text_file.close()
 
