@@ -1,0 +1,22 @@
+list:
+  - title: "Statistical finite elements for misspecified models"
+    description:  We develop the statistical FEM methodology in the context of nonlinear internal waves (solitons), using the Korteweg-de Vries equation.
+    image:
+      path: /images/pubpic/cubic-posterior.png
+      width: 100
+    authors: "Connor Duffin, Edward Cripps, Thomas Stemler, and Mark Girolami"
+    link:
+      url: https://doi.org/10.1073%2Fpnas.2015006118
+      display: "Proceedings of the National Academy of Sciences"
+    news1: <a href="http://www.eng.cam.ac.uk/news/data-science-and-computational-mathematics-unite-advance-predictive-methods-engineering">University of Cambridge coverage</a>
+    news2: "See the research section for more details."
+  - title: Riemann manifold Langevin and Hamiltonian Monte Carlo methods
+    description: This paper proposes Metropolis adjusted Langevin and Hamiltonian Monte Carlo sampling methods defined on the Riemann manifold to resolve the shortcomings of existing Monte Carlo algorithms when sampling from target densities that may be high dimensional and exhibit strong correlations.
+    image:
+      path: /images/pubpic/rm_hmc.gif
+      width: 55
+    authors: "Girolami, M. and Calderhead, B"
+    link:
+      url: https://doi.org/10.1111/j.1467-9868.2010.00765.x
+      display: "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+    news2: "See the research section for more details."

@@ -1,0 +1,37 @@
+<!-- Include the highlights -->
+<div class="col-sm-12">
+ 
+{% assign number_printed = 0 %}
+{% for publi in site.data.featured_pubs.list %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6">
+ <div class="p-2 border border-secondary rounded bg-light">
+  <h5>{{ publi.title }}</h5>
+  <img src="{{ site.url }}{{ site.baseurl }}{{ publi.image.path }}" class="mr-2 img-fluid" width="{{ publi.image.width }}%" style="float: left" />
+  <p>{{ publi.description }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p class="font-weight-bold"><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></p>
+  <p class="font-weight-bold"> {{ publi.news1 }}</p>
+  <p class="font-weight-bold"> {{ publi.news2 }}</p>
+ </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+</div>

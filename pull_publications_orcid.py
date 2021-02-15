@@ -138,13 +138,20 @@ if __name__ == '__main__':
 
     publications_md_file = """---
 title: "CSML@Cam - Publications"
-layout: gridlay
+layout: publications
 excerpt: "CSML@Cam - Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publications
 ---
 
-# Publications
+For the full list of publications, scroll down.
+
+## Featured work
+
+{% include featured_pubs.html %}
+
+
+## All publications
     """
     publications_md_file += publications_md_content
 

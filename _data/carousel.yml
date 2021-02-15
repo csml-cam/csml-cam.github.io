@@ -1,0 +1,7 @@
+images: 
+  - image: /images/carousel_pics/ben_boys_visual _cracks.png
+    text: Crackings on  a concreate beam
+  - image: /images/carousel_pics/cubic-posterior.png
+    text: Statistical finite elements for misspecified models
+  - image: /images/carousel_pics/statfem-poisson.png
+    text: Statistical FEM for Poisson Equation

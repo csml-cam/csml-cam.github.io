@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: Team
+  link: /team
+- name: Publications
+  link: /publications
+- name: Research
+  link: /research
+- name: Reading Group
+  link: /reading_group
