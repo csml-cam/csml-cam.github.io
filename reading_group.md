@@ -15,55 +15,55 @@ In this term, we are following the "Applied Stochastic Differential Equations" b
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-19 March - Ch 12 Stochastic Differential Equations in Machine Learning - Alessandro
+2021-03-26 - Ch 12 Stochastic Differential Equations in Machine Learning - Alessandro
 {% endcapture %}{% include details.html %}
 
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-12 March - Ch 11 Parameter Estimation in SDE Models - Alex
+2021-03-19 - Ch 11 Parameter Estimation in SDE Models - Alex
 {% endcapture %}{% include details.html %}
 
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-5 March - Ch 10 Filtering and Smoothing Theory - Connor
+2021-03-12 - Ch 10 Filtering and Smoothing Theory - Connor
 {% endcapture %}{% include details.html %}
 
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-26 Feb - Ch 9 Approximation of Nonlinear SDEs - Hussein
+2021-03-05 - Ch 9 Approximation of Nonlinear SDEs - Hussein
 {% endcapture %}{% include details.html %}
 
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-19 Feb - Ch 8 Numerical Simulation of SDEs - Jan
+2021-02-26 - Ch 8 Numerical Simulation of SDEs - Jan
 {% endcapture %}{% include details.html %}
 
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-12 Feb - Ch 7 Useful Theorems and Formulas for SDEs - Justin
+2021-02-19 - Ch 7 Useful Theorems and Formulas for SDEs - Justin
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-5 Feb - Ch 6 Statistics of Linear Stochastic Differential Equations -Ben
+2021-02-12 - Ch 6 Statistics of Linear Stochastic Differential Equations - Ben ([notes](_support_files/reading_group/2021_02_12_ben_statistics_of_sdes.pdf))
 {% endcapture %}{% include details.html %}
 
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-29 January - Ch 5 Probability Distributions and Statistics of SDEs - Yannis
+2021-01-29 - Ch 5 Probability Distributions and Statistics of SDEs - Yannis
 {% endcapture %}{% include details.html %}
 
 
