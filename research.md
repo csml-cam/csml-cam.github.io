@@ -41,12 +41,25 @@ Related links
 {% include details.html %}
 
 
+### Future of Farming
 
+Mark Girolami is involved in the project of creating a digital twin of an underground farm in London.
+For more information visit:
+1. [A recent publication in the Data-centric engineering journal](https://doi.org/10.1017/dce.2020.21).
+2. [The farm website](http://growing-underground.com/)
+3. [Coverage by University of Cambridge](http://www.eng.cam.ac.uk/news/cambridge-engineers-unveil-digital-twin-support-future-farming)
+
+
+### Aerospace-engineering applications
+
+The data-centric engineering programme at the Alan Turing Institute
+which is led by Mark Girolami is working on improving design of jet
+engines.  For more details, visit the [Turing
+page](https://www.turing.ac.uk/research/impact-stories/streamlining-jet-engine-design-and-manufacture).
 
 
 
 ### Talks
-
 
 
 **September 2020**: Prof Mark Girolami gave a keynote talk title "Digital Twins: The Sense and Statistics" at the conference of Royal Statistical Society: 
