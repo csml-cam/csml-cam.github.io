@@ -6,12 +6,12 @@
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="card-deck">
 {% endif %}
 
-<div class="col-sm-6">
- <div class="p-2 border border-secondary rounded bg-light">
-  <h5>{{ publi.title }}</h5>
+<div class="card">
+ <div class="card-body p-2 border border-secondary rounded bg-light">
+  <h5 class="card-title">{{ publi.title }}</h5>
   <img src="{{ site.url }}{{ site.baseurl }}{{ publi.image.path }}" class="mr-2 img-fluid" width="{{ publi.image.width }}%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>

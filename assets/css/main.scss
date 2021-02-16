@@ -35,7 +35,7 @@ firstp {
 }
 
 .container-fluid {
-  padding-top: 70px;
+  padding-top: 30px;
   margin-right: auto;
   margin-left: auto;
   max-width: 1000px; /* or 950px */
@@ -60,6 +60,10 @@ firstp {
 #homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
 #picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
 #gridid .row { margin-bottom: 24px; }
+
+h3, h2, h1 {
+    margin-top: 20px;
+}
 
 
 /* Grid overrides */

@@ -11,9 +11,7 @@ We are a research group at the [Engineering Deparment](http://www.eng.cam.ac.uk/
 
 {% include carousel.html %}
 
-## Funding and partnerships
-
-### Funding
+### Funding partnerships
 
 Our work is funded by [EPSRC](https://epsrc.ukri.org/), [Lloyd's
 Register Foundation](https://www.lrfoundation.org.uk/en/),
