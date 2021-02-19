@@ -50,7 +50,7 @@ In this term, we are following the "Applied Stochastic Differential Equations" b
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-02-19 - Ch 7 Useful Theorems and Formulas for SDEs - Justin
+2021-02-19 - Ch 7 Useful Theorems and Formulas for SDEs - Justin ([notes](_support_files/reading_group/2021_02_19_justin_useful_theorems_and_formulas_for_sdes.pdf))
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
