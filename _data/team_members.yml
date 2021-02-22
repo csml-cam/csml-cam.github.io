@@ -33,6 +33,17 @@
   education1: Engineering Doctorate in Computer Science, University of Bath, UK (2020)
   education2:  MMath in Mathematics, University of Durham, UK (2014)
 
+- name: Hussein Rappel
+  photo: hussein_rappel.jpg
+  info: Hussein is a research associate within the Data-Centric Engineering program at The Alan Turing Institute. Hussein's research is mainly focused on use of the probability logic in applied and computational mechanics.
+  email: hrappel@turing.ac.uk
+  website: https://www.turing.ac.uk/people/researchers/hussein-rappel
+  number_educ: 4
+  education1: Postdoctoral researcher, University of Luxembourg, Luxembourg (Sep 2018- Sep 2019 )
+  education2: PhD, Engineering/Computational sciences, University of Luxembourg, Luxembourg (Sep 2014-Sep 2018) and University of Liege, Belgium (Sep 2015-Sep 2018)
+  education3: MSc, Applied mechanics, University of Tehran, Iran (Sep 2010-May 2013)
+  education4: BSc, Mechanical engineering (solid mechanics), University of Tabriz, Iran (Sep 2006- Sep 2010)
+
 - name: Kangrui Wang
   photo: kangrui_wang.jpg
   info: Kangrui is a Research Associate in the Engineering Department at the University of Cambridge. His research focus on stochastic modelling of high-dimensional data and developing non-stationary non-separable kernels for Gaussian process based models. His interest also lies in the application of deep Gaussian processes to non-stationary spatio-temporal problems. Before joining the group, he was a research associate in the Alan Turing Institute under London air quality project.
