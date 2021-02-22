@@ -90,6 +90,11 @@ Campbell. Monotonic gaussian process flow. In *International Conference
 on Artificial Intelligence and Statistics (AISTATS 2020)*. arXiv
 preprint arXiv:1905.12930, 2020.
 
+H. Rappel, L.A.A. Beex, J.S. Hale, L. Noels, and S.P.A. Bordas. A
+tutorial on bayesian inference to identify material parameters in solid
+mechanics. *Archives of Computational Methods in Engineering*,
+27(2):361--385, 2020.
+
 Gishan D. Ranasinghe, Tony Lindgren, Mark Girolami, and Ajith K.
 Parlikad. A methodology for prognostics under the conditions of limited
 failure data availability. *IEEE Access*, 7:183996--184007, 2019. URL:
@@ -185,6 +190,26 @@ Campbell, and Carl Henrik Ek. Modulating surrogates for bayesian
 optimization. In *International Conference on Machine Learning (ICML
 2020)*, arXiv--1906. 2019.
 
+H. Rappel, L. Wu, L. Noels, and L.A.A. Beex. A bayesian framework to
+identify random parameter fields based on the copula theorem and
+gaussian fields: application to polycrystalline materials. *Journal of
+Applied Mechanics, Transactions ASME*, 2019.
+
+M. Mohamedou, K. Zulueta, C.N. Chung, H. Rappel, L. Beex, L. Adam,
+A. Arriaga, Z. Major, L. Wu, and L. Noels. Bayesian identification of
+mean-field homogenization model parameters and uncertain matrix behavior
+in non-aligned short fiber composites. *Composite Structures*,
+220:64--80, 2019.
+
+H. Rappel and L.A.A. Beex. Estimating fibres? material parameter
+distributions from limited data with the help of bayesian inference.
+*European Journal of Mechanics, A/Solids*, 75:169--196, 2019.
+
+H. Rappel, L.A.A. Beex, L. Noels, and S.P.A. Bordas. Identifying
+elastoplastic parameters with bayes? theorem considering output error,
+input error and model uncertainty. *Probabilistic Engineering
+Mechanics*, 55:28--41, 2019.
+
 O. Mac Aodha, R. Gibb, K.E. Barlow, E. Browning, M. Firman, R. Freeman,
 B. Harder, L. Kinsey, G.R. Mead, S.E. Newson, I. Pandourski, S. Parsons,
 J. Russ, A. Szodoray-Paradi, F. Szodoray-Paradi, E. Tilova, M. Girolami,
@@ -226,6 +251,10 @@ Mathematical, Physical and Engineering Sciences*, 2018.
 F.D.-H. Lau, N.M. Adams, M.A. Girolami, L.J. Butler, and M.Z.E.B.
 Elshafie. The role of statistics in data-centric engineering.
 *Statistics and Probability Letters*, 136:58--62, 2018.
+
+H. Rappel, L.A.A. Beex, and S.P.A. Bordas. Bayesian inference to
+identify parameters in viscoelasticity. *Mechanics of Time-Dependent
+Materials*, 22(2):221--258, 2018.
 
 L. Ellam, H. Strathmann, M. Girolami, and I. Murray. A determinant-free
 method to simulate the parameters of large gaussian fields. *Stat*,
@@ -421,6 +450,10 @@ biology. *Advances in Microbial Physiology*, 64:115--143, 2014.
 T. Papamarkou, A. Mira, and M. Girolami. Zero variance differential
 geometric markov chain monte carlo algorithms. *Bayesian Analysis*,
 9(1):97--128, 2014.
+
+H. Rappel, A. Yousefi-Koma, J. Jamali, and A. Bahari. Numerical
+time-domain modeling of lamb wave propagation using elastodynamic finite
+integration technique. *Shock and Vibration*, 2014.
 
 M. Filippone, M. Zhong, and M. Girolami. A comparative evaluation of
 stochastic-based inference methods for gaussian process models. *Machine
