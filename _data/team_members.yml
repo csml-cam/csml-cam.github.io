@@ -33,6 +33,15 @@
   education1: Engineering Doctorate in Computer Science, University of Bath, UK (2020)
   education2:  MMath in Mathematics, University of Durham, UK (2014)
 
+- name: Kangrui Wang
+  photo: kangrui_wang.jpg
+  info: Kangrui is a Research Associate in the Engineering Department at the University of Cambridge. His research focus on stochastic modelling of high-dimensional data and developing non-stationary non-separable kernels for Gaussian process based models. His interest also lies in the application of deep Gaussian processes to non-stationary spatio-temporal problems. Before joining the group, he was a research associate in the Alan Turing Institute under London air quality project.
+  email: kw541@cam.ac.uk
+  number_educ: 3
+  education1: PhD in Applied math, University of Leicester, UK
+  education2: MSc in Actuarial Science, University of Leicester, UK
+  education3: BSc in Finance, East China University of Political Science and Law, China
+
 - name: Ben Boys
   photo: ben_boys.jpg
   info: Ben is a PhD student in the Future Infrastructure and Built Environment CDT at the University of Cambridge supervised by Professor Mark Girolami. During his PhD, he will be working on developing probabilistic models that simulate outcomes of schedules, building upon state-of-the-art deep learning technologies already developed at his co-sponsor company nPlan. Prior to Cambridge, he was working as a Research Assistant at the Data Centric Engineering Group at the University of Exeter.
