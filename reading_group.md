@@ -63,7 +63,7 @@ In this term, we are following the "Applied Stochastic Differential Equations" b
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-01-29 - Ch 5 Probability Distributions and Statistics of SDEs - Yannis
+2021-01-29 - Ch 5 Probability Distributions and Statistics of SDEs - Yannis ([notes](_support_files/reading_group/2021_29_01_reading_group_yannis_probability_distributions_and_statistics_of_sdes.pdf))
 {% endcapture %}{% include details.html %}
 
 
