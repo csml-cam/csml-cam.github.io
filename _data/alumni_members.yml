@@ -1,4 +1,96 @@
+- name: Leif Azzopardi
+  info: PhD student with Mark Girolami
+  link: https://www.strath.ac.uk/staff/azzopardileifdr/
+  position: Chancellor's Fellow, Department of Computer and Information Sciences, University of Strathclyde
+- name: Ata Kaban
+  info: PhD student with Mark Girolami
+  link: http://www.cs.bham.ac.uk/~axk/
+  position: Professor of Computer Science, School of Computer Science, University of Birmingham 
+- name: Theodoros Damoulas
+  info: PhD student with Mark Girolami
+  link: https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/
+  position: Associate Professor, Department of Statistics, University of Warwick
+- name: Ben Calderhead
+  info: PhD student with Mark Girolami
+  link: https://www.imperial.ac.uk/people/b.calderhead)
+  position: Lecturer in Statistics, Department of Mathematics, Imperial College London
+- name: Samuel Livingstone
+  info: PhD student with Mark Girolami
+  link: https://www.ucl.ac.uk/statistics/department-information/staff/dr-samuel-livingstone
+  position: Lecturer in Statistics, Department of Statistics, University College London
+- name: Francois-Xavier Briol
+  info: PhD student with Mark Girolami
+  link: https://fxbriol.github.io
+  position: Lecturer in Statistics, Department of Statistics, University College London
 - name: Louis Ellam
+  info: PhD student with Mark Girolami
   info: PhD Student with Mark Girolami, 2015-2019
   position: Lecturer in Econometrics, De Montfort University
   link: https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/louis-ellam/louis-ellam.aspx
+- name: Michael Epstein
+  info: PhD student with Mark Girolami
+  link: https://www.linkedin.com/in/michael-epstein-0b2b134/
+  position: Team Leader of Translational Statistics - Achilles Therapeutics Limited
+- name: Tapesh Santra
+  info: PhD student with Mark Girolami
+  link: https://www.linkedin.com/in/tapesh-santra-phd-02b009a9/?originalSubdomain=ie
+  position: Advanced Data Analytics/ Consultant - Accenture
+- name: Gary MacIndoe
+  info: PhD student with Mark Girolami
+  link: https://www.linkedin.com/in/garymacindoe/?originalSubdomain=uk
+  position: Principal Software Engineer - BBC
+- name: Anne-Marie Lynne
+  info: PhD student with Mark Girolami
+  link: https://science.curie.fr/members/anne-marie-lyne/
+  position: Research Scientist - Centre de Recherche de l'Institut Curie
+- name: Jon Cockayne
+  info: PhD student with Mark Girolami
+  link: http://www.joncockayne.com
+  position: Postdoctoral Research Assistant - <a href="https://www.turing.ac.uk">Alan Turing Institute</a>
+- name: Simon Rogers
+  info: post-doctoral researcher with Mark Girolami
+  link: http://www.dcs.gla.ac.uk/~srogers/
+  position: Senior Lecturer, School of Computing Science, University of Glasgow
+- name: Vlad Vyshemirsky
+  info: post-doctoral researcher with Mark Girolami
+  link: https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vladislavvyshemirsky/
+  position: Lecturer in Statistics, School of Mathematics and Statistics - University of Glasgow
+- name: Maurizio Filippone
+  info: post-doctoral researcher with Mark Girolami
+  link: http://www.eurecom.fr/~filippon/
+  position: AXA Chair of Computational Statistics, EURECOM
+- name: Theodor Papamarkou
+  info: post-doctoral researcher with Mark Girolami
+  link: https://www.linkedin.com/in/papamarkou/
+  position:  Research Scientist - <a href="https://www.ornl.gov">Oak Ridge National Laboratory</a>
+- name: Michael Betancourt
+  info: post-doctoral researcher with Mark Girolami
+  link: https://betanalpha.github.io
+  position: Applied Statistician Consultant
+- name: Simon Byrne
+  link: https://www.linkedin.com/in/simonpjbyrne/
+  position: Lead Software Developer - Caltech CliMA
+- name: Julien Cornebese
+  info: post-doctoral researcher with Mark Girolami
+  link: http://www.cornebise.com/julien/
+  position: Head of Research, <a href="https://www.elementai.com">Element AI</a>
+- name: Tom Diethe
+  info: post-doctoral researcher with Mark Girolami
+  link: https://tomdiethe.com
+  position: Applied Science Manager - Amazon Research
+- name: Matt Higgs
+  info: post-doctoral researcher with Mark Girolami
+  link: https://www.thedatalab.com/podcasts/matt-higgs-data-scientist-at-the-data-lab/
+  position: Data Scientist, <a href="https://www.thedatalab.com">The Data Lab</a>
+- name: Grigoris Skolidis
+  info: post-doctoral researcher with Mark Girolami
+  link: https://www.linkedin.com/in/grigoris-skolidis-9040b855/?originalSubdomain=uk
+  position: Director of Data Science Services - Morphed Solutions
+- name: Vassilis Stathopoulos
+  info: post-doctoral researcher with Mark Girolami
+  link: https://www.linkedin.com/in/vassilis-stathopoulos-92a68115/?originalSubdomain=uk
+  position: Senior Software & Machine Learning Engineer - <a href="https://www.yodiwo.com">yodiwo</a>
+- name: Chao He
+  info: post-doctoral researcher with Mark Girolami
+  link: https://generalassemb.ly/instructors/dr-chao-he/10881
+  position: Founder and Director <a href="https://www.wisers.ai/en/about">Wisers AI Lab</a>
