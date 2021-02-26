@@ -15,35 +15,41 @@ In this term, we are following the "Applied Stochastic Differential Equations" b
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-03-26 - Ch 12 Stochastic Differential Equations in Machine Learning - Alessandro
+2021-04-02 - Ch 12 Stochastic Differential Equations in Machine Learning - Alessandro
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-03-26 - Ch 11 Parameter Estimation in SDE Models - Alex
 {% endcapture %}{% include details.html %}
 
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-03-19 - Ch 11 Parameter Estimation in SDE Models - Alex
+2021-03-19 - Ch 10 Filtering and Smoothing Theory - Connor
 {% endcapture %}{% include details.html %}
 
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-03-12 - Ch 10 Filtering and Smoothing Theory - Connor
+2021-03-12 - Ch 9 Approximation of Nonlinear SDEs - Hussein
 {% endcapture %}{% include details.html %}
 
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-03-05 - Ch 9 Approximation of Nonlinear SDEs - Hussein
+2021-03-05 - Ch 8 Numerical Simulation of SDEs - Jan
 {% endcapture %}{% include details.html %}
 
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-02-26 - Ch 8 Numerical Simulation of SDEs - Jan
+2021-02-26 - An overview of nonasymptotic analysis for the stochastic gradient Markov chain Monte Carlo - Deniz
 {% endcapture %}{% include details.html %}
 
 
