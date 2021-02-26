@@ -419,3 +419,20 @@ The Feynman-Kac formulae (FKF) express local solutions of partial differential e
 Carson, J.; Pollock, M. & Girolami, M.
 Unbiased local solutions of partial differential equations via the Feynman-Kac Identities
 https://arxiv.org/abs/1603.04196
+
+
+
+### Uncertainty in models of alignment
+
+![alignment-image](/_support_files/research/other_projects/swing.png){:height="150px"}
+
+Temporal alignment of sequences is the task of removing the differences between the observed time series arising from the differences in their relative timing. It is a common preprocessing step in time series modelling, usually performed in isolation from the data analysis and modelling. We propose casting alignment learning in a framework where both the alignment and the data is modelled simultaneously. Combined with a probabilistic alignment objective, such an approach allows us to align sequences into multiple, a-priori unknown groups in an unsupervised manner. Furthermore, the use of Bayesian nonparametrics offers the benefits of principled modelling of the noisy observed sequences, explicit priors that encode our beliefs about the constituent parts of the model and the generative process of the data, and an ability to adapt to the complexity of the data.
+
+Another feature of the probabilistic formulation that is lacking in the traditional temporal alignment models is an explicit quantification of the different kinds of uncertainties arising in the alignment problem. These include the uncertainties related to the noisy observations and the fact that the observed data may be explained in multiple different ways, all of which are plausible under our prior assumptions. While formulating various parts of the model, we encounter and discuss some of the challenges of Bayesian modelling, most notably the need for approximate inference. We argue that variational distributions which include correlations between the hierarchical components of the model are necessary to take advantage of the potential of the model to discover the compositional structure in the data and to capture the uncertainty arising from it.
+
+Collaborators on this project:
+- [Neill D.F. Campbell](http://cs.bath.ac.uk/~nc537/) (University of Bath)
+- [Carl Henrik Ek](http://carlhenrik.com/) (University of Cambridge)
+- [Ivan Ustyuzhaninov](https://scholar.google.com/citations?user=YGEMpYUAAAAJ&hl=en) (University of Tuebingen)
+- [Markus Kaiser](https://mrksr.de/) (TU Munich)
+- [Erik Bodin](https://scholar.google.co.uk/citations?user=kgdqbFkAAAAJ&hl=en) (University of Bristol)
