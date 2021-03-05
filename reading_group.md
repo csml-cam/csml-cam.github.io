@@ -42,7 +42,7 @@ In this term, we are following the "Applied Stochastic Differential Equations" b
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-03-05 - Ch 8 Numerical Simulation of SDEs - Jan
+2021-03-05 - Ch 8 Numerical Simulation of SDEs - Jan ([notes](_support_files/reading_group/2021_03_05_numerical_simulation_sdes.slides.html), [notebook](https://github.com/jp2011/sdes-notes/blob/main/numerical-simulation-sdes.ipynb))
 {% endcapture %}{% include details.html %}
 
 
