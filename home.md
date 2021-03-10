@@ -27,5 +27,4 @@ Register Foundation](https://www.lrfoundation.org.uk/en/),
 </figure>
 
 ### Academic partnerships
-- Our team collaborates with [The Data Analytics for Resources &
-  Environments (DARE) Centre](https://darecentre.org.au/) in Australia
+- Our team collaborates with [The Data Analytics for Resources & Environments (DARE) Centre](https://darecentre.org.au/) and [The ARC Research Hub for Offshore Floating Facilities](https://www.offshorehub.edu.au/), both in Australia.
