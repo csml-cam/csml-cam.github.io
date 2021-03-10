@@ -1,4 +1,7 @@
-images: 
+images:
+  - image: /images/carousel_pics/deniz-nudging-particle-filter.gif
+    text: The nudged particle filter (left) is a filtering technique which can be used to successfully track the system under significant model misspecification, such as the Lorenz 63 model with misspecified parameters. In such cases, the bootstrap particle filter (right) collapses and fails to track the system states
+    link: https://link.springer.com/article/10.1007/s11222-019-09884-y
   - image: /images/carousel_pics/ben_boys_visual _cracks.png
     text: Crackings on a concrete beam
     link: ""
