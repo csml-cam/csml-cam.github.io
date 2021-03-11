@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-We are a research group at the [Engineering Department](http://www.eng.cam.ac.uk/) of University of Cambridge, led by [Professor Mark Girolami](https://prof-girolami.uk/).
+Welcome to the webpage of the Computational Statistics and Machine Learning group at the [Engineering Department](http://www.eng.cam.ac.uk/) of University of Cambridge, led by [Professor Mark Girolami](https://prof-girolami.uk/).
 
 {% include carousel.html %}
 
