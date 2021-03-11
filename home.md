@@ -11,17 +11,15 @@ We are a research group at the [Engineering Department](http://www.eng.cam.ac.uk
 
 {% include carousel.html %}
 
-<p>
-  
-</p>
+
 ### Funding partnerships
 
-<figure class="fifth">
-  <a href="https://epsrc.ukri.org/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-esprc.png" style="width: 200px"></a>
+<figure class="center">
+  <p><a href="https://epsrc.ukri.org/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-esprc.png" style="width: 200px"></a>
   <a href="https://www.lrfoundation.org.uk/en/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-lrf.svg" style="width: 150px"></a>
-  <a href="https://www.arup.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-arup.png" style="width: 110px"></a>
-  <a href="https://www.splunk.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-splunk-black-white-bg.png" style="width: 110px"></a>
-  <a href="https://www.nplan.io/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-nplan.png" style="width: 70px"></a>
+  <a href="https://www.arup.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-arup.png" style="width: 110px"></a></p>
+  <p><a href="https://www.splunk.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-splunk-black-white-bg.png" style="width: 110px"></a>
+  <a href="https://www.nplan.io/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-nplan.png" style="width: 70px"></a></p>
 </figure>
 
 ### Academic partnerships
