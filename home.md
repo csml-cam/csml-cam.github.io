@@ -19,7 +19,7 @@ Register Foundation](https://www.lrfoundation.org.uk/en/),
 [nPlan](https://www.nplan.io/).
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-esprc.png" style="width: 200px">
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-esprc.png" style="width: 200px">](https://epsrc.ukri.org/)
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-lrf.svg" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-arup.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-splunk-black-white-bg.png" style="width: 110px">
