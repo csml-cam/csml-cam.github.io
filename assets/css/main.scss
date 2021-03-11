@@ -18,12 +18,17 @@ figcaption {
 
 /* Top navigation bar */
 
-.nav li{
-    display:inline;
+.nav {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
 }
-.nav a{
-    display:inline-block;
-    padding:10px;
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
 }
 
 
@@ -33,6 +38,7 @@ p.byline {
 	line-height: 36px;
 	margin-top: -24px;
 	margin-bottom: 48px;
+	display: inline-block;
 }
 
 h1 {
