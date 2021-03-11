@@ -18,6 +18,19 @@ figcaption {
 
 /* Top navigation bar */
 
+.navbar {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+
 
 p.byline {
 	text-align: center;
