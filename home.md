@@ -13,7 +13,7 @@ We are a research group at the [Engineering Department](http://www.eng.cam.ac.uk
 
  <br>
  
- ### Academic partnerships
+### Academic partnerships
 Our team collaborates with [The Data Analytics for Resources & Environments (DARE) Centre](https://darecentre.org.au/) and [The ARC Research Hub for Offshore Floating Facilities](https://www.offshorehub.edu.au/), both in Australia.
  <br>
  
