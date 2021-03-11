@@ -38,7 +38,7 @@ p.byline {
 h1 {
 font-size: 2.3em;
 line-height: 1.0em;
-margin-bottom: 2.0em;
+text-align: center;
 } 
 
 h2 {
@@ -61,6 +61,19 @@ h3 {
   margin-right: 0;
   font-weight: bold;
   color: #1E434C;
+}
+
+h4 { 
+  display: block;
+  font-size: 1em;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  text-align: center;
+  color: #1E434C;
+  margin-bottom: 2.0em;
 }
 
 
