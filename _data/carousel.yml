@@ -11,6 +11,9 @@ images:
   - image: /images/carousel_pics/ieva_flows_paper_f6_T5.pdf.png
     text: Monotonic Gaussian Process Flows
     link: http://proceedings.mlr.press/v108/ustyuzhaninov20a.html
+  - image: images/carousel_pics/alessandro-hmc-pic.png
+    text: Samples from a well-known distribution on the sphere via reduction by symmetry
+    link: https://arxiv.org/pdf/1903.02699.pdf
   - image: images/carousel_pics/hussein-metal-foam.png
     text: Intercorrelated random fields for struts and fibers
     link: https://doi.org/10.1115/1.4044894
