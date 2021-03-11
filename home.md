@@ -13,12 +13,12 @@ Welcome to the webpage of the Computational Statistics and Machine Learning grou
 
  <br>
  
-<h2>Academic partnerships</h2>
+<h3>Academic partnerships</h3>
 Our team collaborates with [The Data Analytics for Resources & Environments (DARE) Centre](https://darecentre.org.au/) and [The ARC Research Hub for Offshore Floating Facilities](https://www.offshorehub.edu.au/), both in Australia.
 
  <br>
  
-### Funding partnerships
+<h3>Funding partnerships</h3>
 
 <figure class="center">
   <p><a href="https://epsrc.ukri.org/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-esprc.png" style="width: 210px"></a> &nbsp;&nbsp;&nbsp;
