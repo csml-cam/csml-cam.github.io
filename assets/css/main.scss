@@ -18,19 +18,6 @@ figcaption {
 
 /* Top navigation bar */
 
-.nav {
-  list-style-type: none;
-  text-align: center;
-  margin: 0;
-  padding: 0;
-}
-
-.nav li {
-  display: inline-block;
-  font-size: 20px;
-  padding: 20px;
-}
-
 
 p.byline {
 	text-align: center;
@@ -41,68 +28,6 @@ p.byline {
 	display: inline-block;
 }
 
-h1 {
-font-size: 2.3em;
-line-height: 1.0em;
-text-align: center;
-} 
-
-h2 {
-  display: block;
-  font-size: 1.5em;
-  margin-top: 0.83em;
-  margin-bottom: 0.83em;
-  margin-left: 0;
-  margin-right: 0;
-  font-weight: bold;
-  color: #1E434C;
-}
-
-h3 { 
-  display: block;
-  font-size: 1.35em;
-  margin-top: 0.8em;
-  margin-bottom: 0.8em;
-  margin-left: 0;
-  margin-right: 0;
-  font-weight: bold;
-  color: #1E434C;
-}
-
-h4 { 
-  display: block;
-  font-size: 1em;
-  margin-top: 1.33em;
-  margin-bottom: 1.33em;
-  margin-left: 0;
-  margin-right: 0;
-  font-weight: bold;
-  text-align: center;
-  color: #1E434C;
-  margin-bottom: 2.0em;
-}
-
-
-a:link {
-  color: #8D230F;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:visited {
-  color: #8D230F;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: #9B4F0F;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:active {
-  color: #1E434C;
-  background-color: transparent;
-  text-decoration: none;
-}
 
 
 pubtit {
@@ -169,3 +94,68 @@ h3, h2, h1 {
 .carousel-control-prev-icon {
   filter: invert(1);
 }
+
+
+h1 {
+font-size: 2.3em;
+line-height: 1.0em;
+text-align: center;
+} 
+
+h2 {
+  display: block;
+  font-size: 1.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  color: #1E434C;
+}
+
+h3 { 
+  display: block;
+  font-size: 1.35em;
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  color: #1E434C;
+}
+
+h4 { 
+  display: block;
+  font-size: 1em;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  text-align: center;
+  color: #1E434C;
+  margin-bottom: 2.0em;
+}
+
+
+a:link {
+  color: #8D230F;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #8D230F;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #9B4F0F;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: #1E434C;
+  background-color: transparent;
+  text-decoration: none;
+}
+
