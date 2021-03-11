@@ -18,6 +18,15 @@ figcaption {
 
 /* Top navigation bar */
 
+.nav li{
+    display:inline;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+}
+
+
 p.byline {
 	text-align: center;
 	font-size: 18px;
