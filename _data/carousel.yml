@@ -8,10 +8,13 @@ images:
   - image: /images/carousel_pics/connor-kdv-figure-landing.png
     text: Statistical finite elements for misspecified models
     link: https://doi.org/10.1073/pnas.2015006118
+  - image: /images/carousel_pics/ieva_flows_paper_f6_T5.pdf.png
+    text: Monotonic Gaussian Process Flows
+    link: http://proceedings.mlr.press/v108/ustyuzhaninov20a.html
   - image: /images/carousel_pics/statfem-poisson.png
     text: Statistical FEM for Poisson equation
     link: https://doi.org/10.1016/j.cma.2020.113533
-  - image /images/carousel_pics/jan-spatial-mixtures.png
-    text: Inferred locations of commercial burglary in London
+  - image: /images/carousel_pics/jan-spatial-mixtures.png
+    text: "Inferred locations of commercial burglary in London"
     link: https://doi.org/10.1111/rssc.12431
     
