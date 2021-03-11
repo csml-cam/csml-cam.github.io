@@ -11,7 +11,8 @@ We are a research group at the [Engineering Department](http://www.eng.cam.ac.uk
 
 {% include carousel.html %}
 
-
+ <br>
+ 
 ### Funding partnerships
 
 <figure class="center">
@@ -21,6 +22,7 @@ We are a research group at the [Engineering Department](http://www.eng.cam.ac.uk
   <p><a href="https://www.splunk.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-splunk-black-white-bg.png" style="width: 110px"></a> &nbsp;&nbsp;
   <a href="https://www.nplan.io/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-nplan.png" style="width: 70px"></a></p>
 </figure>
+ <br>
 
 ### Academic partnerships
-- Our team collaborates with [The Data Analytics for Resources & Environments (DARE) Centre](https://darecentre.org.au/) and [The ARC Research Hub for Offshore Floating Facilities](https://www.offshorehub.edu.au/), both in Australia.
+Our team collaborates with [The Data Analytics for Resources & Environments (DARE) Centre](https://darecentre.org.au/) and [The ARC Research Hub for Offshore Floating Facilities](https://www.offshorehub.edu.au/), both in Australia.
