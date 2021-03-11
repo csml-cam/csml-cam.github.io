@@ -13,7 +13,7 @@ Welcome to the webpage of the Computational Statistics and Machine Learning grou
 
  <br>
  
-### Academic partnerships
+<h2>Academic partnerships</h2>
 Our team collaborates with [The Data Analytics for Resources & Environments (DARE) Centre](https://darecentre.org.au/) and [The ARC Research Hub for Offshore Floating Facilities](https://www.offshorehub.edu.au/), both in Australia.
 
  <br>
