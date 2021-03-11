@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-We are a research group at the [Engineering Deparment](http://www.eng.cam.ac.uk/) of University of Cambridge, led by [Professor Mark Girolami](https://prof-girolami.uk/).
+We are a research group at the [Engineering Department](http://www.eng.cam.ac.uk/) of University of Cambridge, led by [Professor Mark Girolami](https://prof-girolami.uk/).
 
 {% include carousel.html %}
 
