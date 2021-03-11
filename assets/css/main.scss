@@ -20,7 +20,9 @@ figcaption {
 .navbar {
   text-align: center;
   justify-content: center;
-  padding: .5rem 27rem;
+  padding-right:50%;
+  padding-left:50%;
+  max-width: 1000px; /* or 950px */
 }
 
 p.byline {
