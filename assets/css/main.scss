@@ -18,12 +18,12 @@ figcaption {
 
 /* Top navigation bar */
 .navbar {
-  text-align: center;
-  width: 120%;
-  justify-content: center;
+  display:table;
+  width:100%;
+  margin: 0;
   padding-right:50%;
   padding-left:50%;
-  max-width: 1000px; /* or 950px */
+  max-width: 1200px; /* or 950px */
 }
 
 p.byline {
@@ -50,7 +50,7 @@ firstp {
   padding-top: 30px;
   margin-right: auto;
   margin-left: auto;
-  max-width: 1000px; /* or 950px */
+  max-width: 1050px; /* or 950px */
 }
 
 /* Home, News */
