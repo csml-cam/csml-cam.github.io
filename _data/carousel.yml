@@ -11,6 +11,9 @@ images:
   - image: /images/carousel_pics/ieva_flows_paper_f6_T5.pdf.png
     text: Monotonic Gaussian Process Flows
     link: http://proceedings.mlr.press/v108/ustyuzhaninov20a.html
+  - image: images/carousel_pics/hussein-metal-foam.png
+    text: Intercorrelated random fields for struts and fibers
+    link: https://doi.org/10.1115/1.4044894
   - image: /images/carousel_pics/statfem-poisson.png
     text: Statistical FEM for Poisson equation
     link: https://doi.org/10.1016/j.cma.2020.113533
