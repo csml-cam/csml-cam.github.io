@@ -15,6 +15,12 @@ In this term, we are following the "Applied Stochastic Differential Equations" b
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
+2021-04-09 - Statistical finite element methods for nonlinear PDEs - Connor
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
 2021-04-02 - Ch 12 Stochastic Differential Equations in Machine Learning - Alessandro
 {% endcapture %}{% include details.html %}
 
