@@ -15,7 +15,7 @@ In this term, we are following the "Applied Stochastic Differential Equations" b
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-04-16 - Time Limit of Gradient Algorithms - Justin
+2021-04-16 - Continuous Time Limit of Gradient Algorithms - Justin
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
