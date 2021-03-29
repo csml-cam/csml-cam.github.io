@@ -48,6 +48,7 @@ For more information visit:
 1. [A recent publication in the Data-centric engineering journal](https://doi.org/10.1017/dce.2020.21).
 2. [The farm website](http://growing-underground.com/)
 3. [Coverage by University of Cambridge](http://www.eng.cam.ac.uk/news/cambridge-engineers-unveil-digital-twin-support-future-farming)
+4. [A story-format coverage by University of Cambridge website](https://www.cam.ac.uk/stories/growingunderground)
 
 
 ### Aerospace-engineering applications
