@@ -27,7 +27,7 @@ We meet every week on Friday at 15:00.
 {% capture summary %}
 2021-04-16 - Statistical finite element methods for nonlinear PDEs - Connor
 {% endcapture %}{% include details.html %}
-<br/><br/>
+<br/>
 
 In this term, we are following the "Applied Stochastic Differential Equations" book by Särkkä and Solin.
 
