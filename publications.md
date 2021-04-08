@@ -15,12 +15,6 @@ For the full list of publications, scroll down.
 
 ## All publications
     
-Connor Duffin, Edward Cripps, Thomas Stemler, and Mark Girolami.
-Statistical finite elements for misspecified models. *Proceedings of the
-National Academy of Sciences*, 118(2):e2015006118, dec 2020. URL:
-<https://doi.org/10.1073%2Fpnas.2015006118>,
-[doi:10.1073/pnas.2015006118](https://doi.org/10.1073/pnas.2015006118).
-
 Jakub Pruher, Toni Karvonen, Christopher James Oates, Ondrej Straka, and
 Simo Sarkka. Improved calibration of numerical integration error in
 sigma-point filters. *IEEE Transactions on Automatic Control*, pages
@@ -85,12 +79,6 @@ Lorenz Richter, Ayman Boustati, Nikolas Nüsken, Francisco Ruiz, and
 Omer Deniz Akyildiz. Vargrad: a low-variance gradient estimator for
 variational inference. *Advances in Neural Information Processing
 Systems*, 2020.
-
-Toni Karvonen, Simo Särkkä, and Ken'ichiro Tanaka. Correction to:
-kernel-based interpolation at approximate fekete points. *Numerical
-Algorithms*, dec 2020. URL:
-<https://doi.org/10.1007%2Fs11075-020-01034-0>,
-[doi:10.1007/s11075-020-01034-0](https://doi.org/10.1007/s11075-020-01034-0).
 
 Toni Karvonen, Simo SÃ¤rkkÃ¤, and Ken'ichiro Tanaka. Kernel-based
 interpolation at approximate fekete points. *Numerical Algorithms*, jul
@@ -430,13 +418,6 @@ International Conference on Machine Learning, ICML 2015*, 1:588--596,
 P. Hennig, M.A. Osborne, and M. Girolami. Probabilistic numerics and
 uncertainty in computations. *Proceedings of the Royal Society A:
 Mathematical, Physical and Engineering Sciences*, 2015.
-
-Alessandro Barp, Edoardo Gabriele Barp, François-Xavier Briol, and
-Daniel Ueltschi. A numerical study of the 3d random interchange and
-random loop models. *Journal of Physics A: Mathematical and
-Theoretical*, 48(34):345002, aug 2015. URL:
-<https://doi.org/10.1088%2F1751-8113%2F48%2F34%2F345002>,
-[doi:10.1088/1751-8113/48/34/345002](https://doi.org/10.1088/1751-8113/48/34/345002).
 
 V. Stathopoulos, V. Zamora-Gutierrez, K.E. Jones, and M. Girolami. Bat
 call identification with gaussian process multinomial probit regression
