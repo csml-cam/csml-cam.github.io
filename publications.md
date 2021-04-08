@@ -21,6 +21,12 @@ National Academy of Sciences*, 118(2):e2015006118, dec 2020. URL:
 <https://doi.org/10.1073%2Fpnas.2015006118>,
 [doi:10.1073/pnas.2015006118](https://doi.org/10.1073/pnas.2015006118).
 
+Jakub Pruher, Toni Karvonen, Christopher James Oates, Ondrej Straka, and
+Simo Sarkka. Improved calibration of numerical integration error in
+sigma-point filters. *IEEE Transactions on Automatic Control*, pages
+1--1, 2020. URL: <https://doi.org/10.1109%2Ftac.2020.2991698>,
+[doi:10.1109/tac.2020.2991698](https://doi.org/10.1109/tac.2020.2991698).
+
 Maharshi Dhada, Mark Girolami, and Ajith Kumar Parlikad. Anomaly
 detection in a fleet of industrial assets with hierarchical statistical
 modeling. *Data-Centric Engineering*, 2020. URL:
@@ -79,6 +85,23 @@ Lorenz Richter, Ayman Boustati, Nikolas Nüsken, Francisco Ruiz, and
 Omer Deniz Akyildiz. Vargrad: a low-variance gradient estimator for
 variational inference. *Advances in Neural Information Processing
 Systems*, 2020.
+
+Toni Karvonen, Simo Särkkä, and Ken'ichiro Tanaka. Correction to:
+kernel-based interpolation at approximate fekete points. *Numerical
+Algorithms*, dec 2020. URL:
+<https://doi.org/10.1007%2Fs11075-020-01034-0>,
+[doi:10.1007/s11075-020-01034-0](https://doi.org/10.1007/s11075-020-01034-0).
+
+Toni Karvonen, Simo SÃ¤rkkÃ¤, and Ken'ichiro Tanaka. Kernel-based
+interpolation at approximate fekete points. *Numerical Algorithms*, jul
+2020. URL: <https://doi.org/10.1007%2Fs11075-020-00973-y>,
+[doi:10.1007/s11075-020-00973-y](https://doi.org/10.1007/s11075-020-00973-y).
+
+Toni Karvonen and Simo SÃ¤rkkÃ¤. Worst-case optimal approximation with
+increasingly flat gaussian kernels. *Advances in Computational
+Mathematics*, mar 2020. URL:
+<https://doi.org/10.1007%2Fs10444-020-09767-1>,
+[doi:10.1007/s10444-020-09767-1](https://doi.org/10.1007/s10444-020-09767-1).
 
 Ivan Ustyuzhaninov\*, Ieva Kazlauskaite\*, Markus Kaiser, Erik Bodin,
 Neill Campbell, and Carl Henrik Ek. Compositional uncertainty in deep
@@ -179,6 +202,19 @@ M. Hodkiewicz, G.N. Ivey, and N.L. Jones. Uncertainty quantification of
 density and stratification estimates with implications for predicting
 ocean dynamics. *Journal of Atmospheric and Oceanic Technology*,
 36(8):1313--1330, 2019.
+
+Toni Karvonen and Simo SÃ¤rkkÃ¤. Gaussian kernel quadrature at scaled
+gauss--hermite nodes. *BIT Numerical Mathematics*, 59(4):877--902, jun
+2019. URL: <https://doi.org/10.1007%2Fs10543-019-00758-3>,
+[doi:10.1007/s10543-019-00758-3](https://doi.org/10.1007/s10543-019-00758-3).
+
+Filip Tronarp, Toni Karvonen, and Simo Sarkka. Students
+$\less$inline-formula$\greater$ $\less$tex-math
+notation=\"LaTeX\"$\greater$t$\less$/tex-math$\greater$
+$\less$/inline-formula$\greater$-filters for noise scale estimation.
+*IEEE Signal Processing Letters*, 26(2):352--356, feb 2019. URL:
+<https://doi.org/10.1109%2Flsp.2018.2889440>,
+[doi:10.1109/lsp.2018.2889440](https://doi.org/10.1109/lsp.2018.2889440).
 
 Ieva Kazlauskaite, Carl Henrik Ek, and Neill DF Campbell. Gaussian
 process latent variable alignment learning. In *International Conference
@@ -351,6 +387,13 @@ American Statistical Association*, 111(514):634--645, 2016.
 S. Virtanen, M. Rost, A. Morrison, M. Chalmers, and M. Girolami.
 Uncovering smartphone usage patterns with multi-view mixed membership
 models. *Stat*, 5(1):57--69, 2016.
+
+Toni Karvonen and Simo Sarkka. Approximate state-space gaussian
+processes via spectral transformation. In *2016 IEEE 26th International
+Workshop on Machine Learning for Signal Processing (MLSP)*. Institute of
+Electrical and Electronics Engineers (IEEE), sep 2016. URL:
+<https://doi.org/10.1109%2Fmlsp.2016.7738812>,
+[doi:10.1109/mlsp.2016.7738812](https://doi.org/10.1109/mlsp.2016.7738812).
 
 L.E.M. Hopcroft, B. Calderhead, P. Gallipoli, T.L. Holyoake, and M.A.
 Girolami. Bayesian inference for model selection: an application to
