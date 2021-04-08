@@ -10,7 +10,11 @@ We meet every week on Friday at 15:00.
 
 ## Lent Term 2021 Schedule
 
-In this term, we are following the "Applied Stochastic Differential Equations" book by Särkkä and Solin.
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-04-30 - TBA - Kangrui Wang
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
@@ -23,6 +27,8 @@ In this term, we are following the "Applied Stochastic Differential Equations" b
 {% capture summary %}
 2021-04-16 - Statistical finite element methods for nonlinear PDEs - Connor
 {% endcapture %}{% include details.html %}
+
+In this term, we are following the "Applied Stochastic Differential Equations" book by Särkkä and Solin.
 
 {% capture details %}
 {% endcapture %}
