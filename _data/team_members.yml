@@ -24,6 +24,16 @@
   education2: MASt Part III of the Mathematical Tripos, The University of Cambridge (2016)
   education3: MMathPhys, The University of Warwick  (2015)
 
+- name: Toni Karvonen
+  photo: toni_karvonen.png
+  info: Toni is a Research Fellow at The Alan Turing Institute. His primary research interests are in Gaussian process and kernel-based modelling and approximation, related uncertainty quantification, and probabilistic numerical methods, in particular for integration. Previously he has worked on non-linear stochastic filtering problems.
+  email: tkarvonen@turing.ac.uk
+  website: https://tskarvone.github.io/
+  number_educ: 3
+  education1: Doctor of Science (Technology), Department of Electrical Engineering and Automation, Aalto University, Finland (2019)
+  education2: MSc in applied mathematics, Department of Mathematics and Statistics, University of Helsinki, Finland (2015)
+  education3: BSc in mathematics, Department of Mathematics and Statistics, University of Helsinki, Finland (2015)
+
 - name: Ieva Kazlauskaite
   photo: ieva_kazlauskaite.jpg
   info: Ieva is a Research Associate (postdoc) in the Engineering Department at the University of Cambridge funded by the <a href="https://iconicmath.org/" target="_blank">ICONIC</a> grant. Her current research is in the area of data-centric engineering, focusing on structural problems and ways to combine statistical and numerical approaches to solutions of differential equations. Prior to that, Ieva completed her doctoral degree at the University of Bath working on Gaussian processes. During her doctoral studies she spent 3 years in industry as a Research Engineer / Engineering Doctorate student at the Frostbite Physics Team at Electronic Arts.
