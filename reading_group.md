@@ -13,19 +13,19 @@ We meet every week on Friday at 15:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-04-30 - TBA - Kangrui Wang
+2021-05-07 - TBA - Kangrui Wang
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-04-23 - Continuous Time Limit of Gradient Algorithms - Justin
+2021-04-30 - Continuous Time Limit of Gradient Algorithms - Justin
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-04-16 - Statistical finite element methods for nonlinear PDEs - Connor
+2021-04-23 - Statistical finite element methods for nonlinear PDEs - Connor
 {% endcapture %}{% include details.html %}
 <br/>
 
@@ -34,7 +34,7 @@ In this term, we are following the "Applied Stochastic Differential Equations" b
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-04-09 - Ch 12 Stochastic Differential Equations in Machine Learning - Alessandro
+2021-04-16 - Ch 12 Stochastic Differential Equations in Machine Learning - Alessandro
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
