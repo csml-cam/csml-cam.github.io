@@ -15,6 +15,12 @@ For the full list of publications, scroll down.
 
 ## All publications
     
+Connor Duffin, Edward Cripps, Thomas Stemler, and Mark Girolami.
+Statistical finite elements for misspecified models. *Proceedings of the
+National Academy of Sciences*, 118(2):e2015006118, dec 2020. URL:
+<https://doi.org/10.1073%2Fpnas.2015006118>,
+[doi:10.1073/pnas.2015006118](https://doi.org/10.1073/pnas.2015006118).
+
 Toni Karvonen, Simo SÃ¤rkkÃ¤, and Ken'ichiro Tanaka. Kernel-based
 interpolation at approximate fekete points. *Numerical Algorithms*, jul
 2020. URL: <https://doi.org/10.1007%2Fs11075-020-00973-y>,
@@ -36,6 +42,11 @@ J. Povala, S. Virtanen, and M. Girolami. Burglary in london: insights
 from statistical heterogeneous spatial point processes. *Journal of the
 Royal Statistical Society. Series C: Applied Statistics*,
 69(5):1067--1090, 2020.
+
+Melanie Jans-Singh, Kathryn Leeming, Ruchi Choudhary, and Mark Girolami.
+Digital twin of an urban-integrated hydroponic farm. *Data-Centric
+Engineering*, 2020. URL: <https://doi.org/10.1017%2Fdce.2020.21>,
+[doi:10.1017/dce.2020.21](https://doi.org/10.1017/dce.2020.21).
 
 C.Y. Wong, P. Seshadri, G.T. Parks, and M. Girolami. Embedded ridge
 approximations. *Computer Methods in Applied Mechanics and Engineering*,
