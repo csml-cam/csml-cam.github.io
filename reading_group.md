@@ -31,6 +31,12 @@ We meet every week on Friday at 15:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
+2021-05-14 - Nudging the particle filter - Omer Deniz Akyildiz
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
 2021-05-07 - TBA - Kangrui Wang
 {% endcapture %}{% include details.html %}
 
