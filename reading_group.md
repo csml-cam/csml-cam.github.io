@@ -25,6 +25,12 @@ We meet every week on Friday at 15:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
+2021-05-21 - TBA - Andrius Ovsianas
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
 2021-05-07 - TBA - Kangrui Wang
 {% endcapture %}{% include details.html %}
 
