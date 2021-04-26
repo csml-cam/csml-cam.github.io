@@ -32,10 +32,11 @@ Algorithms*, dec 2020. URL:
 <https://doi.org/10.1007%2Fs11075-020-01034-0>,
 [doi:10.1007/s11075-020-01034-0](https://doi.org/10.1007/s11075-020-01034-0).
 
-Jakub Pruher, Toni Karvonen, Christopher James Oates, Ondrej Straka, and
-Simo Sarkka. Improved calibration of numerical integration error in
-sigma-point filters. *IEEE Transactions on Automatic Control*, pages
-1--1, 2020. URL: <https://doi.org/10.1109%2Ftac.2020.2991698>,
+Jakub Pruher, Toni Karvonen, Chris J. Oates, Ondrej Straka, and Simo
+Sarkka. Improved calibration of numerical integration error in
+sigma-point filters. *IEEE Transactions on Automatic Control*,
+66(3):1286--1292, mar 2021. URL:
+<https://doi.org/10.1109%2Ftac.2020.2991698>,
 [doi:10.1109/tac.2020.2991698](https://doi.org/10.1109/tac.2020.2991698).
 
 Maharshi Dhada, Mark Girolami, and Ajith Kumar Parlikad. Anomaly
