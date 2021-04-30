@@ -13,6 +13,12 @@ We meet every week on Friday at 15:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
+2021-06-11 - TBA - Juan Maroñas
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
 2021-06-04 - TBA - Ben Boys
 {% endcapture %}{% include details.html %}
 
