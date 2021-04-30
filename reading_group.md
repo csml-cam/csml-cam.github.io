@@ -8,8 +8,6 @@ permalink: /reading_group
 
 We meet every week on Friday at 15:00. 
 
-## Lent Term 2021 Schedule
-
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
