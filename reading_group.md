@@ -43,7 +43,7 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-05-07 - Non-stationary kernels for Gaussian processes - Kangrui Wang <span style="color:blue">Starts at 15:30.</span>.
+2021-05-07 - Non-stationary kernels for Gaussian processes - Kangrui Wang <span style="color:blue">Starts at 15:30.</span>
 {% endcapture %}{% include details.html %}
 
 ## Past talks
