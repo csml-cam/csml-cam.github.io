@@ -6,6 +6,8 @@ sitemap: false
 permalink: /reading_group
 ---
 
+## Upcoming
+
 We meet every week on Friday at 15:00. 
 
 {% capture details %}
@@ -41,8 +43,10 @@ We meet every week on Friday at 15:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-05-07 - TBA - Kangrui Wang
+2021-05-07 - Non-stationary kernels for Gaussian processes - Kangrui Wang
 {% endcapture %}{% include details.html %}
+
+## Past talks
 
 {% capture details %}
 {% endcapture %}
@@ -57,7 +61,7 @@ We meet every week on Friday at 15:00.
 {% endcapture %}{% include details.html %}
 <br/>
 
-In this term, we are following the "Applied Stochastic Differential Equations" book by Särkkä and Solin.
+In this term, we followed the "Applied Stochastic Differential Equations" book by Särkkä and Solin.
 
 {% capture details %}
 {% endcapture %}
