@@ -19,7 +19,7 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-06-11 - ([Solving high-dimensional Hamilton-Jacobi-Bellman PDEs using neural networks: perspectives from the theory of controlled diffusions and measures on path space](https://arxiv.org/abs/2005.05409)) - Nik Nuesken
+2021-06-11 - [Solving high-dimensional Hamilton-Jacobi-Bellman PDEs using neural networks: perspectives from the theory of controlled diffusions and measures on path space](https://arxiv.org/abs/2005.05409) - Nik Nuesken
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -43,7 +43,7 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-05-14 - ([Nudging the particle filter](https://arxiv.org/abs/1708.07801)) - Omer Deniz Akyildiz 
+2021-05-14 - [Nudging the particle filter](https://arxiv.org/abs/1708.07801) - Omer Deniz Akyildiz 
 {% endcapture %}{% include details.html %}
 
 ([paper](_support_files/reading_group/2021_03_05_numerical_simulation_sdes.slides.html), [notebook](https://github.com/jp2011/sdes-notes/blob/main/numerical-simulation-sdes.ipynb))
