@@ -31,13 +31,13 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-05-28 - TBA - Hussein Rappel
+2021-05-28 - TBA - Hussein Rappel <span style="color:blue">(starts at 15:00)</span>
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-05-21 - TBA - Andrius Ovsianas
+2021-05-21 - TBA - Andrius Ovsianas <span style="color:blue">(starts at 15:00)</span>
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
