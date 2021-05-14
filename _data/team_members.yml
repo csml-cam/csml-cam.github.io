@@ -20,9 +20,17 @@
   info: Alessandro is a Research Associate (postdoc) in the Engineering Department at the University of Cambridge and a visiting researcher at The Alan Turing Institute. His research focuses on the empowerment of measures via the geometrisation of statistical methods, such as Hamiltonian Monte Carlo and kernel algorithms built with Stein operators. After having completed the MMathPhys of The University of Warwick and Part III of the Mathematical Tripos at Cambridge, he received his PhD from Imperial College London.
   email: ab2286@cam.ac.uk
   number_educ: 3
-  education1: PhD in Mathematics, Imperial College London (2020)
-  education2: MASt Part III of the Mathematical Tripos, The University of Cambridge (2016)
-  education3: MMathPhys, The University of Warwick  (2015)
+  education1: PhD in Mathematics, Imperial College London, UK (2020)
+  education2: MASt Part III of the Mathematical Tripos, University of Cambridge, UK (2016)
+  education3: MMathPhys, University of Warwick, UK  (2015)
+  
+- name: Lawrence Bull
+  info: Lawrence is a post-doctoral researcher in probabilistic (esp. Bayesian) machine learning for engineering systems, particularly performance and health monitoring.
+  email: l.a.bull@sheffield.ac.uk
+  website: https://labull.github.io/
+  number_educ: 2
+  education1: PhD in Mechanical Enginerring, University of Sheffield, UK (2019)
+  education2: MEng Mechanical Engineering, University of Sheffield, UK (2016)
 
 - name: Toni Karvonen
   photo: toni_karvonen.png
