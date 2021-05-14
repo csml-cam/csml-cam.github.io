@@ -40,13 +40,13 @@ We meet every week on Friday at 14:00.
 2021-05-21 - TBA - Andrius Ovsianas <span style="color:blue">(starts at 15:00)</span>
 {% endcapture %}{% include details.html %}
 
+## Past talks
+
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
 2021-05-14 - [Nudging the particle filter](https://arxiv.org/abs/1708.07801) - Omer Deniz Akyildiz 
 {% endcapture %}{% include details.html %}
-
-## Past talks
 
 {% capture details %}
 {% endcapture %}
