@@ -75,7 +75,7 @@ if __name__ == '__main__':
                 continue
             try:
                 year = orcid_full_entry['publication-date']['year']['value']
-            except KeyError:
+            except except (KeyError, Exception) as e:
                 year = None
 
             entry_doi = None
