@@ -21,6 +21,26 @@ National Academy of Sciences*, 118(2):e2015006118, dec 2020. URL:
 <https://doi.org/10.1073%2Fpnas.2015006118>,
 [doi:10.1073/pnas.2015006118](https://doi.org/10.1073/pnas.2015006118).
 
+Lawrence A. Bull, Paul Gardner, Timothy J. Rogers, Elizabeth J. Cross,
+Nikolaos Dervilis, and Keith Worden. Probabilistic inference for
+structural health monitoring: new modes of learning from data.
+*ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part
+A: Civil Engineering*, 7(1):03120003, mar 2021. URL:
+<https://doi.org/10.1061%2Fajrua6.0001106>,
+[doi:10.1061/ajrua6.0001106](https://doi.org/10.1061/ajrua6.0001106).
+
+LA Bull, P Gardner, TJ Rogers, EJ Cross, N Dervilis, and K Worden. New
+modes of inference for probabilistic shm. In *Lecture Notes in Civil
+Engineering*, pages 415--426. Springer International Publishing, 2021.
+[doi:10.1007/978-3-030-64908-1\_39](https://doi.org/10.1007/978-3-030-64908-1_39).
+
+J Gosliga, P Gardner, LA Bull, N Dervilis, and K Worden. Towards
+population-based structural health monitoring, part ii: heterogeneous
+populations and structures as graphs. In *Topics in Modal Analysis &
+Testing, Volume 8*, pages 177--187. Springer International Publishing,
+2021.
+[doi:10.1007/978-3-030-47717-2\_17](https://doi.org/10.1007/978-3-030-47717-2_17).
+
 Toni Karvonen, Simo SÃ¤rkkÃ¤, and Ken'ichiro Tanaka. Kernel-based
 interpolation at approximate fekete points. *Numerical Algorithms*, jul
 2020. URL: <https://doi.org/10.1007%2Fs11075-020-00973-y>,
@@ -97,6 +117,46 @@ Lorenz Richter, Ayman Boustati, Nikolas Nüsken, Francisco Ruiz, and
 Omer Deniz Akyildiz. Vargrad: a low-variance gradient estimator for
 variational inference. *Advances in Neural Information Processing
 Systems*, 2020.
+
+J Gosliga, PA Gardner, LA Bull, N Dervilis, and K Worden. Towards
+population-based structural health monitoring, part iii: graphs,
+networks and communities. In *Topics in Modal Analysis & Testing.
+Proceedings of the 38th IMAC, A Conference and Exposition on Structural
+Dynamics 2020*, volume 8, 255--267. Houston, TX, USA, Springer, Oct
+2020.
+[doi:10.1007/978-3-030-47717-2\_26](https://doi.org/10.1007/978-3-030-47717-2_26).
+
+L.A. Bull, K. Worden, and N. Dervilis. Towards semi-supervised and
+probabilistic classification in structural health monitoring.
+*Mechanical Systems and Signal Processing*, 140:106653, jun 2020. URL:
+<https://doi.org/10.1016%2Fj.ymssp.2020.106653>,
+[doi:10.1016/j.ymssp.2020.106653](https://doi.org/10.1016/j.ymssp.2020.106653).
+
+LA Bull, K Worden, TJ Rogers, EJ Cross, and N Dervilis. Investigating
+engineering data by probabilistic measures. In *Special Topics in
+Structural Dynamics & Experimental Techniques, Volume 5*, pages 77--81.
+Springer International Publishing, 2020.
+[doi:10.1007/978-3-030-12243-0\_12](https://doi.org/10.1007/978-3-030-12243-0_12).
+
+P Gardner, LA Bull, N Dervilis, and K Worden. Kernelised bayesian
+transfer learning for population-based structural health monitoring. In
+*Model Validation and Uncertainty Quantification, Volume 3*, pages
+209--215. Springer International Publishing, 2020.
+[doi:10.1007/978-3-030-47638-0\_22](https://doi.org/10.1007/978-3-030-47638-0_22).
+
+LA Bull, PA Gardner, J Gosliga, N Dervilis, E Papatheou, AE Maguire,
+C Campos, TJ Rogers, EJ Cross, and K Worden. Towards population-based
+structural health monitoring, part i: homogeneous populations and forms.
+In *Model Validation and Uncertainty Quantification, Volume 3*, pages
+287--302. Springer International Publishing, 2020.
+[doi:10.1007/978-3-030-47638-0\_32](https://doi.org/10.1007/978-3-030-47638-0_32).
+
+P Gardner, LA Bull, J Gosliga, N Dervilis, and K Worden. Towards
+population-based structural health monitoring, part iv: heterogeneous
+populations, transfer and mapping. In *Model Validation and Uncertainty
+Quantification, Volume 3*, pages 187--199. Springer International
+Publishing, 2020.
+[doi:10.1007/978-3-030-47638-0\_20](https://doi.org/10.1007/978-3-030-47638-0_20).
 
 Toni Karvonen and Simo SÃ¤rkkÃ¤. Worst-case optimal approximation with
 increasingly flat gaussian kernels. *Advances in Computational
@@ -204,6 +264,37 @@ density and stratification estimates with implications for predicting
 ocean dynamics. *Journal of Atmospheric and Oceanic Technology*,
 36(8):1313--1330, 2019.
 
+L.A. Bull, T.J. Rogers, C. Wickramarachchi, E.J. Cross, K. Worden, and
+N. Dervilis. Probabilistic active learning: an online framework for
+structural health monitoring. *Mechanical Systems and Signal
+Processing*, 134:106294, dec 2019. URL:
+<https://doi.org/10.1016%2Fj.ymssp.2019.106294>,
+[doi:10.1016/j.ymssp.2019.106294](https://doi.org/10.1016/j.ymssp.2019.106294).
+
+L.A. Bull, K. Worden, R. Fuentes, G. Manson, E.J. Cross, and
+N. Dervilis. Outlier ensembles: a robust method for damage detection and
+unsupervised feature extraction from high-dimensional data. *Journal of
+Sound and Vibration*, 453:126--150, aug 2019. URL:
+<https://doi.org/10.1016%2Fj.jsv.2019.03.025>,
+[doi:10.1016/j.jsv.2019.03.025](https://doi.org/10.1016/j.jsv.2019.03.025).
+
+LA Bull, K Worden, TJ Rogers, C Wickramarachchi, EJ Cross, T McLeay,
+W Leahy, and N Dervilis. A probabilistic framework for online structural
+health monitoring : active learning from machining data streams. In
+*Journal of Physics: Conference Series*, volume 1264. Valpre, Lyon,
+France, IOP Publishing, Jul 2019.
+[doi:10.1088/1742-6596/1264/1/012028](https://doi.org/10.1088/1742-6596/1264/1/012028).
+
+N Dervilis, T Zhang, L Bull, EJ Cross, TJ Rogers, R Fuentes,
+V Dertimanis, I Abdallah, E Chatzi, and K Worden. A nonlinear robust
+outlier detection approach for shm. In *8th IOMAC - International
+Operational Modal Analysis Conference, Proceedings*, 107--114. Jan 2019.
+
+L Bull, G Manson, K Worden, and N Dervilis. Active learning approaches
+to structural health monitoring. In 157--159. Springer International
+Publishing, 2019.
+[doi:10.1007/978-3-319-75390-4\_14](https://doi.org/10.1007/978-3-319-75390-4_14).
+
 Toni Karvonen and Simo SÃ¤rkkÃ¤. Gaussian kernel quadrature at scaled
 gauss--hermite nodes. *BIT Numerical Mathematics*, 59(4):877--902, jun
 2019. URL: <https://doi.org/10.1007%2Fs10543-019-00758-3>,
@@ -288,6 +379,12 @@ Mathematical, Physical and Engineering Sciences*, 2018.
 F.D.-H. Lau, N.M. Adams, M.A. Girolami, L.J. Butler, and M.Z.E.B.
 Elshafie. The role of statistics in data-centric engineering.
 *Statistics and Probability Letters*, 136:58--62, 2018.
+
+L. Bull, K. Worden, G. Manson, and N. Dervilis. Active learning for
+semi-supervised structural health monitoring. *Journal of Sound and
+Vibration*, 437:373--388, dec 2018. URL:
+<https://doi.org/10.1016%2Fj.jsv.2018.08.040>,
+[doi:10.1016/j.jsv.2018.08.040](https://doi.org/10.1016/j.jsv.2018.08.040).
 
 H. Rappel, L.A.A. Beex, and S.P.A. Bordas. Bayesian inference to
 identify parameters in viscoelasticity. *Mechanics of Time-Dependent
