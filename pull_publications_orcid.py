@@ -69,7 +69,10 @@ if __name__ == '__main__':
 
             orcid_full_entry = api.read_record_public(orcid_id, 'work', search_token, put_code=put_code)
             logging.info(orcid_full_entry)
-
+            
+            if orcid_full_entry is None:
+                # a faulty ORCID record
+                continue
             try:
                 year = orcid_full_entry['publication-date']['year']['value']
             except KeyError:
