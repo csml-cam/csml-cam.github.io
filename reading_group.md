@@ -39,7 +39,7 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-05-21 - Theoretical Statistics - Andrius Ovsianas <span style="color:blue">(starts at 15:00)</span>
+2021-05-21 - Theoretical Statistics - Andrius Ovsianas <span style="color:blue">(starts at 15:00)</span> [(slides)](https://github.com/csml-cam/csml-cam.github.io/blob/gh-pages/_support_files/reading_group/2021_05_21_rg_andrius_theoretical_stats.pdf)
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
