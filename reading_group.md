@@ -34,13 +34,13 @@ We meet every week on Friday at 14:00.
 2021-05-28 - TBA - Hussein Rappel <span style="color:blue">(starts at 15:00)</span>
 {% endcapture %}{% include details.html %}
 
+## Past talks
+
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-05-21 - TBA - Andrius Ovsianas <span style="color:blue">(starts at 15:00)</span>
+2021-05-21 - Theoretical Statistics - Andrius Ovsianas <span style="color:blue">(starts at 15:00)</span>
 {% endcapture %}{% include details.html %}
-
-## Past talks
 
 {% capture details %}
 {% endcapture %}
