@@ -13,6 +13,12 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
+2021-06-18 - TBA - [Patrick Kidger](https://kidger.site/)
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
 2021-06-18 - TBA - Juan Maroñas
 {% endcapture %}{% include details.html %}
 
