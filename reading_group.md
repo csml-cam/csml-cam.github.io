@@ -25,7 +25,7 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-06-18 - TBA - Juan Maroñas
+2021-06-18 - [Transforming Gaussian processes with normalizing flows](http://proceedings.mlr.press/v130/maronas21a.html) - Juan Maroñas
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
