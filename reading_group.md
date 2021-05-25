@@ -43,7 +43,7 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-05-28 - TBA - Hussein Rappel <span style="color:blue">(starts at 15:00)</span>
+2021-05-28 - Probabilistic modeling and identification of parameter fields with bounds: Application to solid mechanics - Hussein Rappel <span style="color:blue">(starts at 15:00)</span>
 {% endcapture %}{% include details.html %}
 
 ## Past talks
