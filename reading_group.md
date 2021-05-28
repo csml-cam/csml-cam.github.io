@@ -20,7 +20,7 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-07-09 - [TBA] - [TBA]
+2021-07-09 - [TBA]() - [TBA]()
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
