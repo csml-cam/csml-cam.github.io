@@ -13,6 +13,13 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
+2021-07-16 - [TBA]() - [Tim Dodwell](https://emps.exeter.ac.uk/engineering/staff/td336)
+{% endcapture %}{% include details.html %}
+
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
 2021-07-02 - [Variational inference for nonlinear ordinary differential equations](http://proceedings.mlr.press/v130/ghosh21b.html) - [Sanmitra Ghosh](https://scholar.google.co.uk/citations?user=qztBLGYAAAAJ&hl=en)
 {% endcapture %}{% include details.html %}
 
