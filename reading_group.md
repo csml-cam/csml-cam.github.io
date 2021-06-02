@@ -16,11 +16,10 @@ We meet every week on Friday at 14:00.
 2021-07-16 - [TBA]() - [Tim Dodwell](https://emps.exeter.ac.uk/engineering/staff/td336)
 {% endcapture %}{% include details.html %}
 
-
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-07-09 - TBA - TBA
+2021-07-09 - [Efficient stochastic optimisation by unadjusted Langevin Monte Carlo](https://link.springer.com/content/pdf/10.1007/s11222-020-09986-y.pdf) - [Valentin De Bortoli](https://vdeborto.github.io/)
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
