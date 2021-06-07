@@ -46,13 +46,13 @@ We meet every week on Friday at 14:00.
 2021-06-11 - [Solving high-dimensional Hamilton-Jacobi-Bellman PDEs using neural networks: perspectives from the theory of controlled diffusions and measures on path space](https://arxiv.org/abs/2005.05409) - Nik Nuesken
 {% endcapture %}{% include details.html %}
 
+## Past talks
+
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-06-04 - TBA - Ben Boys
+2021-06-04 - Gaussian Processes for Ordinal Regression - Ben Boys
 {% endcapture %}{% include details.html %}
-
-## Past talks
 
 {% capture details %}
 {% endcapture %}
