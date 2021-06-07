@@ -13,6 +13,12 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
+2021-07-30 - Open
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
 2021-07-23 - Hierarchical Statistical Models for Industrial Collaborative Prognosis - Maharshi Dhada
 {% endcapture %}{% include details.html %}
 
