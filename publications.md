@@ -138,6 +138,12 @@ probabilistic classification in structural health monitoring.
 <https://doi.org/10.1016%2Fj.ymssp.2020.106653>,
 [doi:10.1016/j.ymssp.2020.106653](https://doi.org/10.1016/j.ymssp.2020.106653).
 
+R Fuentes, EJ Cross, PA Gardner, LA Bull, TJ Rogers, RJ Barthorpe,
+H Shi, N Dervilis, CR Farrar, and K Worden. Structural health monitoring
+and damage identification. In *Handbook of Experimental Structural
+Dynamics*, pages 1--72. Jan 2020.
+[doi:10.1007/978-1-4939-6503-8\_23-1](https://doi.org/10.1007/978-1-4939-6503-8_23-1).
+
 LA Bull, K Worden, TJ Rogers, EJ Cross, and N Dervilis. Investigating
 engineering data by probabilistic measures. In *Special Topics in
 Structural Dynamics & Experimental Techniques, Volume 5*, pages 77--81.
