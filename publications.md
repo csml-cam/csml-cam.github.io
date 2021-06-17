@@ -27,6 +27,12 @@ National Academy of Sciences*, 118(2):e2015006118, dec 2020. URL:
 <https://doi.org/10.1073%2Fpnas.2015006118>,
 [doi:10.1073/pnas.2015006118](https://doi.org/10.1073/pnas.2015006118).
 
+P Gardner, LA Bull, N Dervilis, and K Worden. Overcoming the problem of
+repair in structural health monitoring: metric-informed transfer
+learning. *Journal of Sound and Vibration*, pages 116245--116245, Jun
+2021.
+[doi:10.1016/j.jsv.2021.116245](https://doi.org/10.1016/j.jsv.2021.116245).
+
 Lawrence A. Bull, Paul Gardner, Timothy J. Rogers, Elizabeth J. Cross,
 Nikolaos Dervilis, and Keith Worden. Probabilistic inference for
 structural health monitoring: new modes of learning from data.
