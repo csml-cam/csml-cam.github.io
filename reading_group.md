@@ -48,13 +48,14 @@ We will not schedule any more talks for August and will restart in September 202
 2021-06-25 - Neural (Stochastic) Differential Equations in Machine Learning - [Patrick Kidger](https://kidger.site/) - Relevant papers: [Neural ODEs](https://arxiv.org/abs/1806.07366), [Neural CDEs](https://arxiv.org/abs/2005.08926), [Neural SDEs](https://arxiv.org/abs/2102.03657)
 {% endcapture %}{% include details.html %}
 
+
+## Past talks
+
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
 2021-06-18 - [Transforming Gaussian processes with normalizing flows](http://proceedings.mlr.press/v130/maronas21a.html) - Juan Maroñas
 {% endcapture %}{% include details.html %}
-
-## Past talks
 
 {% capture details %}
 {% endcapture %}
