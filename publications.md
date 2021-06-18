@@ -15,6 +15,12 @@ For the full list of publications, scroll down.
 
 ## All publications
     
+Toni Karvonen, Chris J. Oates, and Mark Girolami. Integration in
+reproducing kernel hilbert spaces of gaussian kernels. *Mathematics of
+Computation*, pages 1, apr 2021. URL:
+<https://doi.org/10.1090%2Fmcom%2F3659>,
+[doi:10.1090/mcom/3659](https://doi.org/10.1090/mcom/3659).
+
 Steven A. Niederer, Michael S. Sacks, Mark Girolami, and Karen Willcox.
 Scaling digital twins from the artisanal to the industrial. *Nature
 Computational Science*, 1(5):313--320, may 2021. URL:
