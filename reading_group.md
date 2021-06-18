@@ -6,6 +6,8 @@ sitemap: false
 permalink: /reading_group
 ---
 
+# CSML@Cam - Talks schedule
+
 We meet every week on Friday at 14:00.
 
 We will not schedule any more talks for August and will restart in September 2021.
