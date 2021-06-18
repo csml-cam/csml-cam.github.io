@@ -6,14 +6,16 @@ sitemap: false
 permalink: /reading_group
 ---
 
-We meet every week on Friday at 14:00. 
+We meet every week on Friday at 14:00.
+
+We will not schedule any more talks for August and will restart in September 2021.
 
 ## Upcoming
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-07-30 - Open
+2021-07-30 - TBA - Omer Deniz Akyildiz
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
