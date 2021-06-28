@@ -44,14 +44,14 @@ We will not schedule any more talks for August and will restart in September 202
 2021-07-02 - [Variational inference for nonlinear ordinary differential equations](http://proceedings.mlr.press/v130/ghosh21b.html) - [Sanmitra Ghosh](https://scholar.google.co.uk/citations?user=qztBLGYAAAAJ&hl=en)
 {% endcapture %}{% include details.html %}
 
+
+## Past talks
+
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
 2021-06-25 - Neural (Stochastic) Differential Equations in Machine Learning - [Patrick Kidger](https://kidger.site/) - Relevant papers: [Neural ODEs](https://arxiv.org/abs/1806.07366), [Neural CDEs](https://arxiv.org/abs/2005.08926), [Neural SDEs](https://arxiv.org/abs/2102.03657)
 {% endcapture %}{% include details.html %}
-
-
-## Past talks
 
 {% capture details %}
 {% endcapture %}
