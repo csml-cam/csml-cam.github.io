@@ -17,7 +17,7 @@ For the full list of publications, scroll down.
     
 Toni Karvonen, Chris J. Oates, and Mark Girolami. Integration in
 reproducing kernel hilbert spaces of gaussian kernels. *Mathematics of
-Computation*, pages 1, apr 2021. URL:
+Computation*, pages 1, jun 2021. URL:
 <https://doi.org/10.1090%2Fmcom%2F3659>,
 [doi:10.1090/mcom/3659](https://doi.org/10.1090/mcom/3659).
 
