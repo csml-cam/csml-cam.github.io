@@ -38,14 +38,14 @@ We will not schedule any more talks for August and will restart in September 202
 2021-07-09 - [Efficient stochastic optimisation by unadjusted Langevin Monte Carlo](https://link.springer.com/content/pdf/10.1007/s11222-020-09986-y.pdf) - [Valentin De Bortoli](https://vdeborto.github.io/)
 {% endcapture %}{% include details.html %}
 
+
+## Past talks
+
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
 2021-07-02 - [Variational inference for nonlinear ordinary differential equations](http://proceedings.mlr.press/v130/ghosh21b.html) - [Sanmitra Ghosh](https://scholar.google.co.uk/citations?user=qztBLGYAAAAJ&hl=en)
 {% endcapture %}{% include details.html %}
-
-
-## Past talks
 
 {% capture details %}
 {% endcapture %}
