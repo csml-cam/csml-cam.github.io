@@ -17,12 +17,6 @@ We will not schedule any more talks for August and will restart in September 202
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-07-30 - TBA - Omer Deniz Akyildiz
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
 2021-07-23 - Hierarchical Statistical Models for Industrial Collaborative Prognosis - Maharshi Dhada
 {% endcapture %}{% include details.html %}
 
