@@ -73,8 +73,6 @@ page](https://www.turing.ac.uk/research/impact-stories/streamlining-jet-engine-d
 
 
 **September 2020**: Prof Mark Girolami gave a keynote talk title "Digital Twins: The Sense and Statistics" at the conference of Royal Statistical Society: 
-<iframe width="100%" padding-top="62.5%" src="https://www.youtube-nocookie.com/embed/cWIJNXQn8LI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <div class="videoWrapper">
   <!-- Copy & Pasted from YouTube -->
   <iframe width="560" height="349" src="https://www.youtube-nocookie.com/embed/cWIJNXQn8LI" frameborder="0" allowfullscreen></iframe>
@@ -285,8 +283,10 @@ models.
 - **Reference**: Oates, C. J., Niederer, S., Lee, A., Briol, F-X. & Girolami, M. (2016). Probabilistic Models for Integration Error in the Assessment of Functional Cardiac Models.
 - [arXiv link](https://arxiv.org/abs/1606.06841)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SrrO4OxydO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SrrO4OxydO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 #### [On the Sampling Problem for Kernel Quadrature](http://proceedings.mlr.press/v70/briol17a)
 
