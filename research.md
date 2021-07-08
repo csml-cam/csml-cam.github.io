@@ -51,6 +51,16 @@ For more information visit:
 4. [A story-format coverage by University of Cambridge website](https://www.cam.ac.uk/stories/growingunderground)
 
 
+### Additive manufacturing
+
+Mark Girolami is one of the collaborators on the 3D-printed smart bridge in Amsterdam. For more information visit [MX3D website](https://mx3d.com/).
+
+<!-- <video autoplay="autoplay" loop="loop" width="768" height="512">
+  <source src="/assets/images/lorenz.mp4" type="video/mp4">
+  <source src="/assets/images/lorenz.webm" type="video/webm">
+</video> -->
+
+
 ### Aerospace-engineering applications
 
 The data-centric engineering programme at the Alan Turing Institute
