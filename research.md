@@ -55,10 +55,11 @@ For more information visit:
 
 Mark Girolami is one of the collaborators on the 3D-printed smart bridge in Amsterdam. For more information visit [MX3D website](https://mx3d.com/).
 
-<!-- <video autoplay="autoplay" loop="loop" width="768" height="512">
-  <source src="/assets/images/lorenz.mp4" type="video/mp4">
-  <source src="/assets/images/lorenz.webm" type="video/webm">
-</video> -->
+<video autoplay="autoplay" loop="loop" width="768" height="512">
+  <source src="/_support_files/research/mx3d/mx3d_bridge_autodesk_digital_twin_sensor.mp4" type="video/mp4">
+</video>
+
+https://github.com/csml-cam/csml-cam.github.io/tree/gh-pages
 
 
 ### Aerospace-engineering applications
