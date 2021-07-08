@@ -2,6 +2,9 @@ images:
   - image: /images/carousel_pics/deniz-nudging-particle-filter.gif
     text: Nudged particle filter for misspecified and high-dimensional models
     link: https://link.springer.com/article/10.1007/s11222-019-09884-y
+  - image: /images/carousel_pics/mx3d-bridge-digital-twin.png
+    text: Digital twin of the 3D-printed bridge in Amsterdam by MX3D
+    link: https://mx3d.com/
   - image: /images/carousel_pics/ben_boys_visual _cracks.png
     text: Crackings on a concrete beam
     link: https://csml-cam.github.io/
