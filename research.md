@@ -55,7 +55,7 @@ For more information visit:
 
 Mark Girolami is one of the collaborators on the 3D-printed smart bridge in Amsterdam. For more information visit [MX3D website](https://mx3d.com/).
 
-<video autoplay="autoplay" loop="loop" width="800" height="500" controls>
+<video autoplay="autoplay" loop="loop" width="100%" height="auto" controls>
   <source src="/_support_files/research/mx3d/mx3d_bridge_autodesk_digital_twin_sensor.mp4" type="video/mp4">
 </video>
 
@@ -73,7 +73,7 @@ page](https://www.turing.ac.uk/research/impact-stories/streamlining-jet-engine-d
 
 
 **September 2020**: Prof Mark Girolami gave a keynote talk title "Digital Twins: The Sense and Statistics" at the conference of Royal Statistical Society: 
-<iframe width="100%" src="https://www.youtube-nocookie.com/embed/cWIJNXQn8LI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="https://www.youtube-nocookie.com/embed/cWIJNXQn8LI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
