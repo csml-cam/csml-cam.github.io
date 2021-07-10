@@ -60,8 +60,9 @@ Testing, Volume 8*, pages 177--187. Springer International Publishing,
 [doi:10.1007/978-3-030-47717-2\_17](https://doi.org/10.1007/978-3-030-47717-2_17).
 
 Toni Karvonen, Simo SÃ¤rkkÃ¤, and Ken'ichiro Tanaka. Kernel-based
-interpolation at approximate fekete points. *Numerical Algorithms*, jul
-2020. URL: <https://doi.org/10.1007%2Fs11075-020-00973-y>,
+interpolation at approximate fekete points. *Numerical Algorithms*,
+87(1):445--468, jul 2020. URL:
+<https://doi.org/10.1007%2Fs11075-020-00973-y>,
 [doi:10.1007/s11075-020-00973-y](https://doi.org/10.1007/s11075-020-00973-y).
 
 Toni Karvonen, Simo SÃ¤rkkÃ¤, and Ken'ichiro Tanaka. Correction to:
