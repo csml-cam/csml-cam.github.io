@@ -15,6 +15,13 @@ For the full list of publications, scroll down.
 
 ## All publications
     
+Patricio Peralta, Rafael O. Ruiz, Hussein Rappel, and Stéphane P.A.
+Bordas. Electromechanical properties identification for groups of
+piezoelectric energy harvester based on bayesian inference. *Mechanical
+Systems and Signal Processing*, 162:108034, jan 2022. URL:
+<https://doi.org/10.1016%2Fj.ymssp.2021.108034>,
+[doi:10.1016/j.ymssp.2021.108034](https://doi.org/10.1016/j.ymssp.2021.108034).
+
 Toni Karvonen, Chris J. Oates, and Mark Girolami. Integration in
 reproducing kernel hilbert spaces of gaussian kernels. *Mathematics of
 Computation*, pages 1, jun 2021. URL:
