@@ -10,9 +10,11 @@ permalink: /reading_group
 
 We meet every week on Friday at 14:00.
 
+## Upcoming
+
 We will not schedule any more talks for August and will restart in September 2021.
 
-## Upcoming
+## Past talks
 
 {% capture details %}
 {% endcapture %}
@@ -23,7 +25,7 @@ We will not schedule any more talks for August and will restart in September 202
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-07-16 - [TBA]() - [Tim Dodwell](https://emps.exeter.ac.uk/engineering/staff/td336)
+2021-07-16 - Adaptive Multilevel Delayed Acceptance - [Tim Dodwell](https://emps.exeter.ac.uk/engineering/staff/td336)
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -31,9 +33,6 @@ We will not schedule any more talks for August and will restart in September 202
 {% capture summary %}
 2021-07-09 - [Efficient stochastic optimisation by unadjusted Langevin Monte Carlo](https://link.springer.com/content/pdf/10.1007/s11222-020-09986-y.pdf) - [Valentin De Bortoli](https://vdeborto.github.io/)
 {% endcapture %}{% include details.html %}
-
-
-## Past talks
 
 {% capture details %}
 {% endcapture %}
