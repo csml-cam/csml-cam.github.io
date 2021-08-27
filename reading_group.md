@@ -18,6 +18,12 @@ We meet every week on Friday at 14:00.
 2021-09-10 - TBA - Domenic Di Francesco
 {% endcapture %}{% include details.html %}
 
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-09-17 - Statistical Finite Elements via Langevin Dynamics - Omer Deniz Akyildiz
+{% endcapture %}{% include details.html %}
+
 ## Past talks
 
 {% capture details %}
