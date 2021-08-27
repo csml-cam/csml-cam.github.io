@@ -12,7 +12,11 @@ We meet every week on Friday at 14:00.
 
 ## Upcoming
 
-We will not schedule any more talks for August and will restart in September 2021.
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-09-10 - TBA - Domenic Di Francesco
+{% endcapture %}{% include details.html %}
 
 ## Past talks
 
