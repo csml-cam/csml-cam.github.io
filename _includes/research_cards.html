@@ -1,0 +1,24 @@
+{% if include.id %}
+  {% assign projects_row = page[include.id] %}
+{% else %}
+  {% assign projects_row = page.projects_row %}
+{% endif %}
+
+<div class="row">
+
+    {% for project in projects_row %}
+
+    <div class="col-sm-6 d-flex align-items-stretch">
+    <div class="card">
+        <img class="card-img-top" src="{{ project.image_path }}" alt="{{ project.alt }}">
+        <div class="card-body">
+            <h5 class="card-title">{{ project.title }}</h5>
+            <p class="card-text">{{ project.excerpt }}</p>
+            {% if project.url %}
+            <a href="{{ project.url }}" class="btn btn-primary">Read more</a>
+            {% endif %}
+        </div>
+    </div>
+    </div>
+    {% endfor %}
+</div>
