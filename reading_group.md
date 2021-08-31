@@ -24,6 +24,24 @@ We meet every week on Friday at 14:00.
 2021-09-17 - Statistical Finite Elements via Langevin Dynamics - Omer Deniz Akyildiz
 {% endcapture %}{% include details.html %}
 
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-10-01 - Climate inference on daily rainfall across the Australian continent, 1876–2015 - Edward Cripps
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-10-08 - TBA - Lawrence Bull
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-10-29 - TBA - Thomas Stemler
+{% endcapture %}{% include details.html %}
+
 ## Past talks
 
 {% capture details %}
