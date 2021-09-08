@@ -27,6 +27,12 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
+2021-09-24 - No reading group this week
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
 2021-10-01 - Climate inference on daily rainfall across the Australian continent, 1876–2015 - Edward Cripps
 {% endcapture %}{% include details.html %}
 
