@@ -34,6 +34,12 @@ Computation*, pages 1, jun 2021. URL:
 <https://doi.org/10.1090%2Fmcom%2F3659>,
 [doi:10.1090/mcom/3659](https://doi.org/10.1090/mcom/3659).
 
+Steven A. Niederer, Michael S. Sacks, Mark Girolami, and Karen Willcox.
+Scaling digital twins from the artisanal to the industrial. *Nature
+Computational Science*, 1(5):313--320, may 2021. URL:
+<https://doi.org/10.1038%2Fs43588-021-00072-5>,
+[doi:10.1038/s43588-021-00072-5](https://doi.org/10.1038/s43588-021-00072-5).
+
 Connor Duffin, Edward Cripps, Thomas Stemler, and Mark Girolami.
 Statistical finite elements for misspecified models. *Proceedings of the
 National Academy of Sciences*, 118(2):e2015006118, dec 2020. URL:
