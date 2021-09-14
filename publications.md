@@ -158,12 +158,6 @@ Dynamics 2020*, volume 8, 255--267. Houston, TX, USA, Springer, Oct
 2020.
 [doi:10.1007/978-3-030-47717-2\_26](https://doi.org/10.1007/978-3-030-47717-2_26).
 
-L.A. Bull, K. Worden, and N. Dervilis. Towards semi-supervised and
-probabilistic classification in structural health monitoring.
-*Mechanical Systems and Signal Processing*, 140:106653, jun 2020. URL:
-<https://doi.org/10.1016%2Fj.ymssp.2020.106653>,
-[doi:10.1016/j.ymssp.2020.106653](https://doi.org/10.1016/j.ymssp.2020.106653).
-
 R Fuentes, EJ Cross, PA Gardner, LA Bull, TJ Rogers, RJ Barthorpe,
 H Shi, N Dervilis, CR Farrar, and K Worden. Structural health monitoring
 and damage identification. In *Handbook of Experimental Structural
