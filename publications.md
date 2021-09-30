@@ -46,6 +46,12 @@ National Academy of Sciences*, 118(2):e2015006118, dec 2020. URL:
 <https://doi.org/10.1073%2Fpnas.2015006118>,
 [doi:10.1073/pnas.2015006118](https://doi.org/10.1073/pnas.2015006118).
 
+Rebecca Ward, Ruchi Choudhary, Alastair Gregory, Melanie Jans-Singh, and
+Mark Girolami. Continuous calibration of a digital twin: comparison of
+particle filter and bayesian calibration approaches. *Data-Centric
+Engineering*, 2021. URL: <https://doi.org/10.1017%2Fdce.2021.12>,
+[doi:10.1017/dce.2021.12](https://doi.org/10.1017/dce.2021.12).
+
 P Gardner, LA Bull, N Dervilis, and K Worden. Overcoming the problem of
 repair in structural health monitoring: metric-informed transfer
 learning. *Journal of Sound and Vibration*, pages 116245--116245, Jun
