@@ -15,12 +15,6 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-10-01 - Climate inference on daily rainfall across the Australian continent, 1876–2015 - Edward Cripps
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
 2021-10-08 - Information Transfer for Engineering Fleets: Multi-Task Learning with Hierarchical Bayes - Lawrence Bull
 {% endcapture %}{% include details.html %}
 
@@ -39,7 +33,7 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-10-29 - TBA - Thomas Stemler
+2021-10-29 **10:00 BST** - TBA - Thomas Stemler
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -49,6 +43,12 @@ We meet every week on Friday at 14:00.
 {% endcapture %}{% include details.html %}
 
 ## Past talks
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-10-01 - Climate inference on daily rainfall across the Australian continent, 1876–2015 - Edward Cripps
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
