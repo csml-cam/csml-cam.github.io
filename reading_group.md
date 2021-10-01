@@ -33,7 +33,7 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-10-29 **10:00 BST** - TBA - Thomas Stemler
+2021-10-29 - TBA - Thomas Stemler <span style="color:blue">(starts at 10:00)</span>
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
