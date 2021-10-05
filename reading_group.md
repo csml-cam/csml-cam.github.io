@@ -33,6 +33,12 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
+2021-11-05 - TBA - Stratis Ioannidis
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
 2021-11-12 - TBA - Burigede Liu
 {% endcapture %}{% include details.html %}
 
