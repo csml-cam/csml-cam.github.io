@@ -27,6 +27,12 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
+2021-10-22 - *No talk this week*
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
 2021-10-29 - TBA - Thomas Stemler <span style="color:blue">(starts at 10:00)</span>
 {% endcapture %}{% include details.html %}
 
@@ -45,7 +51,19 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
+2021-11-19 - TBA - Andrea Marinoni
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
 2021-11-26 - TBA - Yannis Zachos
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-12-03 - TBA - Ben Boys
 {% endcapture %}{% include details.html %}
 
 ## Past talks
