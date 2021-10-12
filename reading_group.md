@@ -15,19 +15,13 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-10-08 - Information Transfer for Engineering Fleets: Multi-Task Learning with Hierarchical Bayes - Lawrence Bull
+2021-10-15 - *No talk this week*
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-10-15 - TBA - Sivasakthy Selvakumaran
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2021-10-22 - *No talk this week*
+2021-10-22 - TBA - Sivasakthy Selvakumaran
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -67,6 +61,12 @@ We meet every week on Friday at 14:00.
 {% endcapture %}{% include details.html %}
 
 ## Past talks
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-10-08 - Information Transfer for Engineering Fleets: Multi-Task Learning with Hierarchical Bayes - Lawrence Bull
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
