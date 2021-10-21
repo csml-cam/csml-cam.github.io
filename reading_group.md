@@ -15,12 +15,6 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-10-15 - *No talk this week*
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
 2021-10-22 - TBA - Sivasakthy Selvakumaran
 {% endcapture %}{% include details.html %}
 
@@ -60,7 +54,19 @@ We meet every week on Friday at 14:00.
 2021-12-03 - TBA - Ben Boys
 {% endcapture %}{% include details.html %}
 
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-12-10 - TBA - Thomas Gaskin
+{% endcapture %}{% include details.html %}
+
 ## Past talks
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-10-15 - *No talk this week*
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
