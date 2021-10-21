@@ -39,7 +39,7 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-11-19 - Satellite remote sening (Part II) - Andrea Marinoni
+2021-11-19 - Satellite remote sensing (Part II) - Andrea Marinoni
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -57,7 +57,7 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-12-10 - TBA - Thomas Gaskin
+2021-12-10 - Kronecker-based network generation and analysis - Thomas Gaskin
 {% endcapture %}{% include details.html %}
 
 ## Past talks
