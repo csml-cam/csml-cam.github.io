@@ -15,7 +15,7 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-10-22 - TBA - Sivasakthy Selvakumaran
+2021-10-22 - Satellite remote sensing (Part I) - Sivasakthy Selvakumaran
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -27,7 +27,7 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-11-05 - TBA - Stratis Ioannidis
+2021-11-05 - Learning from Comparisons - Stratis Ioannidis
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -39,7 +39,7 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-11-19 - TBA - Andrea Marinoni
+2021-11-19 - Satellite remote sening (Part II) - Andrea Marinoni
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
