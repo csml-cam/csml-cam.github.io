@@ -15,7 +15,7 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-10-22 - Satellite remote sensing (Part I) - Sivasakthy Selvakumaran
+2021-10-22 - Satellite remote sensing (Part I) - Sivasakthy Selvakumaran <span style="color:blue">(starts at 15:00)</span>
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
