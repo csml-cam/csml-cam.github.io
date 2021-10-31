@@ -15,12 +15,6 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-10-29 - Ordinal Patterns for Nonlinear Time Series Analysis - Thomas Stemler <span style="color:blue">(starts at 10:00)</span>
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
 2021-11-05 - Learning from Comparisons - Stratis Ioannidis
 {% endcapture %}{% include details.html %}
 
@@ -55,6 +49,12 @@ We meet every week on Friday at 14:00.
 {% endcapture %}{% include details.html %}
 
 ## Past talks
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-10-29 - Ordinal Patterns for Nonlinear Time Series Analysis - Thomas Stemler <span style="color:blue">(starts at 10:00)</span>
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
