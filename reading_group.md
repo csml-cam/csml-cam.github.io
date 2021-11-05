@@ -21,7 +21,7 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-11-12 - TBA - Burigede Liu
+2021-11-12 - Learning Based Multiscale Modeling - Burigede Liu
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
