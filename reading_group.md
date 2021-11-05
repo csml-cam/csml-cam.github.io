@@ -33,19 +33,13 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-11-26 - TBA - Yannis Zachos
+2021-11-26 - Kronecker-based network generation and analysis - Thomas Gaskin
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
 2021-12-03 - TBA - Ben Boys
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2021-12-10 - Kronecker-based network generation and analysis - Thomas Gaskin
 {% endcapture %}{% include details.html %}
 
 ## Past talks
