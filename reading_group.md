@@ -15,12 +15,6 @@ We meet every week on Friday at 14:00.
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-11-05 - Learning from Comparisons - Stratis Ioannidis
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
 2021-11-12 - Learning Based Multiscale Modeling - Burigede Liu
 {% endcapture %}{% include details.html %}
 
@@ -43,6 +37,12 @@ We meet every week on Friday at 14:00.
 {% endcapture %}{% include details.html %}
 
 ## Past talks
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-11-05 - Learning from Comparisons - Stratis Ioannidis
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
