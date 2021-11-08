@@ -38,6 +38,8 @@ We meet every week on Friday at 14:00.
 
 ## Past talks
 
+### Michaelmas Term 2021
+
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
@@ -91,6 +93,8 @@ We meet every week on Friday at 14:00.
 {% capture summary %}
 2021-09-10 - Risk Based Structural Integrity Management - Domenic Di Francesco
 {% endcapture %}{% include details.html %}
+
+### Easter Term 2021
 
 {% capture details %}
 {% endcapture %}
@@ -177,6 +181,8 @@ We meet every week on Friday at 14:00.
 {% endcapture %}{% include details.html %}
 <br/>
 
+### Lent Term 2021
+
 In this term, we followed the "Applied Stochastic Differential Equations" book by Särkkä and Solin.
 
 {% capture details %}
@@ -249,9 +255,9 @@ In this term, we followed the "Applied Stochastic Differential Equations" book b
 
 
 
-## Michaelmas Term 2020 Schedule
+### Michaelmas Term 2020
 
-In this term, we will focus on the topic of *approximate Bayesian computation* and *Stein methods*.
+In this term, we focused on the topic of *approximate Bayesian computation* and *Stein methods*.
 
 
 {% capture details %}
