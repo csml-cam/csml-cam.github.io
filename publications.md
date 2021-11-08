@@ -22,12 +22,6 @@ Systems and Signal Processing*, 162:108034, jan 2022. URL:
 <https://doi.org/10.1016%2Fj.ymssp.2021.108034>,
 [doi:10.1016/j.ymssp.2021.108034](https://doi.org/10.1016/j.ymssp.2021.108034).
 
-B. Boys, T.J. Dodwell, M. Hobbs, and M. Girolami. - a high performance
-OpenCL peridynamics package. *Computer Methods in Applied Mechanics and
-Engineering*, 386:114085, dec 2021. URL:
-<https://doi.org/10.1016%2Fj.cma.2021.114085>,
-[doi:10.1016/j.cma.2021.114085](https://doi.org/10.1016/j.cma.2021.114085).
-
 Toni Karvonen, Chris J. Oates, and Mark Girolami. Integration in
 reproducing kernel hilbert spaces of gaussian kernels. *Mathematics of
 Computation*, pages 1, jun 2021. URL:
