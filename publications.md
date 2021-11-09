@@ -46,6 +46,12 @@ Testing, Volume 8*, pages 177--187. Springer International Publishing,
 2021.
 [doi:10.1007/978-3-030-47717-2\_17](https://doi.org/10.1007/978-3-030-47717-2_17).
 
+Zheng Zhao, Toni Karvonen, Roland Hostettler, and Simo Sarkka. Taylor
+moment expansion for continuous-discrete gaussian filtering. *IEEE
+Transactions on Automatic Control*, 66(9):4460--4467, sep 2021. URL:
+<https://doi.org/10.1109%2Ftac.2020.3047367>,
+[doi:10.1109/tac.2020.3047367](https://doi.org/10.1109/tac.2020.3047367).
+
 Toni Karvonen, Simo SÃ¤rkkÃ¤, and Ken'ichiro Tanaka. Kernel-based
 interpolation at approximate fekete points. *Numerical Algorithms*,
 87(1):445--468, jul 2020. URL:
