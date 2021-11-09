@@ -8,14 +8,14 @@ permalink: /reading_group
 
 # CSML@Cam - Talks schedule
 
-We meet every week on Friday at 14:00.
+We meet every week on Friday at 14:00. If you are interested in giving a talk, email Connor (<cpd32@cam.ac.uk>) to organise a date and time.
 
 ## Upcoming
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-11-12 - Learning Based Multiscale Modeling - Burigede Liu
+2021-11-12 - Learning based multiscale modeling - Burigede Liu
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -34,6 +34,12 @@ We meet every week on Friday at 14:00.
 {% endcapture %}
 {% capture summary %}
 2021-12-03 - TBA - Ben Boys
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-12-03 - Research computing without the agonising pain - Connor Duffin
 {% endcapture %}{% include details.html %}
 
 ## Past talks
