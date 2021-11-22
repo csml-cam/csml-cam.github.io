@@ -22,10 +22,11 @@ permalink: /resources
     <!-- <h5 class="card-title">Special title treatment</h5>
     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
     <a href="https://github.com/csml-cam/fcmlcode" class="btn btn-primary">Code examples on GitHub</a>
+    <a href="http://www.dcs.gla.ac.uk/~srogers/firstcourseml/matlab/matlab.html" class="btn btn-primary">Rendered code examples with output</a>
+    <br>
+    <br>
     <a href="https://www.routledge.com/A-First-Course-in-Machine-Learning-Second-Edition/Rogers-Girolami/p/book/9781498738484" class="btn btn-primary">Publisher's page</a>
     <a href="https://www.amazon.co.uk/Course-Machine-Learning-Pattern-Recognition/dp/1498738486" class="btn btn-primary">Buy on Amazon UK</a>
     <a href="https://www.amazon.com/First-Course-Machine-Learning-Second/dp/1498738486" class="btn btn-primary">Buy on Amazon US</a>
-
-
   </div>
 </div>
