@@ -15,12 +15,6 @@ We meet every week on Friday at 14:00. If you are interested in giving a talk, e
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-11-19 - Satellite remote sensing (Part II) - Andrea Marinoni
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
 2021-11-26 - Kronecker-based network generation and analysis - Thomas Gaskin
 {% endcapture %}{% include details.html %}
 
@@ -33,12 +27,18 @@ We meet every week on Friday at 14:00. If you are interested in giving a talk, e
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-12-03 - Probability theory as extended logic - Connor Duffin
+2021-12-10 - TBA - Francisco Vargas Palomo
 {% endcapture %}{% include details.html %}
 
 ## Past talks
 
 ### Michaelmas Term 2021
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-11-19 - Satellite remote sensing (Part II) - Andrea Marinoni
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
