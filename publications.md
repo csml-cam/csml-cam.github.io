@@ -58,6 +58,13 @@ particle filter and bayesian calibration approaches. *Data-Centric
 Engineering*, 2021. URL: <https://doi.org/10.1017%2Fdce.2021.12>,
 [doi:10.1017/dce.2021.12](https://doi.org/10.1017/dce.2021.12).
 
+L.A. Bull, P.A. Gardner, T.J. Rogers, N. Dervilis, E.J. Cross,
+E. Papatheou, A.E. Maguire, C. Campos, and K. Worden. Bayesian modelling
+of multivalued power curves from an operational wind farm. *Mechanical
+Systems and Signal Processing*, pages 108530, nov 2021. URL:
+<https://doi.org/10.1016%2Fj.ymssp.2021.108530>,
+[doi:10.1016/j.ymssp.2021.108530](https://doi.org/10.1016/j.ymssp.2021.108530).
+
 P Gardner, LA Bull, N Dervilis, and K Worden. Overcoming the problem of
 repair in structural health monitoring: metric-informed transfer
 learning. *Journal of Sound and Vibration*, pages 116245--116245, Jun
