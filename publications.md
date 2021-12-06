@@ -28,17 +28,35 @@ Systems and Signal Processing*, 162:108034, jan 2022. URL:
 <https://doi.org/10.1016%2Fj.ymssp.2021.108034>,
 [doi:10.1016/j.ymssp.2021.108034](https://doi.org/10.1016/j.ymssp.2021.108034).
 
+B. Boys, T.J. Dodwell, M. Hobbs, and M. Girolami. - a high performance
+OpenCL peridynamics package. *Computer Methods in Applied Mechanics and
+Engineering*, 386:114085, dec 2021. URL:
+<https://doi.org/10.1016%2Fj.cma.2021.114085>,
+[doi:10.1016/j.cma.2021.114085](https://doi.org/10.1016/j.cma.2021.114085).
+
 Toni Karvonen, Chris J. Oates, and Mark Girolami. Integration in
 reproducing kernel hilbert spaces of gaussian kernels. *Mathematics of
 Computation*, pages 1, jun 2021. URL:
 <https://doi.org/10.1090%2Fmcom%2F3659>,
 [doi:10.1090/mcom/3659](https://doi.org/10.1090/mcom/3659).
 
-B. Boys, T.J. Dodwell, M. Hobbs, and M. Girolami. - a high performance
-OpenCL peridynamics package. *Computer Methods in Applied Mechanics and
-Engineering*, 386:114085, dec 2021. URL:
-<https://doi.org/10.1016%2Fj.cma.2021.114085>,
-[doi:10.1016/j.cma.2021.114085](https://doi.org/10.1016/j.cma.2021.114085).
+Steven A. Niederer, Michael S. Sacks, Mark Girolami, and Karen Willcox.
+Scaling digital twins from the artisanal to the industrial. *Nature
+Computational Science*, 1(5):313--320, may 2021. URL:
+<https://doi.org/10.1038%2Fs43588-021-00072-5>,
+[doi:10.1038/s43588-021-00072-5](https://doi.org/10.1038/s43588-021-00072-5).
+
+Connor Duffin, Edward Cripps, Thomas Stemler, and Mark Girolami.
+Statistical finite elements for misspecified models. *Proceedings of the
+National Academy of Sciences*, 118(2):e2015006118, dec 2020. URL:
+<https://doi.org/10.1073%2Fpnas.2015006118>,
+[doi:10.1073/pnas.2015006118](https://doi.org/10.1073/pnas.2015006118).
+
+Rebecca Ward, Ruchi Choudhary, Alastair Gregory, Melanie Jans-Singh, and
+Mark Girolami. Continuous calibration of a digital twin: comparison of
+particle filter and bayesian calibration approaches. *Data-Centric
+Engineering*, 2021. URL: <https://doi.org/10.1017%2Fdce.2021.12>,
+[doi:10.1017/dce.2021.12](https://doi.org/10.1017/dce.2021.12).
 
 L.A. Bull, P.A. Gardner, T.J. Rogers, N. Dervilis, E.J. Cross,
 E. Papatheou, A.E. Maguire, C. Campos, and K. Worden. Bayesian modelling
@@ -52,6 +70,14 @@ repair in structural health monitoring: metric-informed transfer
 learning. *Journal of Sound and Vibration*, pages 116245--116245, Jun
 2021.
 [doi:10.1016/j.jsv.2021.116245](https://doi.org/10.1016/j.jsv.2021.116245).
+
+Lawrence A. Bull, Paul Gardner, Timothy J. Rogers, Elizabeth J. Cross,
+Nikolaos Dervilis, and Keith Worden. Probabilistic inference for
+structural health monitoring: new modes of learning from data.
+*ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part
+A: Civil Engineering*, 7(1):03120003, mar 2021. URL:
+<https://doi.org/10.1061%2Fajrua6.0001106>,
+[doi:10.1061/ajrua6.0001106](https://doi.org/10.1061/ajrua6.0001106).
 
 LA Bull, P Gardner, TJ Rogers, EJ Cross, N Dervilis, and K Worden. New
 modes of inference for probabilistic shm. In *Lecture Notes in Civil
@@ -90,10 +116,27 @@ sigma-point filters. *IEEE Transactions on Automatic Control*,
 <https://doi.org/10.1109%2Ftac.2020.2991698>,
 [doi:10.1109/tac.2020.2991698](https://doi.org/10.1109/tac.2020.2991698).
 
+Maharshi Dhada, Mark Girolami, and Ajith Kumar Parlikad. Anomaly
+detection in a fleet of industrial assets with hierarchical statistical
+modeling. *Data-Centric Engineering*, 2020. URL:
+<https://doi.org/10.1017%2Fdce.2020.19>,
+[doi:10.1017/dce.2020.19](https://doi.org/10.1017/dce.2020.19).
+
 J. Povala, S. Virtanen, and M. Girolami. Burglary in london: insights
 from statistical heterogeneous spatial point processes. *Journal of the
 Royal Statistical Society. Series C: Applied Statistics*,
 69(5):1067--1090, 2020.
+
+Rafael Sacks, Ioannis Brilakis, Ergo Pikas, Haiyan Sally Xie, and Mark
+Girolami. Construction with digital twin information systems.
+*Data-Centric Engineering*, 2020. URL:
+<https://doi.org/10.1017%2Fdce.2020.16>,
+[doi:10.1017/dce.2020.16](https://doi.org/10.1017/dce.2020.16).
+
+Melanie Jans-Singh, Kathryn Leeming, Ruchi Choudhary, and Mark Girolami.
+Digital twin of an urban-integrated hydroponic farm. *Data-Centric
+Engineering*, 2020. URL: <https://doi.org/10.1017%2Fdce.2020.21>,
+[doi:10.1017/dce.2020.21](https://doi.org/10.1017/dce.2020.21).
 
 C.Y. Wong, P. Seshadri, G.T. Parks, and M. Girolami. Embedded ridge
 approximations. *Computer Methods in Applied Mechanics and Engineering*,
@@ -139,6 +182,12 @@ Proceedings of the 38th IMAC, A Conference and Exposition on Structural
 Dynamics 2020*, volume 8, 255--267. Houston, TX, USA, Springer, Oct
 2020.
 [doi:10.1007/978-3-030-47717-2\_26](https://doi.org/10.1007/978-3-030-47717-2_26).
+
+L.A. Bull, K. Worden, and N. Dervilis. Towards semi-supervised and
+probabilistic classification in structural health monitoring.
+*Mechanical Systems and Signal Processing*, 140:106653, jun 2020. URL:
+<https://doi.org/10.1016%2Fj.ymssp.2020.106653>,
+[doi:10.1016/j.ymssp.2020.106653](https://doi.org/10.1016/j.ymssp.2020.106653).
 
 R Fuentes, EJ Cross, PA Gardner, LA Bull, TJ Rogers, RJ Barthorpe,
 H Shi, N Dervilis, CR Farrar, and K Worden. Structural health monitoring
@@ -278,6 +327,20 @@ density and stratification estimates with implications for predicting
 ocean dynamics. *Journal of Atmospheric and Oceanic Technology*,
 36(8):1313--1330, 2019.
 
+L.A. Bull, T.J. Rogers, C. Wickramarachchi, E.J. Cross, K. Worden, and
+N. Dervilis. Probabilistic active learning: an online framework for
+structural health monitoring. *Mechanical Systems and Signal
+Processing*, 134:106294, dec 2019. URL:
+<https://doi.org/10.1016%2Fj.ymssp.2019.106294>,
+[doi:10.1016/j.ymssp.2019.106294](https://doi.org/10.1016/j.ymssp.2019.106294).
+
+L.A. Bull, K. Worden, R. Fuentes, G. Manson, E.J. Cross, and
+N. Dervilis. Outlier ensembles: a robust method for damage detection and
+unsupervised feature extraction from high-dimensional data. *Journal of
+Sound and Vibration*, 453:126--150, aug 2019. URL:
+<https://doi.org/10.1016%2Fj.jsv.2019.03.025>,
+[doi:10.1016/j.jsv.2019.03.025](https://doi.org/10.1016/j.jsv.2019.03.025).
+
 LA Bull, K Worden, TJ Rogers, C Wickramarachchi, EJ Cross, T McLeay,
 W Leahy, and N Dervilis. A probabilistic framework for online structural
 health monitoring : active learning from machining data streams. In
@@ -379,6 +442,12 @@ Mathematical, Physical and Engineering Sciences*, 2018.
 F.D.-H. Lau, N.M. Adams, M.A. Girolami, L.J. Butler, and M.Z.E.B.
 Elshafie. The role of statistics in data-centric engineering.
 *Statistics and Probability Letters*, 136:58--62, 2018.
+
+L. Bull, K. Worden, G. Manson, and N. Dervilis. Active learning for
+semi-supervised structural health monitoring. *Journal of Sound and
+Vibration*, 437:373--388, dec 2018. URL:
+<https://doi.org/10.1016%2Fj.jsv.2018.08.040>,
+[doi:10.1016/j.jsv.2018.08.040](https://doi.org/10.1016/j.jsv.2018.08.040).
 
 H. Rappel, L.A.A. Beex, and S.P.A. Bordas. Bayesian inference to
 identify parameters in viscoelasticity. *Mechanics of Time-Dependent
@@ -522,6 +591,13 @@ International Conference on Machine Learning, ICML 2015*, 1:588--596,
 P. Hennig, M.A. Osborne, and M. Girolami. Probabilistic numerics and
 uncertainty in computations. *Proceedings of the Royal Society A:
 Mathematical, Physical and Engineering Sciences*, 2015.
+
+Alessandro Barp, Edoardo Gabriele Barp, François-Xavier Briol, and
+Daniel Ueltschi. A numerical study of the 3d random interchange and
+random loop models. *Journal of Physics A: Mathematical and
+Theoretical*, 48(34):345002, aug 2015. URL:
+<https://doi.org/10.1088%2F1751-8113%2F48%2F34%2F345002>,
+[doi:10.1088/1751-8113/48/34/345002](https://doi.org/10.1088/1751-8113/48/34/345002).
 
 V. Stathopoulos, V. Zamora-Gutierrez, K.E. Jones, and M. Girolami. Bat
 call identification with gaussian process multinomial probit regression
