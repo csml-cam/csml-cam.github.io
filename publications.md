@@ -28,12 +28,6 @@ Systems and Signal Processing*, 162:108034, jan 2022. URL:
 <https://doi.org/10.1016%2Fj.ymssp.2021.108034>,
 [doi:10.1016/j.ymssp.2021.108034](https://doi.org/10.1016/j.ymssp.2021.108034).
 
-B. Boys, T.J. Dodwell, M. Hobbs, and M. Girolami. - a high performance
-OpenCL peridynamics package. *Computer Methods in Applied Mechanics and
-Engineering*, 386:114085, dec 2021. URL:
-<https://doi.org/10.1016%2Fj.cma.2021.114085>,
-[doi:10.1016/j.cma.2021.114085](https://doi.org/10.1016/j.cma.2021.114085).
-
 Toni Karvonen, Chris J. Oates, and Mark Girolami. Integration in
 reproducing kernel hilbert spaces of gaussian kernels. *Mathematics of
 Computation*, pages 1, jun 2021. URL:
@@ -58,6 +52,12 @@ particle filter and bayesian calibration approaches. *Data-Centric
 Engineering*, 2021. URL: <https://doi.org/10.1017%2Fdce.2021.12>,
 [doi:10.1017/dce.2021.12](https://doi.org/10.1017/dce.2021.12).
 
+B. Boys, T.J. Dodwell, M. Hobbs, and M. Girolami. - a high performance
+OpenCL peridynamics package. *Computer Methods in Applied Mechanics and
+Engineering*, 386:114085, dec 2021. URL:
+<https://doi.org/10.1016%2Fj.cma.2021.114085>,
+[doi:10.1016/j.cma.2021.114085](https://doi.org/10.1016/j.cma.2021.114085).
+
 L.A. Bull, P.A. Gardner, T.J. Rogers, N. Dervilis, E.J. Cross,
 E. Papatheou, A.E. Maguire, C. Campos, and K. Worden. Bayesian modelling
 of multivalued power curves from an operational wind farm. *Mechanical
@@ -70,14 +70,6 @@ repair in structural health monitoring: metric-informed transfer
 learning. *Journal of Sound and Vibration*, pages 116245--116245, Jun
 2021.
 [doi:10.1016/j.jsv.2021.116245](https://doi.org/10.1016/j.jsv.2021.116245).
-
-Lawrence A. Bull, Paul Gardner, Timothy J. Rogers, Elizabeth J. Cross,
-Nikolaos Dervilis, and Keith Worden. Probabilistic inference for
-structural health monitoring: new modes of learning from data.
-*ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part
-A: Civil Engineering*, 7(1):03120003, mar 2021. URL:
-<https://doi.org/10.1061%2Fajrua6.0001106>,
-[doi:10.1061/ajrua6.0001106](https://doi.org/10.1061/ajrua6.0001106).
 
 LA Bull, P Gardner, TJ Rogers, EJ Cross, N Dervilis, and K Worden. New
 modes of inference for probabilistic shm. In *Lecture Notes in Civil
