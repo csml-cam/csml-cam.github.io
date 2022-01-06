@@ -15,12 +15,18 @@ We meet every week on Friday at 14:00. If you are interested in giving a talk, e
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-12-10 - Bayesian Learning via Neural Schrodinger Follmer Flow - Francisco Vargas Palomo
+2022-01-21 - TBA - Toni Karvonen
 {% endcapture %}{% include details.html %}
 
 ## Past talks
 
 ### Michaelmas Term 2021
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2021-12-10 - Bayesian Learning via Neural Schrodinger Follmer Flow - Francisco Vargas Palomo
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
