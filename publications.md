@@ -28,35 +28,17 @@ Systems and Signal Processing*, 162:108034, jan 2022. URL:
 <https://doi.org/10.1016%2Fj.ymssp.2021.108034>,
 [doi:10.1016/j.ymssp.2021.108034](https://doi.org/10.1016/j.ymssp.2021.108034).
 
-B. Boys, T.J. Dodwell, M. Hobbs, and M. Girolami. - a high performance
-OpenCL peridynamics package. *Computer Methods in Applied Mechanics and
-Engineering*, 386:114085, dec 2021. URL:
-<https://doi.org/10.1016%2Fj.cma.2021.114085>,
-[doi:10.1016/j.cma.2021.114085](https://doi.org/10.1016/j.cma.2021.114085).
-
 Toni Karvonen, Chris J. Oates, and Mark Girolami. Integration in
 reproducing kernel hilbert spaces of gaussian kernels. *Mathematics of
 Computation*, pages 1, jun 2021. URL:
 <https://doi.org/10.1090%2Fmcom%2F3659>,
 [doi:10.1090/mcom/3659](https://doi.org/10.1090/mcom/3659).
 
-Steven A. Niederer, Michael S. Sacks, Mark Girolami, and Karen Willcox.
-Scaling digital twins from the artisanal to the industrial. *Nature
-Computational Science*, 1(5):313--320, may 2021. URL:
-<https://doi.org/10.1038%2Fs43588-021-00072-5>,
-[doi:10.1038/s43588-021-00072-5](https://doi.org/10.1038/s43588-021-00072-5).
-
-Connor Duffin, Edward Cripps, Thomas Stemler, and Mark Girolami.
-Statistical finite elements for misspecified models. *Proceedings of the
-National Academy of Sciences*, 118(2):e2015006118, dec 2020. URL:
-<https://doi.org/10.1073%2Fpnas.2015006118>,
-[doi:10.1073/pnas.2015006118](https://doi.org/10.1073/pnas.2015006118).
-
-Rebecca Ward, Ruchi Choudhary, Alastair Gregory, Melanie Jans-Singh, and
-Mark Girolami. Continuous calibration of a digital twin: comparison of
-particle filter and bayesian calibration approaches. *Data-Centric
-Engineering*, 2021. URL: <https://doi.org/10.1017%2Fdce.2021.12>,
-[doi:10.1017/dce.2021.12](https://doi.org/10.1017/dce.2021.12).
+B. Boys, T.J. Dodwell, M. Hobbs, and M. Girolami. - a high performance
+OpenCL peridynamics package. *Computer Methods in Applied Mechanics and
+Engineering*, 386:114085, dec 2021. URL:
+<https://doi.org/10.1016%2Fj.cma.2021.114085>,
+[doi:10.1016/j.cma.2021.114085](https://doi.org/10.1016/j.cma.2021.114085).
 
 L.A. Bull, P.A. Gardner, T.J. Rogers, N. Dervilis, E.J. Cross,
 E. Papatheou, A.E. Maguire, C. Campos, and K. Worden. Bayesian modelling
