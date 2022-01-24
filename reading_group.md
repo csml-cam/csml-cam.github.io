@@ -18,18 +18,6 @@ We meet every week on Friday at 14:00 UKT. If you are interested in giving a tal
 2022-01-28 - Blurring the line between numerical simulation and inference of differential equations - Nicholas Kraemer
 {% endcapture %}{% include details.html %}
 
-<!-- {% capture details %} -->
-<!-- {% endcapture %} -->
-<!-- {% capture summary %} -->
-<!-- 2022-02-04 - Alistair Senior  -->
-<!-- {% endcapture %}{% include details.html %} -->
-
-<!-- {% capture details %} -->
-<!-- {% endcapture %} -->
-<!-- {% capture summary %} -->
-<!-- 2022-02-11 - Greg Pavliotis -->
-<!-- {% endcapture %}{% include details.html %} -->
-
 ## Past talks
 
 ### Lent term 2022
