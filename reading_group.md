@@ -8,17 +8,37 @@ permalink: /reading_group
 
 # CSML@Cam - Talks schedule
 
-We meet every week on Friday at 14:00. If you are interested in giving a talk, email Connor (<cpd32@cam.ac.uk>) to organise a date and time.
+We meet every week on Friday at 14:00 UKT. If you are interested in giving a talk, email Connor (<cpd32@cam.ac.uk>) to organise a date and time.
 
 ## Upcoming
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-01-21 - TBA - Toni Karvonen
+2022-01-28 - Blurring the line between numerical simulation and inference of differential equations - Nicholas Kraemer
 {% endcapture %}{% include details.html %}
 
+<!-- {% capture details %} -->
+<!-- {% endcapture %} -->
+<!-- {% capture summary %} -->
+<!-- 2022-02-04 - Alistair Senior  -->
+<!-- {% endcapture %}{% include details.html %} -->
+
+<!-- {% capture details %} -->
+<!-- {% endcapture %} -->
+<!-- {% capture summary %} -->
+<!-- 2022-02-11 - Greg Pavliotis -->
+<!-- {% endcapture %}{% include details.html %} -->
+
 ## Past talks
+
+### Lent term 2022
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-01-21 - Maximum likelihood estimation of the length-scale parameter in Gaussian process regression - Toni Karvonen
+{% endcapture %}{% include details.html %}
 
 ### Michaelmas Term 2021
 
@@ -85,7 +105,7 @@ We meet every week on Friday at 14:00. If you are interested in giving a talk, e
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2021-09-24 - *No reading group this week*
+2021-09-24 - *No talk this week*
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
