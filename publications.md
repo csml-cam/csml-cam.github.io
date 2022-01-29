@@ -116,6 +116,38 @@ sigma-point filters. *IEEE Transactions on Automatic Control*,
 <https://doi.org/10.1109%2Ftac.2020.2991698>,
 [doi:10.1109/tac.2020.2991698](https://doi.org/10.1109/tac.2020.2991698).
 
+Toni Karvonen, Simo Sarkka, and Christos Merkatas. Gaussian
+approximations of sdes in metropolis-adjusted langevin algorithms. In
+*31st IEEE International Workshop on Machine Learning for Signal
+Processing*. 2021.
+[doi:10.1109/MLSP52302.2021.9596301](https://doi.org/10.1109/MLSP52302.2021.9596301).
+
+Toni Karvonen, Jakub Prüher, Ondřej Straka, Chris Oates, and Simo
+Sarkka. Improved calibration of numerical integration error in
+sigma-point filters. *IEEE Transactions on Automatic Control*,
+66(3):1286--1292, 2021.
+
+Toni Karvonen, Chris Oates, and Mark A. Girolami. Integration in
+reproducing kernel hilbert spaces of gaussian kernels. *Mathematics of
+Computation*, 90(331):2209--2233, 2021.
+
+Toni Karvonen, Simo Sarkka, and Ken'ichiro Tanaka. Kernel-based
+interpolation at approximate fekete points. *Numerical Algorithms*,
+87(1):445--468, 2021.
+
+Toni Karvonen, Gabriele Santin, and Bernard Haasdonk. Sampling based
+approximation of linear functionals in reproducing kernel hilbert
+spaces. *BIT Numerical Mathematics*, 2021.
+
+Toni Karvonen, Leah South, Chris Nemeth, Mark A. Girolami, and Chris
+Oates. Semi-exact control functionals from sard's method. *Biometrika*,
+2021.
+
+Toni Karvonen, Zheng Zhao, Roland Hostettler, and Simo Sarkka. Taylor
+moment expansion for continuous-discrete gaussian filtering and
+smoothing. *IEEE Transactions on Automatic Control*, 66(9):4460--4467,
+2021.
+
 Maharshi Dhada, Mark Girolami, and Ajith Kumar Parlikad. Anomaly
 detection in a fleet of industrial assets with hierarchical statistical
 modeling. *Data-Centric Engineering*, 2020. URL:
@@ -226,6 +258,20 @@ increasingly flat gaussian kernels. *Advances in Computational
 Mathematics*, mar 2020. URL:
 <https://doi.org/10.1007%2Fs10444-020-09767-1>,
 [doi:10.1007/s10444-020-09767-1](https://doi.org/10.1007/s10444-020-09767-1).
+
+Toni Karvonen, Simo Sarkka, George Wynne, Filip Tronarp, and Chris
+Oates. Maximum likelihood estimation and uncertainty quantification for
+gaussian process approximation of deterministic functions. *SIAM/ASA
+journal on uncertainty quantification*, 8(3):926--958, 2020.
+
+Toni Karvonen, Silvère Bonnabel, Eric Moulines, and Simo Sarkka. On
+stability of a class of filters for nonlinear stochastic systems read
+more: https://epubs.siam.org/doi/10.1137/19m1285974. *SIAM Journal on
+Control and Optimization*, 58(4):2023--2049, 2020.
+
+Toni Karvonen and Simo Sarkka. Worst-case optimal approximation with
+increasingly flat gaussian kernels. *Advances in Computational
+Mathematics*, 2020.
 
 Ivan Ustyuzhaninov\*, Ieva Kazlauskaite\*, Markus Kaiser, Erik Bodin,
 Neill Campbell, and Carl Henrik Ek. Compositional uncertainty in deep
