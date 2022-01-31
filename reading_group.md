@@ -8,7 +8,13 @@ permalink: /reading_group
 
 # CSML@Cam - Talks schedule
 
-We meet every week on Friday at 14:00 UKT. If you are interested in giving a talk, email Connor (<cpd32@cam.ac.uk>) to organise a date and time.
+We meet every week on Friday at 14:00 GMT. If you are interested in giving a talk, email Connor (<cpd32@cam.ac.uk>) to organise a date and time.
+
+_Past organisers_
+
+Omer Deniz Akyildiz (April 2021 - Sept. 2021)
+
+Ieva Kazlauskaite (Oct. 2020 - March 2021)
 
 ## Upcoming
 
