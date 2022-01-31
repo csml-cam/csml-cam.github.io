@@ -15,12 +15,73 @@ We meet every week on Friday at 14:00 UKT. If you are interested in giving a tal
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-01-28 - Blurring the line between numerical simulation and inference of differential equations - Nicholas Kraemer
+2022-02-04 - *No talk this week*
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-02-11 - Parameter estimation for multiscale diffusions, old and new - Prof. Greg Pavliotis
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-02-18 - TBA - Yanni Papandreou
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-02-25 - TBA - Tim Rogers
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-03-04 - TBA - Jan Povala
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-03-11 - TBA - Takuo Matsubara
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-03-18 - TBA - Deniz Akyildiz
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-03-25 - *No talk this week*
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-04-01 - TBA - Rob Cornish
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-04-08 - TBA - Andi Wang
 {% endcapture %}{% include details.html %}
 
 ## Past talks
 
 ### Lent term 2022
+
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-01-28 - Blurring the line between numerical simulation and inference of differential equations - Nicholas Kraemer
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
