@@ -63,7 +63,7 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-03-25 - *No talk this week*
+2022-03-25 - TBA - Alistair Senior
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
