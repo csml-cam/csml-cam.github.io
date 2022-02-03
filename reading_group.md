@@ -27,7 +27,7 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-02-11 - Parameter estimation for multiscale diffusions, old and new - Prof. Greg Pavliotis
+2022-02-11 - Optimal Langevin Samplers - Prof. Greg Pavliotis
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
