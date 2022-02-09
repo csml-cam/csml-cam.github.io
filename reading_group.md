@@ -21,25 +21,19 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-02-04 - *No talk this week*
+2022-02-11 - Optimal Langevin Samplers - Prof. Greg Pavliotis <span style="color:blue">(starts at 16:00)</span>
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-02-11 - Optimal Langevin Samplers - Prof. Greg Pavliotis
+2022-02-18 - Theoretical Guarantees for the Statistical Finite Element Method - Yanni Papandreou
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-02-18 - TBA - Yanni Papandreou
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2022-02-25 - TBA - Tim Rogers
+2022-02-25 - What Gaussian Process Latent Force Models Can Tell Us About Mechanical Systems? - Tim Rogers
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -82,6 +76,12 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 
 ### Lent term 2022
 
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-02-04 - *No talk this week*
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
