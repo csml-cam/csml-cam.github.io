@@ -21,12 +21,6 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-02-11 - Optimal Langevin Samplers - Prof. Greg Pavliotis <span style="color:blue">(starts at 16:00)</span>
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
 2022-02-18 - Theoretical Guarantees for the Statistical Finite Element Method - Yanni Papandreou
 {% endcapture %}{% include details.html %}
 
@@ -76,6 +70,11 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 
 ### Lent term 2022
 
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-02-11 - Optimal Langevin Samplers - Prof. Greg Pavliotis <span style="color:blue">(starts at 16:00)</span>
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
