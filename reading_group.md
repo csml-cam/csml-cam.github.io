@@ -69,7 +69,7 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-04-08 - TBA - Harita Dellaporta
+2022-04-29 - TBA - Harita Dellaporta
 {% endcapture %}{% include details.html %}
 
 ## Past talks
