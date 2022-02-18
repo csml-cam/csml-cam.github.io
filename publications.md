@@ -18,7 +18,7 @@ For the full list of publications, scroll down.
 L.A. Bull, P.A. Gardner, T.J. Rogers, N. Dervilis, E.J. Cross,
 E. Papatheou, A.E. Maguire, C. Campos, and K. Worden. Bayesian modelling
 of multivalued power curves from an operational wind farm. *Mechanical
-Systems and Signal Processing*, pages 108530, nov 2021. URL:
+Systems and Signal Processing*, 169:108530, apr 2022. URL:
 <https://doi.org/10.1016%2Fj.ymssp.2021.108530>,
 [doi:10.1016/j.ymssp.2021.108530](https://doi.org/10.1016/j.ymssp.2021.108530).
 
