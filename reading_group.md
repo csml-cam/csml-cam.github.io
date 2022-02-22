@@ -21,12 +21,6 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-02-18 - Theoretical Guarantees for the Statistical Finite Element Method - Yanni Papandreou
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
 2022-02-25 - What Gaussian Process Latent Force Models Can Tell Us About Mechanical Systems? - Tim Rogers
 {% endcapture %}{% include details.html %}
 
@@ -75,6 +69,12 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 ## Past talks
 
 ### Lent term 2022
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-02-18 - Theoretical Guarantees for the Statistical Finite Element Method - Yanni Papandreou
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
