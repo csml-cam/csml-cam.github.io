@@ -15,6 +15,13 @@ For the full list of publications, scroll down.
 
 ## All publications
     
+P. Gardner, L.A. Bull, J. Gosliga, J. Poole, N. Dervilis, and K. Worden.
+A population-based SHM methodology for heterogeneous structures:
+transferring damage localisation knowledge between different aircraft
+wings. *Mechanical Systems and Signal Processing*, 172:108918, jun 2022.
+URL: <https://doi.org/10.1016%2Fj.ymssp.2022.108918>,
+[doi:10.1016/j.ymssp.2022.108918](https://doi.org/10.1016/j.ymssp.2022.108918).
+
 L.A. Bull, P.A. Gardner, T.J. Rogers, N. Dervilis, E.J. Cross,
 E. Papatheou, A.E. Maguire, C. Campos, and K. Worden. Bayesian modelling
 of multivalued power curves from an operational wind farm. *Mechanical
