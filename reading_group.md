@@ -21,19 +21,13 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-02-25 - What Gaussian Process Latent Force Models Can Tell Us About Mechanical Systems? - Tim Rogers
+2022-03-04 - Variational Bayesian Approximation of Inverse Problems using Sparse Precision Matrices - Jan Povala
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-03-04 - TBA - Jan Povala
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2022-03-11 - TBA - Takuo Matsubara
+2022-03-11 - Robust Generalised Bayesian Inference for Intractable Likelihoods - Takuo Matsubara
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -69,6 +63,12 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 ## Past talks
 
 ### Lent term 2022
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-02-25 - What Gaussian Process Latent Force Models Can Tell Us About Mechanical Systems? - Tim Rogers
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
