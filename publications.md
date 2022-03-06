@@ -62,7 +62,7 @@ Computational Science*, 1(5):313--320, may 2021. URL:
 
 Connor Duffin, Edward Cripps, Thomas Stemler, and Mark Girolami.
 Statistical finite elements for misspecified models. *Proceedings of the
-National Academy of Sciences*, dec 2020. URL:
+National Academy of Sciences*, 118(2):e2015006118, dec 2020. URL:
 <https://doi.org/10.1073%2Fpnas.2015006118>,
 [doi:10.1073/pnas.2015006118](https://doi.org/10.1073/pnas.2015006118).
 
