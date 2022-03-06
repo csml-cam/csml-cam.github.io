@@ -21,12 +21,6 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-03-04 - Variational Bayesian Approximation of Inverse Problems using Sparse Precision Matrices - Jan Povala
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
 2022-03-11 - Robust Generalised Bayesian Inference for Intractable Likelihoods - Takuo Matsubara
 {% endcapture %}{% include details.html %}
 
@@ -63,6 +57,12 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 ## Past talks
 
 ### Lent term 2022
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-03-04 - Variational Bayesian Approximation of Inverse Problems using Sparse Precision Matrices - Jan Povala
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
