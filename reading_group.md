@@ -27,7 +27,7 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-03-18 - TBA - Deniz Akyildiz
+2022-03-18 - Probabilistic sequential matrix factorization - Deniz Akyildiz
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
