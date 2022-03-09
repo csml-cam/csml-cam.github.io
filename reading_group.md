@@ -54,6 +54,12 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 2022-04-29 - TBA - Harita Dellaporta
 {% endcapture %}{% include details.html %}
 
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-05-06 - TBA - Georgios Batzolis
+{% endcapture %}{% include details.html %}
+
 ## Past talks
 
 ### Lent term 2022
