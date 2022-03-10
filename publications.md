@@ -15,6 +15,13 @@ For the full list of publications, scroll down.
 
 ## All publications
     
+Jan Povala, Ieva Kazlauskaite, Eky Febrianto, Fehmi Cirak, and Mark
+Girolami. Variational bayesian approximation of inverse problems using
+sparse precision matrices. *Computer Methods in Applied Mechanics and
+Engineering*, 393:114712, apr 2022. URL:
+<https://doi.org/10.1016%2Fj.cma.2022.114712>,
+[doi:10.1016/j.cma.2022.114712](https://doi.org/10.1016/j.cma.2022.114712).
+
 P. Gardner, L.A. Bull, J. Gosliga, J. Poole, N. Dervilis, and K. Worden.
 A population-based SHM methodology for heterogeneous structures:
 transferring damage localisation knowledge between different aircraft
