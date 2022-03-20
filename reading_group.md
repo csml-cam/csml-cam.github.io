@@ -21,19 +21,7 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-03-11 - Robust Generalised Bayesian Inference for Intractable Likelihoods - Takuo Matsubara
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2022-03-18 - Probabilistic sequential matrix factorization - Deniz Akyildiz
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2022-03-25 - TBA - Alistair Senior
+2022-03-25 - Understanding Aerodynamic Loss Mechanisms Using Machine Learning - Alistair Senior
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -60,9 +48,33 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 2022-05-06 - TBA - Georgios Batzolis
 {% endcapture %}{% include details.html %}
 
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-05-13 - TBA - Jon Cockayne
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-05-20 - TBA - Thomas Gaskin
+{% endcapture %}{% include details.html %}
+
 ## Past talks
 
 ### Lent term 2022
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-03-18 - Probabilistic sequential matrix factorization - Deniz Akyildiz
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-03-11 - Robust Generalised Bayesian Inference for Intractable Likelihoods - Takuo Matsubara
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
