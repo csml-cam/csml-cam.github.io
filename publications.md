@@ -49,12 +49,6 @@ Systems and Signal Processing*, 162:108034, jan 2022. URL:
 <https://doi.org/10.1016%2Fj.ymssp.2021.108034>,
 [doi:10.1016/j.ymssp.2021.108034](https://doi.org/10.1016/j.ymssp.2021.108034).
 
-B. Boys, T.J. Dodwell, M. Hobbs, and M. Girolami. - a high performance
-OpenCL peridynamics package. *Computer Methods in Applied Mechanics and
-Engineering*, 386:114085, dec 2021. URL:
-<https://doi.org/10.1016%2Fj.cma.2021.114085>,
-[doi:10.1016/j.cma.2021.114085](https://doi.org/10.1016/j.cma.2021.114085).
-
 Toni Karvonen, Chris J. Oates, and Mark Girolami. Integration in
 reproducing kernel hilbert spaces of gaussian kernels. *Mathematics of
 Computation*, pages 1, jun 2021. URL:
@@ -78,6 +72,12 @@ Mark Girolami. Continuous calibration of a digital twin: comparison of
 particle filter and bayesian calibration approaches. *Data-Centric
 Engineering*, 2021. URL: <https://doi.org/10.1017%2Fdce.2021.12>,
 [doi:10.1017/dce.2021.12](https://doi.org/10.1017/dce.2021.12).
+
+B. Boys, T.J. Dodwell, M. Hobbs, and M. Girolami. - a high performance
+OpenCL peridynamics package. *Computer Methods in Applied Mechanics and
+Engineering*, 386:114085, dec 2021. URL:
+<https://doi.org/10.1016%2Fj.cma.2021.114085>,
+[doi:10.1016/j.cma.2021.114085](https://doi.org/10.1016/j.cma.2021.114085).
 
 P Gardner, LA Bull, N Dervilis, and K Worden. Overcoming the problem of
 repair in structural health monitoring: metric-informed transfer
@@ -651,13 +651,6 @@ International Conference on Machine Learning, ICML 2015*, 1:588--596,
 P. Hennig, M.A. Osborne, and M. Girolami. Probabilistic numerics and
 uncertainty in computations. *Proceedings of the Royal Society A:
 Mathematical, Physical and Engineering Sciences*, 2015.
-
-Alessandro Barp, Edoardo Gabriele Barp, François-Xavier Briol, and
-Daniel Ueltschi. A numerical study of the 3d random interchange and
-random loop models. *Journal of Physics A: Mathematical and
-Theoretical*, 48(34):345002, aug 2015. URL:
-<https://doi.org/10.1088%2F1751-8113%2F48%2F34%2F345002>,
-[doi:10.1088/1751-8113/48/34/345002](https://doi.org/10.1088/1751-8113/48/34/345002).
 
 V. Stathopoulos, V. Zamora-Gutierrez, K.E. Jones, and M. Girolami. Bat
 call identification with gaussian process multinomial probit regression
