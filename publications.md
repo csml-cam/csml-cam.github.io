@@ -337,6 +337,13 @@ density and stratification estimates with implications for predicting
 ocean dynamics. *Journal of Atmospheric and Oceanic Technology*,
 36(8):1313--1330, 2019.
 
+L.A. Bull, K. Worden, R. Fuentes, G. Manson, E.J. Cross, and
+N. Dervilis. Outlier ensembles: a robust method for damage detection and
+unsupervised feature extraction from high-dimensional data. *Journal of
+Sound and Vibration*, 453:126--150, aug 2019. URL:
+<https://doi.org/10.1016%2Fj.jsv.2019.03.025>,
+[doi:10.1016/j.jsv.2019.03.025](https://doi.org/10.1016/j.jsv.2019.03.025).
+
 LA Bull, K Worden, TJ Rogers, C Wickramarachchi, EJ Cross, T McLeay,
 W Leahy, and N Dervilis. A probabilistic framework for online structural
 health monitoring : active learning from machining data streams. In
@@ -438,6 +445,12 @@ Mathematical, Physical and Engineering Sciences*, 2018.
 F.D.-H. Lau, N.M. Adams, M.A. Girolami, L.J. Butler, and M.Z.E.B.
 Elshafie. The role of statistics in data-centric engineering.
 *Statistics and Probability Letters*, 136:58--62, 2018.
+
+L. Bull, K. Worden, G. Manson, and N. Dervilis. Active learning for
+semi-supervised structural health monitoring. *Journal of Sound and
+Vibration*, 437:373--388, dec 2018. URL:
+<https://doi.org/10.1016%2Fj.jsv.2018.08.040>,
+[doi:10.1016/j.jsv.2018.08.040](https://doi.org/10.1016/j.jsv.2018.08.040).
 
 H. Rappel, L.A.A. Beex, and S.P.A. Bordas. Bayesian inference to
 identify parameters in viscoelasticity. *Mechanics of Time-Dependent
