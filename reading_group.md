@@ -27,13 +27,13 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-04-01 - TBA - Rob Cornish
+2022-04-08 - TBA - Andi Wang
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-04-08 - TBA - Andi Wang
+2022-04-22 - TBA - Rob Cornish
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
