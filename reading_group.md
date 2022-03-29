@@ -21,13 +21,19 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-03-25 - Understanding Aerodynamic Loss Mechanisms Using Machine Learning - Alistair Senior
+2022-04-01 - No reading group this week
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
 2022-04-08 - TBA - Andi Wang
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-04-15 - No reading group this week
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -60,9 +66,21 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 2022-05-20 - TBA - Thomas Gaskin
 {% endcapture %}{% include details.html %}
 
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-05-27 - TBA - Gerry Gralton
+{% endcapture %}{% include details.html %}
+
 ## Past talks
 
 ### Lent term 2022
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-03-25 - Understanding Aerodynamic Loss Mechanisms Using Machine Learning - Alistair Senior
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
