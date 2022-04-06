@@ -21,13 +21,7 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-04-01 - No reading group this week
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2022-04-08 - TBA - Andi Wang
+2022-04-08 - Comparison of Markov chains via weak Poincaré inequalities with application to pseudo-marginal MCMC - Andi Wang
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -72,9 +66,21 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 2022-05-27 - TBA - Gerry Gralton
 {% endcapture %}{% include details.html %}
 
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-06-03 - No reading group this week
+{% endcapture %}{% include details.html %}
+
 ## Past talks
 
 ### Lent term 2022
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-04-01 - No reading group this week
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
