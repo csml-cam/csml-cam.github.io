@@ -503,12 +503,6 @@ F.D.-H. Lau, N.M. Adams, M.A. Girolami, L.J. Butler, and M.Z.E.B.
 Elshafie. The role of statistics in data-centric engineering.
 *Statistics and Probability Letters*, 136:58--62, 2018.
 
-L. Bull, K. Worden, G. Manson, and N. Dervilis. Active learning for
-semi-supervised structural health monitoring. *Journal of Sound and
-Vibration*, 437:373--388, dec 2018. URL:
-<https://doi.org/10.1016%2Fj.jsv.2018.08.040>,
-[doi:10.1016/j.jsv.2018.08.040](https://doi.org/10.1016/j.jsv.2018.08.040).
-
 H. Rappel, L.A.A. Beex, and S.P.A. Bordas. Bayesian inference to
 identify parameters in viscoelasticity. *Mechanics of Time-Dependent
 Materials*, 22(2):221--258, 2018.
