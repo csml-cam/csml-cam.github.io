@@ -42,6 +42,13 @@ monitoring. *Mechanical Systems and Signal Processing*, 167:108569, mar
 2022. URL: <https://doi.org/10.1016%2Fj.ymssp.2021.108569>,
 [doi:10.1016/j.ymssp.2021.108569](https://doi.org/10.1016/j.ymssp.2021.108569).
 
+H. Rappel, M. Girolami, and L. A. A. Beex. Intercorrelated random fields
+with bounds and the bayesian identification of their parameters:
+application to linear elastic struts and fibers. *International Journal
+for Numerical Methods in Engineering*, mar 2022. URL:
+<https://doi.org/10.1002%2Fnme.6974>,
+[doi:10.1002/nme.6974](https://doi.org/10.1002/nme.6974).
+
 Patricio Peralta, Rafael O. Ruiz, Hussein Rappel, and Stéphane P.A.
 Bordas. Electromechanical properties identification for groups of
 piezoelectric energy harvester based on bayesian inference. *Mechanical
