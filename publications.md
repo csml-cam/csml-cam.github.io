@@ -236,12 +236,6 @@ Dynamics 2020*, volume 8, 255--267. Houston, TX, USA, Springer, Oct
 2020.
 [doi:10.1007/978-3-030-47717-2\_26](https://doi.org/10.1007/978-3-030-47717-2_26).
 
-L.A. Bull, K. Worden, and N. Dervilis. Towards semi-supervised and
-probabilistic classification in structural health monitoring.
-*Mechanical Systems and Signal Processing*, 140:106653, jun 2020. URL:
-<https://doi.org/10.1016%2Fj.ymssp.2020.106653>,
-[doi:10.1016/j.ymssp.2020.106653](https://doi.org/10.1016/j.ymssp.2020.106653).
-
 R Fuentes, EJ Cross, PA Gardner, LA Bull, TJ Rogers, RJ Barthorpe,
 H Shi, N Dervilis, CR Farrar, and K Worden. Structural health monitoring
 and damage identification. In *Handbook of Experimental Structural
@@ -393,20 +387,6 @@ M. Hodkiewicz, G.N. Ivey, and N.L. Jones. Uncertainty quantification of
 density and stratification estimates with implications for predicting
 ocean dynamics. *Journal of Atmospheric and Oceanic Technology*,
 36(8):1313--1330, 2019.
-
-L.A. Bull, T.J. Rogers, C. Wickramarachchi, E.J. Cross, K. Worden, and
-N. Dervilis. Probabilistic active learning: an online framework for
-structural health monitoring. *Mechanical Systems and Signal
-Processing*, 134:106294, dec 2019. URL:
-<https://doi.org/10.1016%2Fj.ymssp.2019.106294>,
-[doi:10.1016/j.ymssp.2019.106294](https://doi.org/10.1016/j.ymssp.2019.106294).
-
-L.A. Bull, K. Worden, R. Fuentes, G. Manson, E.J. Cross, and
-N. Dervilis. Outlier ensembles: a robust method for damage detection and
-unsupervised feature extraction from high-dimensional data. *Journal of
-Sound and Vibration*, 453:126--150, aug 2019. URL:
-<https://doi.org/10.1016%2Fj.jsv.2019.03.025>,
-[doi:10.1016/j.jsv.2019.03.025](https://doi.org/10.1016/j.jsv.2019.03.025).
 
 LA Bull, K Worden, TJ Rogers, C Wickramarachchi, EJ Cross, T McLeay,
 W Leahy, and N Dervilis. A probabilistic framework for online structural
