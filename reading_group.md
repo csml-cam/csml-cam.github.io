@@ -66,6 +66,12 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 2022-06-24 - TBA - Zack Xuereb Conti
 {% endcapture %}{% include details.html %}
 
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-07-01 - TBA - [Sam Power](https://sites.google.com/view/sp-monte-carlo)
+{% endcapture %}{% include details.html %}
+
 ## Past talks
 
 ### Lent term 2022
