@@ -21,13 +21,7 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-04-29 - Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap - Harita Dellaporta
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2022-05-06 - TBA - Georgios Batzolis
+2022-05-06 - Conditional Image Generation with Score-Based Diffusion Models - Georgios Batzolis
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -75,6 +69,12 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 ## Past talks
 
 ### Lent term 2022
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-04-29 - Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap - Harita Dellaporta
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
