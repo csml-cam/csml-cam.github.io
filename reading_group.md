@@ -21,19 +21,7 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-05-06 - Conditional Image Generation with Score-Based Diffusion Models - Georgios Batzolis
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2022-05-13 - TBA - Jon Cockayne
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2022-05-20 - TBA - Thomas Gaskin
+2022-05-13 - Testing whether a learning procedure is calibrated - Jon Cockayne
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -45,19 +33,13 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-06-03 - No reading group this week
+2022-06-10 - TBA - [Filippo Pagani](https://filippopagani.github.io/)
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-06-10 - TBA - Filippo Pagani
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2022-06-24 - TBA - Zack Xuereb Conti
+2022-06-24 - TBA - [Zack Xuereb Conti](https://www.xonti.co/)
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -69,6 +51,12 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 ## Past talks
 
 ### Lent term 2022
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-05-06 - Conditional Image Generation with Score-Based Diffusion Models - Georgios Batzolis
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
