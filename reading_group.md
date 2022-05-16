@@ -21,19 +21,13 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-05-13 - Testing whether a learning procedure is calibrated - Jon Cockayne
+2022-05-27 - Quantifying geometric uncertainty in patient-specific, biomedical engineering simulations - Gerry Gralton
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-05-27 - TBA - Gerry Gralton
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2022-06-10 - TBA - [Filippo Pagani](https://filippopagani.github.io/)
+2022-06-17 - TBA - [Filippo Pagani](https://filippopagani.github.io/)
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -48,9 +42,21 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 2022-07-01 - TBA - [Sam Power](https://sites.google.com/view/sp-monte-carlo)
 {% endcapture %}{% include details.html %}
 
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-07-22 - Dynamic Variational Autoencoders - Alex Glyn-Davies and Connor Duffin
+{% endcapture %}{% include details.html %}
+
 ## Past talks
 
 ### Lent term 2022
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-05-13 - Testing whether a learning procedure is calibrated - Jon Cockayne
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
