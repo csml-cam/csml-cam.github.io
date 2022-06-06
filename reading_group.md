@@ -21,12 +21,6 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-05-27 - Quantifying geometric uncertainty in patient-specific, biomedical engineering simulations - Gerry Gralton
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
 2022-06-17 - TBA - [Filippo Pagani](https://filippopagani.github.io/)
 {% endcapture %}{% include details.html %}
 
@@ -51,6 +45,12 @@ Ieva Kazlauskaite (Oct. 2020 - March 2021)
 ## Past talks
 
 ### Lent term 2022
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-05-27 - Quantifying geometric uncertainty in patient-specific, biomedical engineering simulations - Gerry Gralton
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
