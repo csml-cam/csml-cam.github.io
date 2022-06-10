@@ -46,7 +46,7 @@ Ieva Kazlauskaite (October 2020 - March 2021)
 
 ## Past talks
 
-### Lent term 2022
+### Easter term 2022
 
 {% capture details %}
 {% endcapture %}
@@ -101,6 +101,8 @@ Ieva Kazlauskaite (October 2020 - March 2021)
 {% capture summary %}
 2022-03-25 - Understanding Aerodynamic Loss Mechanisms Using Machine Learning - Alistair Senior
 {% endcapture %}{% include details.html %}
+
+### Lent term 2022
 
 {% capture details %}
 {% endcapture %}
