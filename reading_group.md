@@ -23,7 +23,7 @@ Ieva Kazlauskaite (October 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-06-17 - TBA - [Filippo Pagani](https://filippopagani.github.io/)
+2022-06-17 - Numerical Zig-Zag and Perturbation Bounds on Numerical Error - [Filippo Pagani](https://filippopagani.github.io/)
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -36,12 +36,6 @@ Ieva Kazlauskaite (October 2020 - March 2021)
 {% endcapture %}
 {% capture summary %}
 2022-07-01 - TBA - [Sam Power](https://sites.google.com/view/sp-monte-carlo)
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2022-07-22 - Dynamic Variational Autoencoders - Alex Glyn-Davies and Connor Duffin
 {% endcapture %}{% include details.html %}
 
 ## Past talks
