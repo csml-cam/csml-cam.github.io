@@ -23,24 +23,24 @@ Ieva Kazlauskaite (October 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-06-17 - Numerical Zig-Zag and Perturbation Bounds on Numerical Error - [Filippo Pagani](https://filippopagani.github.io/)
+2022-06-24 - A Physics-based Domain Adaptation framework for modeling and forecasting building energy - [Zack Xuereb Conti](https://www.xonti.co/)
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-06-24 - TBA - [Zack Xuereb Conti](https://www.xonti.co/)
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2022-07-01 - TBA - [Sam Power](https://sites.google.com/view/sp-monte-carlo)
+2022-07-01 - Accelerated Sampling on Discrete Spaces with Non-Reversible Markov Jump Processes - [Sam Power](https://sites.google.com/view/sp-monte-carlo)
 {% endcapture %}{% include details.html %}
 
 ## Past talks
 
 ### Easter term 2022
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-06-17 - Numerical Zig-Zag and Perturbation Bounds on Numerical Error - [Filippo Pagani](https://filippopagani.github.io/)
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
