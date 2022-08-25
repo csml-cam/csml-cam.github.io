@@ -23,6 +23,12 @@ Ieva Kazlauskaite (October 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
+2022-09-16 - TBC - [Prof. Michael Havbro Faber](https://vbn.aau.dk/en/persons/100493)
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
 TBC - Accelerated Sampling on Discrete Spaces with Non-Reversible Markov Jump Processes - [Sam Power](https://sites.google.com/view/sp-monte-carlo)
 {% endcapture %}{% include details.html %}
 
