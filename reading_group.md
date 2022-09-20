@@ -23,8 +23,39 @@ Ieva Kazlauskaite (October 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-09-16 - TBC - [Prof. Michael Havbro Faber](https://vbn.aau.dk/en/persons/100493)
+2022-12-09 - TBC - [Andrew Duncan](https://www.imperial.ac.uk/people/a.duncan)
 {% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-11-25 - TBC - [George Wynne](https://www.imperial.ac.uk/people/g.wynne18)
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-11-11 - TBC - Matty Jones
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-10-28 - TBC - [Pranay Seshadri](https://www.psesh.com)
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-10-14 - TBC - TBC
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-09-30 - TBC - [Thomas Simpson](https://chatzi.ibk.ethz.ch/about-us/people/research-staff/thomas-simpson.html)
+{% endcapture %}{% include details.html %}
+
 
 {% capture details %}
 {% endcapture %}
@@ -33,6 +64,14 @@ TBC - Accelerated Sampling on Discrete Spaces with Non-Reversible Markov Jump Pr
 {% endcapture %}{% include details.html %}
 
 ## Past talks
+
+### Michaelmas Term 2022
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-09-16 - Modelling in the Context of Decision Making Subject to Uncertainry - [Prof. Michael Havbro Faber](https://vbn.aau.dk/en/persons/100493)
+{% endcapture %}{% include details.html %}
 
 ### Easter term 2022
 
