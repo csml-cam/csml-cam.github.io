@@ -53,7 +53,7 @@ Ieva Kazlauskaite (October 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-09-30 - TBC - [Thomas Simpson](https://chatzi.ibk.ethz.ch/about-us/people/research-staff/thomas-simpson.html)
+2022-09-30 - Autoencoders for Reduced Order Modelling of Nonlinear Dynamics - [Thomas Simpson](https://chatzi.ibk.ethz.ch/about-us/people/research-staff/thomas-simpson.html)
 {% endcapture %}{% include details.html %}
 
 
