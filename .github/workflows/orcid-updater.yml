@@ -46,7 +46,7 @@ jobs:
           git config pull.rebase true
           git config --global user.email "no-reply@csml-cam.github.io"
           git config --global user.name "The deployment agent"
-          git config --global --add safe.directory /github/workspace
+          git config --global --add safe.directory '*'
       - name: Check if there are changes
         id: changes
         uses: UnicornGlobal/has-changes-action@v1.0.11
