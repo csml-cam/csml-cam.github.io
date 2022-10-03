@@ -128,6 +128,8 @@ if __name__ == '__main__':
         parsed_bib_re = re.compile(r"^(@[a-z]+\{)([^\,]+)((.*(\n)*.*)*)", re.MULTILINE)
 
         matched_str = parsed_bib_re.match(bib_str)
+        logging.info(f"PROCESSING PUB, BIB_STR: {bib_str}")
+        logging.info(f"PROCESSING PUB, MATCHED STR: {matched_str}")
 
         random_token = ''.join(random.choice(string.ascii_letters) for i in range(10))
         bib_str_randomised = f"{matched_str.group(1)}{matched_str.group(2)}{random_token}{matched_str.group(3)}"
