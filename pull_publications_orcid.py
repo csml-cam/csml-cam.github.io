@@ -126,14 +126,18 @@ if __name__ == '__main__':
     for _, _, _, _, bib_str in pub_list:
         # add random string token to the bib id to prevent any clashes as bibtex is generated from multiple sources
         parsed_bib_re = re.compile(r"^(@[a-z]+\{)([^\,]+)((.*(\n)*.*)*)", re.MULTILINE)
+        
+        try:
+            matched_str = parsed_bib_re.match(bib_str)
+            logging.info(f"PROCESSING PUB, BIB_STR: {bib_str}")
+            logging.info(f"PROCESSING PUB, MATCHED STR: {matched_str}")
 
-        matched_str = parsed_bib_re.match(bib_str)
-        logging.info(f"PROCESSING PUB, BIB_STR: {bib_str}")
-        logging.info(f"PROCESSING PUB, MATCHED STR: {matched_str}")
-
-        random_token = ''.join(random.choice(string.ascii_letters) for i in range(10))
-        bib_str_randomised = f"{matched_str.group(1)}{matched_str.group(2)}{random_token}{matched_str.group(3)}"
-        list_bibtex_strings.append(bib_str_randomised)
+            random_token = ''.join(random.choice(string.ascii_letters) for i in range(10))
+            bib_str_randomised = f"{matched_str.group(1)}{matched_str.group(2)}{random_token}{matched_str.group(3)}"
+            list_bibtex_strings.append(bib_str_randomised)
+        except Exception as e:
+            logging.info(f"BIB INFO RETRIEVAL FAILED: {e} \n, SKIPPING")
+            continue
 
     # bib_file_content = pybtex.format_from_strings(list_bibtex_strings, style='unsrt')
 
