@@ -53,19 +53,19 @@ Ieva Kazlauskaite (October 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-09-30 - Autoencoders for Reduced Order Modelling of Nonlinear Dynamics - [Thomas Simpson](https://chatzi.ibk.ethz.ch/about-us/people/research-staff/thomas-simpson.html)
-{% endcapture %}{% include details.html %}
-
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
 TBC - Accelerated Sampling on Discrete Spaces with Non-Reversible Markov Jump Processes - [Sam Power](https://sites.google.com/view/sp-monte-carlo)
 {% endcapture %}{% include details.html %}
 
 ## Past talks
 
 ### Michaelmas Term 2022
+
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-09-30 - Autoencoders for Reduced Order Modelling of Nonlinear Dynamics - [Thomas Simpson](https://chatzi.ibk.ethz.ch/about-us/people/research-staff/thomas-simpson.html)
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
