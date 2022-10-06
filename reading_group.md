@@ -41,7 +41,7 @@ Ieva Kazlauskaite (October 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-10-28 - TBC - [Pranay Seshadri](https://www.psesh.com)
+2022-10-21 - Bayesian Assessments of Jet Engine Performance: Averaging, Transfer Learning, and Anomaly Detection - [Pranay Seshadri](https://www.psesh.com)
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
