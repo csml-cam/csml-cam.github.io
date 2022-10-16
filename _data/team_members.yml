@@ -94,12 +94,13 @@
 
 - name: Jan Povala
   photo: jan_povala.jpg
-  info: Jan is a PhD student in the Statistics Section at Imperial College London, supervised by Professor Niall Adams and Professor Mark Girolami. His research is focused on statistical spatio-temporal models. During his PhD he was seconded to the Strategic Insights Unit of the Metropolitan Police Service.
+  info: Jan is a Research Associate at the Alan Turing Institute, supervised by Professor Mark Girolami and Professor Tim Dodwell. His research is focused on statistical spatio-temporal models. During his PhD he was seconded to the Strategic Insights Unit of the Metropolitan Police Service.
   email: jan.povala11@imperial.ac.uk
   website: https://jan.povala.com
-  number_educ: 2
-  education1: MRes in Financial Computing, University College London (2018)
-  education2: MEng in Computing, Imperial College London (2015)
+  number_educ: 3
+  education1: PhD in Statistics, University College London (2022)
+  education2: MRes in Financial Computing, University College London (2018)
+  education3: MEng in Computing, Imperial College London (2015)
 
 - name: Yannis Zachos
   photo: yannis_zachos.jpg
