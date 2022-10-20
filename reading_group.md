@@ -47,12 +47,6 @@ Ieva Kazlauskaite (October 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-10-14 - TBC - TBC
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
 TBC - Accelerated Sampling on Discrete Spaces with Non-Reversible Markov Jump Processes - [Sam Power](https://sites.google.com/view/sp-monte-carlo)
 {% endcapture %}{% include details.html %}
 
