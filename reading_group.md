@@ -29,19 +29,13 @@ Ieva Kazlauskaite (October 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
+2022-12-02 - TBC - Matty Jones
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
 2022-11-25 - TBC - [George Wynne](https://www.imperial.ac.uk/people/g.wynne18)
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2022-11-11 - TBC - Matty Jones
-{% endcapture %}{% include details.html %}
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2022-10-21 - Bayesian Assessments of Jet Engine Performance: Averaging, Transfer Learning, and Anomaly Detection - [Pranay Seshadri](https://www.psesh.com)
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -54,6 +48,11 @@ TBC - Accelerated Sampling on Discrete Spaces with Non-Reversible Markov Jump Pr
 
 ### Michaelmas Term 2022
 
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-10-21 - Bayesian Assessments of Jet Engine Performance: Averaging, Transfer Learning, and Anomaly Detection - [Pranay Seshadri](https://www.psesh.com)
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
