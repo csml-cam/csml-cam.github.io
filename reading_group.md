@@ -29,7 +29,7 @@ Ieva Kazlauskaite (October 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-12-02 - TBC - Matty Jones
+2022-12-02 - Incorporating physics into kernel functions for structural dynamics - [Matthew Jones](https://www.sheffield.ac.uk/mecheng/people/research/matthew-jones)
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
