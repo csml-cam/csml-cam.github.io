@@ -35,20 +35,19 @@ Ieva Kazlauskaite (October 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-11-25 - TBC - [George Wynne](https://www.imperial.ac.uk/people/g.wynne18)
-{% endcapture %}{% include details.html %}
-
-
-{% capture details %}
-{% endcapture %}
-{% capture summary %}
-2022-11-18 - Stochastic simulation of macroscopic bone tissue - [Sharana Shivanand](https://uk.linkedin.com/in/sharana-shivanand-a69218219)
+2022-11-25 - Discussing: [Spectral likelihood expansions for Bayesian inference](https://arxiv.org/abs/1506.07564) (Joseph B. Nagel, Bruno Sudret) - [George Wynne](https://www.imperial.ac.uk/people/g.wynne18)
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
 TBC - Accelerated Sampling on Discrete Spaces with Non-Reversible Markov Jump Processes - [Sam Power](https://sites.google.com/view/sp-monte-carlo)
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+TBC - Stochastic simulation of macroscopic bone tissue - [Sharana Shivanand](https://uk.linkedin.com/in/sharana-shivanand-a69218219)
 {% endcapture %}{% include details.html %}
 
 ## Past talks
