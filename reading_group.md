@@ -47,7 +47,7 @@ TBC - Accelerated Sampling on Discrete Spaces with Non-Reversible Markov Jump Pr
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-TBC - Stochastic simulation of macroscopic bone tissue - [Sharana Shivanand](https://uk.linkedin.com/in/sharana-shivanand-a69218219)
+2022-11-18 - EVT-informed Inferences for Extreme Events - [Miguel de Carvalho](https://www.maths.ed.ac.uk/~mdecarv/)
 {% endcapture %}{% include details.html %}
 
 ## Past talks
