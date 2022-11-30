@@ -35,13 +35,17 @@ Ieva Kazlauskaite (October 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-11-25 - Discussing: [Spectral likelihood expansions for Bayesian inference](https://arxiv.org/abs/1506.07564) (Joseph B. Nagel, Bruno Sudret) - [George Wynne](https://www.imperial.ac.uk/people/g.wynne18)
+TBC - Accelerated Sampling on Discrete Spaces with Non-Reversible Markov Jump Processes - [Sam Power](https://sites.google.com/view/sp-monte-carlo)
 {% endcapture %}{% include details.html %}
+
+## Past talks
+
+### Michaelmas Term 2022
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-TBC - Accelerated Sampling on Discrete Spaces with Non-Reversible Markov Jump Processes - [Sam Power](https://sites.google.com/view/sp-monte-carlo)
+2022-11-25 - Discussing: [Spectral likelihood expansions for Bayesian inference](https://arxiv.org/abs/1506.07564) (Joseph B. Nagel, Bruno Sudret) - [George Wynne](https://www.imperial.ac.uk/people/g.wynne18)
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
@@ -49,10 +53,6 @@ TBC - Accelerated Sampling on Discrete Spaces with Non-Reversible Markov Jump Pr
 {% capture summary %}
 2022-11-18 - EVT-informed Inferences for Extreme Events - [Miguel de Carvalho](https://www.maths.ed.ac.uk/~mdecarv/)
 {% endcapture %}{% include details.html %}
-
-## Past talks
-
-### Michaelmas Term 2022
 
 {% capture details %}
 {% endcapture %}
