@@ -5,16 +5,6 @@
   website: https://prof-girolami.uk/
   number_educ: 0
 
-- name: Omer Deniz Akyildiz
-  photo: omer_deniz_akyildiz.png
-  info: Omer Deniz Akyildiz is a Research Associate at The Alan Turing Institute. His research interests revolve around stochastic filtering in high-dimensions and the interplay between sampling, optimisation, and filtering methods.
-  email: odakyildiz@turing.ac.uk
-  website: http://akyildiz.me
-  number_educ: 3
-  education1: PhD in Signal Processing, Universidad Carlos III de Madrid, Spain (2019)
-  education2: MSc in Electronics and Communications Engineering, Istanbul Technical University, Turkey (2012)
-  education3: BSc in Electronics and Communications Engineering, Istanbul Technical University, Turkey (2010)
-
 - name: Alessandro Barp
   photo: alessandro_barp.jpg
   info: Alessandro is a Research Associate (postdoc) in the Engineering Department at the University of Cambridge and a visiting researcher at The Alan Turing Institute. His research focuses on the empowerment of measures via the geometrisation of statistical methods, such as Hamiltonian Monte Carlo and kernel algorithms built with Stein operators. After having completed the MMathPhys of The University of Warwick and Part III of the Mathematical Tripos at Cambridge, he received his PhD from Imperial College London.
@@ -42,15 +32,14 @@
   education1: PhD in Engineering, University of Surrey, UK (2021)
   education2: MEng Mechanical Engineering, Durham University, UK (2012)
 
-- name: Toni Karvonen
-  photo: toni_karvonen.png
-  info: Toni is a Research Fellow at The Alan Turing Institute. His primary research interests are in Gaussian process and kernel-based modelling and approximation, related uncertainty quantification, and probabilistic numerical methods, in particular for integration. Previously he has worked on non-linear stochastic filtering problems.
-  email: tkarvonen@turing.ac.uk
-  website: https://tskarvone.github.io/
-  number_educ: 3
-  education1: Doctor of Science (Technology), Department of Electrical Engineering and Automation, Aalto University, Finland (2019)
-  education2: MSc in applied mathematics, Department of Mathematics and Statistics, University of Helsinki, Finland (2015)
-  education3: BSc in mathematics, Department of Mathematics and Statistics, University of Helsinki, Finland (2015)
+- name: Connor Duffin
+  photo: connor_duffin.jpg
+  info: Connor is Research Associate (postdoc) in the Engineering Department at the University of Cambridge, having previously completed his Ph.D. in the Department of Mathematics and Statistics at the University of Western Australia. He is funded by the PREMIERE grant. His research focusses on developing statistical methodology to combine nonlinear differential equations with observed data. 
+  email: cpd32@cam.ac.uk
+  website: https://connor-duffin.github.io
+  number_educ: 2
+  education1: PhD in Mathematics and Statistics, University of Western Australia (2022).
+  education2: BSc (Hons) in Mathematics and Statistics, University of Western Australia (2018).
 
 - name: Ieva Kazlauskaite
   photo: ieva_kazlauskaite.jpg
@@ -98,14 +87,6 @@
   education1: MPhil in Machine Learning and Machine Intelligence, University of Cambridge (2019)
   education2: BEng in Computer Engineering, Concordia University (2016)
   
-- name: Connor Duffin
-  photo: connor_duffin.jpg
-  info: Connor is Research Assistant in the Engineering Department at the University of Cambridge, whilst also completing his Ph.D. in the Department of Mathematics and Statistics at the University of Western Australia. He is funded by the PREMIERE grant. His research focusses on developing statistical methodology to combine partial differential equations with observed data. 
-  email: cpd32@cam.ac.uk
-  website: https://connor-duffin.github.io
-  number_educ: 1
-  education1: BSc (Hons) in Mathematics and Statistics, University of Western Australia
-
 - name: Alex Glyn-Davies
   photo: alex_glyn_davies.jpg
   info: Alex is a PhD student at the Cambridge University Engineering Department, supervised by Professor Mark Girolami.  His PhD is sponsored by Splunk Inc, and will be researching machine learning for data streaming applications.  He completed a MEng at Cambridge, with his masters thesis focussing on efficient parameter estimation for particle filtering algorithms.
@@ -150,5 +131,3 @@
   education2:
   education3:
   education4:
- 
-  
