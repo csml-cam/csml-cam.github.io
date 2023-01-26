@@ -43,23 +43,11 @@
 
 - name: Ieva Kazlauskaite
   photo: ieva_kazlauskaite.jpg
-  info: Ieva is a Research Associate (postdoc) in the Engineering Department at the University of Cambridge funded by the <a href="https://iconicmath.org/" target="_blank">ICONIC</a> grant. Her current research is in the area of data-centric engineering, focusing on structural problems and ways to combine statistical and numerical approaches to solutions of differential equations. Prior to that, Ieva completed her doctoral degree at the University of Bath working on Gaussian processes. During her doctoral studies she spent 3 years in industry as a Research Engineer / Engineering Doctorate student at the Frostbite Physics Team at Electronic Arts.
+  info: Ieva is a Biometrika Fellow in the Engineering Department at the University of Cambridge. Her current research is in the area of data-centric engineering, focusing on structural problems and ways to combine statistical and numerical approaches to solutions of differential equations. Prior to that, Ieva completed her doctoral degree at the University of Bath working on Gaussian processes. During her doctoral studies she spent 3 years in industry as a Research Engineer / Engineering Doctorate student at the Frostbite Physics Team at Electronic Arts.
   email: ik394@cam.ac.uk
-  website: https://ievakazlauskaite.github.io/
   number_educ: 2
   education1: Engineering Doctorate in Computer Science, University of Bath, UK (2020)
   education2:  MMath in Mathematics, University of Durham, UK (2014)
-
-- name: Hussein Rappel
-  photo: hussein_rappel.jpg
-  info: Hussein is a research associate within the Data-Centric Engineering program at The Alan Turing Institute. Hussein's research is mainly focused on use of the probability logic in applied and computational mechanics.
-  email: hrappel@turing.ac.uk
-  website: https://www.turing.ac.uk/people/researchers/hussein-rappel
-  number_educ: 4
-  education1: Postdoctoral researcher, University of Luxembourg, Luxembourg (Sep 2018- Sep 2019 )
-  education2: PhD, Engineering/Computational sciences, University of Luxembourg, Luxembourg (Sep 2014-Sep 2018) and University of Liege, Belgium (Sep 2015-Sep 2018)
-  education3: MSc, Applied mechanics, University of Tehran, Iran (Sep 2010-May 2013)
-  education4: BSc, Mechanical engineering (solid mechanics), University of Tabriz, Iran (Sep 2006- Sep 2010)
 
 - name: Kangrui Wang
   photo: kangrui_wang.jpg
@@ -106,12 +94,13 @@
 
 - name: Jan Povala
   photo: jan_povala.jpg
-  info: Jan is a PhD student in the Statistics Section at Imperial College London, supervised by Professor Niall Adams and Professor Mark Girolami. His research is focused on statistical spatio-temporal models. During his PhD he was seconded to the Strategic Insights Unit of the Metropolitan Police Service.
+  info: Jan is a Research Associate at the Alan Turing Institute, supervised by Professor Mark Girolami and Professor Tim Dodwell. His research is focused on statistical spatio-temporal models. During his PhD he was seconded to the Strategic Insights Unit of the Metropolitan Police Service.
   email: jan.povala11@imperial.ac.uk
   website: https://jan.povala.com
-  number_educ: 2
-  education1: MRes in Financial Computing, University College London (2018)
-  education2: MEng in Computing, Imperial College London (2015)
+  number_educ: 3
+  education1: PhD in Statistics, Imperial College London (2022)
+  education2: MRes in Financial Computing, University College London (2018)
+  education3: MEng in Computing, Imperial College London (2015)
 
 - name: Yannis Zachos
   photo: yannis_zachos.jpg

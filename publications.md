@@ -15,6 +15,12 @@ For the full list of publications, scroll down.
 
 ## All publications
     
+Connor Duffin, Edward Cripps, Thomas Stemler, and Mark Girolami.
+Low-rank statistical finite elements for scalable model-data synthesis.
+*Journal of Computational Physics*, 463:111261, aug 2022. URL:
+<https://doi.org/10.1016%2Fj.jcp.2022.111261>,
+[doi:10.1016/j.jcp.2022.111261](https://doi.org/10.1016/j.jcp.2022.111261).
+
 Jan Povala, Ieva Kazlauskaite, Eky Febrianto, Fehmi Cirak, and Mark
 Girolami. Variational bayesian approximation of inverse problems using
 sparse precision matrices. *Computer Methods in Applied Mechanics and
@@ -29,6 +35,13 @@ wings. *Mechanical Systems and Signal Processing*, 172:108918, jun 2022.
 URL: <https://doi.org/10.1016%2Fj.ymssp.2022.108918>,
 [doi:10.1016/j.ymssp.2022.108918](https://doi.org/10.1016/j.ymssp.2022.108918).
 
+Lawrence A. Bull, Nikolaos Dervilis, Keith Worden, Elizabeth J. Cross,
+and Timothy J. Rogers. A sampling-based approach for
+information-theoretic inspection management. *Proceedings of the Royal
+Society A: Mathematical, Physical and Engineering Sciences*, jun 2022.
+URL: <https://doi.org/10.1098%2Frspa.2021.0790>,
+[doi:10.1098/rspa.2021.0790](https://doi.org/10.1098/rspa.2021.0790).
+
 L.A. Bull, P.A. Gardner, T.J. Rogers, N. Dervilis, E.J. Cross,
 E. Papatheou, A.E. Maguire, C. Campos, and K. Worden. Bayesian modelling
 of multivalued power curves from an operational wind farm. *Mechanical
@@ -41,6 +54,12 @@ K. Worden. On risk-based active learning for structural health
 monitoring. *Mechanical Systems and Signal Processing*, 167:108569, mar
 2022. URL: <https://doi.org/10.1016%2Fj.ymssp.2021.108569>,
 [doi:10.1016/j.ymssp.2021.108569](https://doi.org/10.1016/j.ymssp.2021.108569).
+
+Domenic Di Francesco, Mark Girolami, Andrew B. Duncan, and Marios
+Chryssanthopoulos. A probabilistic model for quantifying uncertainty in
+the failure assessment diagram. *Structural Safety*, 99:102262, nov
+2022. URL: <https://doi.org/10.1016%2Fj.strusafe.2022.102262>,
+[doi:10.1016/j.strusafe.2022.102262](https://doi.org/10.1016/j.strusafe.2022.102262).
 
 H. Rappel, M. Girolami, and L. A. A. Beex. Intercorrelated random fields
 with bounds and the bayesian identification of their parameters:
@@ -85,6 +104,11 @@ Mark Girolami. Continuous calibration of a digital twin: comparison of
 particle filter and bayesian calibration approaches. *Data-Centric
 Engineering*, 2021. URL: <https://doi.org/10.1017%2Fdce.2021.12>,
 [doi:10.1017/dce.2021.12](https://doi.org/10.1017/dce.2021.12).
+
+Ömer Deniz Akyildiz and Joaquı́n Mı́guez. Convergence rates for optimised
+adaptive importance samplers. *Statistics and Computing*, jan 2021. URL:
+<https://doi.org/10.1007%2Fs11222-020-09983-1>,
+[doi:10.1007/s11222-020-09983-1](https://doi.org/10.1007/s11222-020-09983-1).
 
 P Gardner, LA Bull, N Dervilis, and K Worden. Overcoming the problem of
 repair in structural health monitoring: metric-informed transfer
@@ -137,6 +161,14 @@ sigma-point filters. *IEEE Transactions on Automatic Control*,
 <https://doi.org/10.1109%2Ftac.2020.2991698>,
 [doi:10.1109/tac.2020.2991698](https://doi.org/10.1109/tac.2020.2991698).
 
+Onur Teymur, Christopher N. Foley, Philip G. Breen, Toni Karvonen, and
+Chris J. Oates. Black box probabilistic numerics. In M. Ranzato,
+A. Beygelzimer, Y. Dauphin, P.S. Liang, and J. Wortman Vaughan, editors,
+*Advances in Neural Information Processing Systems 34 pre-proceedings
+(NeurIPS 2021)*, volume 34, 23452-----23464. 2021. Conference on Neural
+Information Processing System, NeurIPS 2021 ; Conference date:
+06-12-2021 Through 14-12-2021.
+
 Toni Karvonen, Simo Sarkka, and Christos Merkatas. Gaussian
 approximations of sdes in metropolis-adjusted langevin algorithms. In
 *31st IEEE International Workshop on Machine Learning for Signal
@@ -168,6 +200,12 @@ Toni Karvonen, Zheng Zhao, Roland Hostettler, and Simo Sarkka. Taylor
 moment expansion for continuous-discrete gaussian filtering and
 smoothing. *IEEE Transactions on Automatic Control*, 66(9):4460--4467,
 2021.
+
+Domenic Di Francesco, Marios Chryssanthopoulos, Michael Havbro Faber,
+and Ujjwal Bharadwaj. Decision-theoretic inspection planning using
+imperfect and incomplete data. *Data-Centric Engineering*, 2021. URL:
+<https://doi.org/10.1017%2Fdce.2021.18>,
+[doi:10.1017/dce.2021.18](https://doi.org/10.1017/dce.2021.18).
 
 Maharshi Dhada, Mark Girolami, and Ajith Kumar Parlikad. Anomaly
 detection in a fleet of industrial assets with hierarchical statistical
@@ -293,6 +331,14 @@ Control and Optimization*, 58(4):2023--2049, 2020.
 Toni Karvonen and Simo Sarkka. Worst-case optimal approximation with
 increasingly flat gaussian kernels. *Advances in Computational
 Mathematics*, 2020.
+
+Domenic Di Francesco, Marios Chryssanthopoulos, Michael Havbro Faber,
+and Ujjwal Bharadwaj. Consistent and coherent treatment of uncertainties
+and dependencies in fatigue crack growth calculations using multi-level
+bayesian models. *Reliability Engineering &amp$\mathsemicolon$ System
+Safety*, 204:107117, dec 2020. URL:
+<https://doi.org/10.1016%2Fj.ress.2020.107117>,
+[doi:10.1016/j.ress.2020.107117](https://doi.org/10.1016/j.ress.2020.107117).
 
 Ivan Ustyuzhaninov\*, Ieva Kazlauskaite\*, Markus Kaiser, Erik Bodin,
 Neill Campbell, and Carl Henrik Ek. Compositional uncertainty in deep

@@ -23,18 +23,62 @@ Ieva Kazlauskaite (October 2020 - March 2021)
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-06-24 - A Physics-based Domain Adaptation framework for modeling and forecasting building energy - [Zack Xuereb Conti](https://www.xonti.co/)
+2022-12-09 - TBC - [Andrew Duncan](https://www.imperial.ac.uk/people/a.duncan)
 {% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
 {% capture summary %}
-2022-07-01 - Accelerated Sampling on Discrete Spaces with Non-Reversible Markov Jump Processes - [Sam Power](https://sites.google.com/view/sp-monte-carlo)
+2022-12-02 - Incorporating physics into kernel functions for structural dynamics - [Matthew Jones](https://www.sheffield.ac.uk/mecheng/people/research/matthew-jones)
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+TBC - Accelerated Sampling on Discrete Spaces with Non-Reversible Markov Jump Processes - [Sam Power](https://sites.google.com/view/sp-monte-carlo)
 {% endcapture %}{% include details.html %}
 
 ## Past talks
 
+### Michaelmas Term 2022
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-11-25 - Discussing: [Spectral likelihood expansions for Bayesian inference](https://arxiv.org/abs/1506.07564) (Joseph B. Nagel, Bruno Sudret) - [George Wynne](https://www.imperial.ac.uk/people/g.wynne18)
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-11-18 - EVT-informed Inferences for Extreme Events - [Miguel de Carvalho](https://www.maths.ed.ac.uk/~mdecarv/)
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-10-21 - Bayesian Assessments of Jet Engine Performance: Averaging, Transfer Learning, and Anomaly Detection - [Pranay Seshadri](https://www.psesh.com)
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-09-30 - Autoencoders for Reduced Order Modelling of Nonlinear Dynamics - [Thomas Simpson](https://chatzi.ibk.ethz.ch/about-us/people/research-staff/thomas-simpson.html)
+{% endcapture %}{% include details.html %}
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-09-16 - Modelling in the Context of Decision Making Subject to Uncertainry - [Prof. Michael Havbro Faber](https://vbn.aau.dk/en/persons/100493)
+{% endcapture %}{% include details.html %}
+
 ### Easter term 2022
+
+{% capture details %}
+{% endcapture %}
+{% capture summary %}
+2022-06-24 - A Physics-based Domain Adaptation framework for modeling and forecasting building energy - [Zack Xuereb Conti](https://www.xonti.co/)
+{% endcapture %}{% include details.html %}
 
 {% capture details %}
 {% endcapture %}
