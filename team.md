@@ -72,7 +72,7 @@ permalink: /team
 {% endfor %}
 </div>
 
-## Alumni members
+## Alumni members ##
 
 <ul>
 {% for member in site.data.alumni_members %}
