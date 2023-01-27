@@ -16,12 +16,12 @@
   
 - name: Lawrence Bull
   photo: lawrence_bull.png
-  info: Lawrence is a Research Associate at The Alan Turing Institute, in the Data-Centric engineering programme. His research considers probabilistic methods for performance and health monitoring, focussing on systems-level digital twins and partially supervised inference. Previously, he worked on statistical tools for the development of structural health monitoring in the Dynamics Research Group at the University of Sheffield.
+  info: Lawrence is a researcher in statistical methods for monitoring telemetry data from systems and infrastructure. He is particularly interested in multilevel structures that appear in measurements from populations of systems. By encoding domain expertise in a Bayesian workflow, complex models can be built from interpretable units, allowing machines to share information and increasing the value of data. At the population level, alternative insights can emerge that might otherwise be missed – the whole is something besides its parts. Previously, he worked at the Alan Turing Institute and the Dynamics Research Group in the University of Sheffield.
   email: l.a.bull@sheffield.ac.uk
   website: https://labull.github.io/
-  number_educ: 2
-  education1: PhD in Engineering, University of Sheffield, UK (2019)
-  education2: MEng Mechanical Engineering, University of Sheffield, UK (2016)
+  number_educ: 3
+  education2: PhD in Engineering, University of Sheffield, UK (2019)
+  education3: MEng Mechanical Engineering, University of Sheffield, UK (2016)
   
 - name: Domenic Di Francesco
   photo: Dom_DiFrancesco.jpg
@@ -84,7 +84,7 @@
   number_educ: 2
   education1: MPhil in Machine Learning and Machine Intelligence, University of Cambridge (2019)
   education2: BEng in Computer Engineering, Concordia University (2016)
-  
+
 - name: Alex Glyn-Davies
   photo: alex_glyn_davies.jpg
   info: Alex is a PhD student at the Cambridge University Engineering Department, supervised by Professor Mark Girolami.  His PhD is sponsored by Splunk Inc, and will be researching machine learning for data streaming applications.  He completed a MEng at Cambridge, with his masters thesis focussing on efficient parameter estimation for particle filtering algorithms.
@@ -92,6 +92,16 @@
   email: ag933@cam.ac.uk
   number_educ: 1
   education1: MEng in Information and Computer Engineering, University of Cambridge (2020)
+
+- name: Thomas Gaskin
+  photo: thomas_gaskin.jpg
+  info: Thomas is a PhD student at the Department of Applied Mathematics and Theoretical Physics, working on topics combining graph topology and network dynamics, stochastic modelling, and machine learning. He is interested in modelling and calibrating dynamical systems using neural differential equations, and understanding the complex behaviour self-organisation, spanning a wide area of application, including social network dynamics, the spread of contagious diseases, and economic activity. Thomas is also a maintainer at the Utopia project, a complex systems modelling framework, and is currently working as a visiting researcher at the Department of Mathematics, Imperial College London.
+  website: https://www.damtp.cam.ac.uk/person/trg34
+  email: trg34@cam.ac.uk
+  number_educ: 2
+  education2: M.Sc. Physics, Heidelberg University. Focus on Complex Systems. (2018–2020)
+  education4: B.Sc. Mathematics, Heidelberg University, Germany. Focus on Topology. (2017–2020)
+  education5: B.Sc. Physics, Heidelberg University, Germany. Focus on Mathematical Physics. (2014–2018)
 
 - name: Andrius Ovsianas
   photo: andrius-ovsianas.jpg
