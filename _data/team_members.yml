@@ -98,10 +98,10 @@
   info: Thomas is a PhD student at the Department of Applied Mathematics and Theoretical Physics, working on topics combining graph topology and network dynamics, stochastic modelling, and machine learning. He is interested in modelling and calibrating dynamical systems using neural differential equations, and understanding the complex behaviour self-organisation, spanning a wide area of application, including social network dynamics, the spread of contagious diseases, and economic activity. Thomas is also a maintainer at the Utopia project, a complex systems modelling framework, and is currently working as a visiting researcher at the Department of Mathematics, Imperial College London.
   website: https://www.damtp.cam.ac.uk/person/trg34
   email: trg34@cam.ac.uk
-  number_educ: 2
-  education2: M.Sc. Physics, Heidelberg University. Focus on Complex Systems. (2018–2020)
-  education4: B.Sc. Mathematics, Heidelberg University, Germany. Focus on Topology. (2017–2020)
-  education5: B.Sc. Physics, Heidelberg University, Germany. Focus on Mathematical Physics. (2014–2018)
+  number_educ: 3
+  education1: M.Sc. Physics, Heidelberg University. Focus on Complex Systems. (2018–2020)
+  education2: B.Sc. Mathematics, Heidelberg University, Germany. Focus on Topology. (2017–2020)
+  education3: B.Sc. Physics, Heidelberg University, Germany. Focus on Mathematical Physics. (2014–2018)
 
 - name: Andrius Ovsianas
   photo: andrius-ovsianas.jpg
