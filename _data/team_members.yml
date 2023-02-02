@@ -16,7 +16,7 @@
   
 - name: Lawrence Bull
   photo: lawrence_bull.png
-  info: Lawrence is a researcher in statistical methods for monitoring telemetry data from systems and infrastructure. He is particularly interested in multilevel structures that appear in measurements from populations of systems. By encoding domain expertise in a Bayesian workflow, complex models can be built from interpretable units, allowing machines to share information and increasing the value of data. At the population level, alternative insights can emerge that might otherwise be missed – the whole is something besides its parts. Previously, he worked at the Alan Turing Institute and the Dynamics Research Group in the University of Sheffield.
+  info: Lawrence is a research associate in the Engineering Dept. at the University of Cambridge, within the Computational Statistics and Machine Learning group. He researches statistical methods for monitoring telemetry data from systems and infrastructure, working closely with the Cambridge Centre for Smart Infrastructure and Construction (CSIC). Previously, he worked at the Alan Turing Institute in the Data-Centric Engineering programme and the Dynamics Research Group at the University of Sheffield.
   email: l.a.bull@sheffield.ac.uk
   website: https://labull.github.io/
   number_educ: 2
