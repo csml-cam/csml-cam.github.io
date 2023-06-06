@@ -91,10 +91,12 @@ if __name__ == '__main__':
             except (KeyError, TypeError):
                 logging.info("Unable to extract DOI.")
             try:
-                orcid_bib_style = orcid_full_entry['citation']['citation-type'].lower()
-                if orcid_bib_style == 'bibtex':
-                    pub_list.append((orcid_id, put_code, year, entry_doi, orcid_full_entry['citation']['citation-value']))
-                # key exists in dict
+                orcid_citation = orcid_full_entry['citation']
+                if orcid_citation is not None:
+                    orcid_bib_style = orcid_citation['citation-type'].lower()
+                    if orcid_bib_style == 'bibtex':
+                        pub_list.append((orcid_id, put_code, year, entry_doi, orcid_full_entry['citation']['citation-value']))
+                    # key exists in dict
             except (KeyError, TypeError):
                 logging.info("No bibtex available, trying DOI lookup.")
                 try:
