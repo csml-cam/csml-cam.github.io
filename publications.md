@@ -14,6 +14,12 @@ For the full list of publications, scroll down.
 
 
 ## All publications
+
+Zachos, Ioannis, Damoulas, Theodoros, & Girolami, Mark. 
+Table inference for combinatorial origin-destination choices in agent-based population synthesis. 
+*Stat*, 13(1), e656, mar 2024. URL:
+<https://doi.org/10.1002/sta4.656>,
+[doi:10.1002/sta4.656](https://doi.org/10.1002/sta4.656).
     
 Connor Duffin, Edward Cripps, Thomas Stemler, and Mark Girolami.
 Low-rank statistical finite elements for scalable model-data synthesis.
