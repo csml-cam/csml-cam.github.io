@@ -4,24 +4,6 @@
   email: mag92@cam.ac.uk
   website: https://prof-girolami.uk/
   number_educ: 0
-
-- name: Alessandro Barp
-  photo: alessandro_barp.jpg
-  info: Alessandro is a Research Associate (postdoc) in the Engineering Department at the University of Cambridge and a visiting researcher at The Alan Turing Institute. His research focuses on the empowerment of measures via the geometrisation of statistical methods, such as Hamiltonian Monte Carlo and kernel algorithms built with Stein operators. After having completed the MMathPhys of The University of Warwick and Part III of the Mathematical Tripos at Cambridge, he received his PhD from Imperial College London.
-  email: ab2286@cam.ac.uk
-  number_educ: 3
-  education1: PhD in Mathematics, Imperial College London, UK (2020)
-  education2: MASt Part III of the Mathematical Tripos, University of Cambridge, UK (2016)
-  education3: MMathPhys, University of Warwick, UK  (2015)
-  
-- name: Lawrence Bull
-  photo: lawrence_bull.png
-  info: Lawrence is a research associate in the Engineering Dept. at the University of Cambridge, within the Computational Statistics and Machine Learning group. He researches statistical methods for monitoring telemetry data from systems and infrastructure, working closely with the Cambridge Centre for Smart Infrastructure and Construction (CSIC). Previously, he worked at the Alan Turing Institute in the Data-Centric Engineering programme and the Dynamics Research Group at the University of Sheffield.
-  email: l.a.bull@sheffield.ac.uk
-  website: https://labull.github.io/
-  number_educ: 2
-  education1: PhD in Engineering, University of Sheffield, UK (2019)
-  education2: MEng Mechanical Engineering, University of Sheffield, UK (2016)
   
 - name: Domenic Di Francesco
   photo: Dom_DiFrancesco.jpg
@@ -31,42 +13,6 @@
   number_educ: 2
   education1: PhD in Engineering, University of Surrey, UK (2021)
   education2: MEng Mechanical Engineering, Durham University, UK (2012)
-
-- name: Connor Duffin
-  photo: connor_duffin.jpg
-  info: Connor is Research Associate (postdoc) in the Engineering Department at the University of Cambridge, having previously completed his Ph.D. in the Department of Mathematics and Statistics at the University of Western Australia. He is funded by the PREMIERE grant. His research focusses on developing statistical methodology to combine nonlinear differential equations with observed data. 
-  email: cpd32@cam.ac.uk
-  website: https://connor-duffin.github.io
-  number_educ: 2
-  education1: PhD in Mathematics and Statistics, University of Western Australia (2022).
-  education2: BSc (Hons) in Mathematics and Statistics, University of Western Australia (2018).
-
-- name: Ieva Kazlauskaite
-  photo: ieva_kazlauskaite.jpg
-  info: Ieva is a Biometrika Fellow in the Engineering Department at the University of Cambridge. Her current research is in the area of data-centric engineering, focusing on structural problems and ways to combine statistical and numerical approaches to solutions of differential equations. Prior to that, Ieva completed her doctoral degree at the University of Bath working on Gaussian processes. During her doctoral studies she spent 3 years in industry as a Research Engineer / Engineering Doctorate student at the Frostbite Physics Team at Electronic Arts.
-  email: ik394@cam.ac.uk
-  number_educ: 2
-  education1: Engineering Doctorate in Computer Science, University of Bath, UK (2020)
-  education2:  MMath in Mathematics, University of Durham, UK (2014)
-
-- name: Jan Povala
-  photo: jan_povala.jpg
-  info: Jan is a Research Associate at the Alan Turing Institute, supervised by Professor Mark Girolami and Professor Tim Dodwell. His research is focused on statistical spatio-temporal models. During his PhD he was seconded to the Strategic Insights Unit of the Metropolitan Police Service.
-  email: jan.povala11@imperial.ac.uk
-  website: https://jan.povala.com
-  number_educ: 3
-  education1: PhD in Statistics, Imperial College London (2022)
-  education2: MRes in Financial Computing, University College London (2018)
-  education3: MEng in Computing, Imperial College London (2015)
-
-- name: Kangrui Wang
-  photo: kangrui_wang.jpg
-  info: Kangrui is a Research Associate in the Engineering Department at the University of Cambridge. His research focus on stochastic modelling of high-dimensional data and developing non-stationary non-separable kernels for Gaussian process based models. His interest also lies in the application of deep Gaussian processes to non-stationary spatio-temporal problems. Before joining the group, he was a research associate in the Alan Turing Institute under London air quality project.
-  email: kw541@cam.ac.uk
-  number_educ: 3
-  education1: PhD in Applied math, University of Leicester, UK
-  education2: MSc in Actuarial Science, University of Leicester, UK
-  education3: BSc in Finance, East China University of Political Science and Law, China
 
 - name: Ben Boys
   photo: ben_boys.jpg
